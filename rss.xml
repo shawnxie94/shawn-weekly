@@ -6,17 +6,17 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>feedId:106642906166709248+userId:73601809993285632</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Mar 2025 11:41:31 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Mar 2025 11:41:31 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Mar 2025 15:23:56 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Mar 2025 15:23:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
-      <title>肖恩技术周刊（第 39 期）：战斗，爽！</title>
-      <link>https://weekly.shawnxie.top/content/2025/39.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/39.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 39 期）：战斗，爽！</source>
-      <description>肖恩技术周刊（第 39 期）：战斗，爽！ 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 开篇图 狩猎解禁！这作新增的“...</description>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+      <title>肖恩技术周刊（第 41 期）：疲乏</title>
+      <link>https://weekly.shawnxie.top/content/2025/41.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/41.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 41 期）：疲乏</source>
+      <description>肖恩技术周刊（第 41 期）：疲乏 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 开篇图 最近有点疲乏，感觉需要一个长...</description>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
 <p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
@@ -26,59 +26,45 @@
 <img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
 </blockquote>
 <h2>开篇图</h2>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022307235.png" alt=""></p>
-<p>狩猎解禁！这作新增的“相杀“机制真的是太爽了，与怪物硬碰硬，正反馈拉满。虽然剧情还是一如既往的拉胯，但玩怪物猎人谁看剧情呢。人物捏脸也精细多了，看板娘也终于正常了，不用像世界那样被aibo折磨了。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162321907.png" alt=""></p>
+<p>最近有点疲乏，感觉需要一个长假期来恢复一下情绪。</p>
 <h2>业界资讯</h2>
-<h3><a class="header-anchor" href="#刚刚-gpt-4-5问世-openai迄今最大、最贵模型-api价格飞涨30倍-不拼推理拼情商"><span></span></a><a href="https://mp.weixin.qq.com/s/GtLcOA1aF_7bm8J69dqqog" target="_blank" rel="noopener noreferrer">刚刚，GPT-4.5问世！OpenAI迄今最大、最贵模型，API价格飞涨30倍，不拼推理拼情商</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022304263.png" alt=""></p>
-<p>2025年2月28日，OpenAI发布了其最新聊天模型GPT-4.5。该模型是OpenAI迄今为止最大、最强的模型，强调“情商”和自然交互能力的提升。GPT-4.5通过扩展无监督学习，增强了模式识别、创造性见解和减少幻觉的能力，但并非推理模型。其知识库更广泛，能更好地遵循用户意图，尤其在写作、编程和解决问题方面表现出色。测试显示，GPT-4.5在事实性回答、人类协作等方面优于前代模型，但在数学和编程能力上仍逊色于部分推理模型。目前，GPT-4.5支持搜索、文件和图片上传等功能，未来将扩展多模态功能。API价格因计算资源需求大幅上涨，每1M token收费75美元，比GPT-4o高出30倍。OpenAI仍在评估是否长期提供GPT-4.5 API。</p>
-<h3><a class="header-anchor" href="#全球首个混合推理模型-claude-3-7-sonnet来袭-真实编码力压一切对手"><span></span></a><a href="https://mp.weixin.qq.com/s/RzdrxKbHKKqtN-FvbOQsZw" target="_blank" rel="noopener noreferrer">全球首个混合推理模型：Claude 3.7 Sonnet来袭，真实编码力压一切对手</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022304348.png" alt=""></p>
-<p>Anthropic 发布了其迄今为止最智能的模型 Claude 3.7 Sonnet，这是市面上首款混合推理模型，具有标准和扩展思考模式，用户可通过 API 对思考时间进行细粒度控制。同时推出的 Claude Code 工具，使开发人员能从终端将工程任务委托给 Claude。Claude 3.7 Sonnet 在编码和前端 web 开发方面表现出色，成为 Anthropic 最佳编码模型，可通过多种计划和平台使用，价格与前代相同。该模型在多个基准测试中表现优异，尤其在 SWE-bench Verified 和 TAU-bench 上实现 SOTA 性能。Anthropic 还对模型进行了安全性和可靠性评估，未来希望 Claude 能成为独立自主工作的专家级智能体，解决复杂难题。</p>
-<h3><a class="header-anchor" href="#_90后北大校友破解挂谷猜想-陶哲轩激动转发-网友-预定菲尔兹奖"><span></span></a><a href="https://www.qbitai.com/2025/02/259906.html" target="_blank" rel="noopener noreferrer">90后北大校友破解挂谷猜想，陶哲轩激动转发！网友：预定菲尔兹奖</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022304825.png" alt=""></p>
-<p>近日，北大校友王虹与哥大数学副教授Joshua Zahl在三维空间中证明了困扰数学家上百年的挂谷猜想（Kakeya猜想），引发广泛关注。该猜想由日本数学家挂谷宗一于1917年提出，断言包含每个方向上单位长度线段的集合（Kakeya集）在三维空间中具有Minkowski和Hausdorff维度等于3。王虹和Zahl通过127页论文，采用多尺度分析技术，引入非聚集条件、Wolff公理等进行论证，最终证明了猜想。王虹1991年出生于广西桂林平乐县，16岁考入北大地球与空间物理系后转入数学系，2011年获学士学位，后在巴黎综合理工学院、巴黎第十一大学、麻省理工大学深造，目前是纽约大学数学系副教授。此次突破使她成为2026年菲尔兹奖热门人选，有望成为首位中国籍女性菲尔兹奖得主。</p>
+<h3><a class="header-anchor" href="#openai发布构建智能体新工具"><span></span></a><a href="https://openai.com/index/new-tools-for-building-agents/" target="_blank" rel="noopener noreferrer">OpenAI发布构建智能体新工具</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162229201.png" alt=""></p>
+<p>OpenAI于2025年3月11日发布了一系列新工具，旨在简化智能代理（agents）的开发，帮助开发者和企业构建更可靠、高效的自主任务执行系统。新工具包括Responses API、内置工具（如网络搜索、文件搜索和计算机使用）以及Agents SDK。Responses API结合了Chat Completions的简单性和Assistants API的工具使用能力，支持开发者通过单一调用完成复杂任务。内置工具通过连接现实世界数据提升模型实用性，例如网络搜索在SimpleQA基准测试中准确率达90%。Agents SDK则用于协调单代理或多代理工作流，支持开发者快速构建和部署智能代理系统，已在Coinbase和Box等企业的实际应用中取得成功。OpenAI计划在未来继续扩展这些工具，推动智能代理在各行业的广泛应用。</p>
+<h3><a class="header-anchor" href="#李飞飞团队具身智能新作-500美元-一切家务机器人帮你干"><span></span></a><a href="https://m.thepaper.cn/newsDetail_forward_30373788" target="_blank" rel="noopener noreferrer">李飞飞团队具身智能新作：500美元，一切家务机器人帮你干</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162253061.png" alt=""></p>
+<p>李飞飞团队推出具身智能新作BRS框架，旨在解决机器人家庭任务中的全身操作问题。研究基于Galaxea R1机器人，通过分析BEHAVIOR-1K基准测试，确定了三项关键全身控制能力：双臂协同、稳定导航和末端执行器的广泛操作性。团队提出两项创新：一是JoyLo，一种低成本全身遥操作接口，利用任天堂Joy-Con控制器实现高效全身控制，具备高数据收集效率和良好的用户体验；二是WB-VIMA学习算法，基于Transformer架构，通过自回归去噪和多模态注意力机制，解决机器人全身协调运动难题，显著提升任务成功率并减少错误。实验表明，BRS在清洁、倒垃圾等家庭任务中表现出色。该框架已开源，为家庭机器人研究提供了重要参考。</p>
 <h2>技术博客</h2>
-<h3><a class="header-anchor" href="#亚马逊s3是如何以99-999999999-的持久性存储350万亿个对象-英文"><span></span></a><a href="https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion" target="_blank" rel="noopener noreferrer">亚马逊S3是如何以99.999999999%的持久性存储350万亿个对象（英文）</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022301471.png" alt=""></p>
-<p>本文详细介绍了亚马逊S3如何存储350万亿个对象，并实现99.999999999%（11个9）的持久性。S3是亚马逊于2006年推出的云存储服务，已成为现代云计算基础设施的核心。它支持从个人开发者到大型企业的各种需求，提供可扩展、安全且易于使用的存储解决方案。S3通过自动扩展存储容量、提供多种存储类别（如S3标准、智能分层、冰川和S3 Express One Zone）以及与AWS其他服务（如Lambda、CloudFront、Athena等）的集成，满足不同数据访问频率和成本优化的需求。</p>
-<p>S3的架构基于微服务设计，包含超过350个微服务，分布在多个AWS区域和可用区，负责存储、检索和保护数据。其前端请求处理服务接收API请求，进行身份验证和路由；索引和元数据服务通过分布式索引跟踪对象位置；存储和数据放置服务使用纠删码和多可用区复制保护数据；读写优化服务通过多部分上传和缓存提高性能；持久性和恢复服务通过校验和验证和自动修复确保数据完整性；安全和合规服务则保护数据免受未经授权的访问和网络威胁。</p>
-<p>S3的数据写入过程包括客户端发送写入请求、DNS解析和路由、负载均衡器和Web服务器处理请求、对象索引到元数据存储、数据放置和存储，最后向客户端发送响应。S3的索引系统通过分布式索引和键分区引擎实现快速查找和高并发处理，支持超过1亿次/秒的请求处理能力，同时通过动态分区和负载均衡避免热点问题。</p>
-<p>S3的演变历程包括从全球模型到区域模型的转变、引入Glacier、增强性能和安全性、集成AI和分析能力、推出智能分层和S3 Select等功能。S3的持久性和高可用性得益于多可用区存储、自动扩展和AI驱动的预测性扩展策略。通过这些技术，S3成为支持媒体流、人工智能工作负载、实时分析和关键任务应用的基石。</p>
-<h3><a class="header-anchor" href="#如何扩展你的模型-英文"><span></span></a><a href="https://jax-ml.github.io/scaling-book/" target="_blank" rel="noopener noreferrer">如何扩展你的模型（英文）</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022302612.png" alt=""></p>
-<p>一本面向机器学习研究者和工程师的实用指南，旨在帮助读者深入理解Transformer架构、硬件优化以及大规模模型训练和推理的实践技巧。文中强调了硬件与算法协同设计的重要性，并通过丰富的案例和工具支持，帮助读者实现模型性能的最大化。</p>
-<p>文章首先介绍了深度学习中“模型扩展”的重要性，指出即使是小型模型也常常接近硬件极限，因此研究者需要关注大规模效率。作者通过屋顶线分析（Roofline Analysis）解释了计算、通信和内存如何限制模型的扩展能力，并详细讨论了TPU和GPU的工作原理以及它们如何通过有限带宽和延迟的互连网络协同工作。此外，文中还探讨了矩阵乘法的性能瓶颈以及如何利用硬件特性优化模型。</p>
-<p>在Transformer架构方面，文中深入分析了其参数数量、FLOPs（浮点运算次数）的计算以及KV缓存的大小。通过数学分析，作者展示了如何计算Transformer在训练和推理过程中的计算量和内存使用。文中还讨论了四种主要的模型并行化技术：数据并行、张量并行、流水线并行和专家并行，这些技术可以帮助研究者在给定硬件平台上高效地训练和推理大规模模型。此外，文中还介绍了其他优化技术，如重计算、优化器/模型分片（ZeRO）、主机卸载和梯度累积。</p>
-<p>文中通过LLaMA-3模型的训练和推理案例，展示了如何将理论应用于实际问题，并讨论了在TPU上训练和推理LLaMA-3的成本、时间和性能优化策略。此外，文中还介绍了如何使用JAX和XLA（加速线性代数）堆栈进行性能分析，并提供了使用JAX/TensorBoard分析器调试和优化代码的实用指南。</p>
-<h3><a class="header-anchor" href="#核心-git-开发人员如何配置-git-英文"><span></span></a><a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/" target="_blank" rel="noopener noreferrer">核心 Git 开发人员如何配置 Git（英文）</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022300933.png" alt=""></p>
-<p>文章分享了Git核心开发者常用的配置方法，旨在帮助用户优化Git的使用体验。作者将配置分为三类：明显提升效率的配置、值得尝试的配置以及因人而异的配置。</p>
-<p><strong>明显提升效率的配置</strong>包括优化分支和标签的排序（如branch.sort和tag.sort）、设置默认分支名称（init.defaultBranch）、改进diff显示（如diff.colorMoved和diff.renames）、优化推送和抓取行为（如push.default和fetch.prune）。这些配置可以显著提升Git的可读性和操作效率。</p>
-<p><strong>值得尝试的配置</strong>  包括自动纠正提示（help.autocorrect）、提交时显示diff（commit.verbose）、记录冲突解决方案（rerere.enabled）、全局忽略文件（core.excludesfile）和优化变基体验（如rebase.autoSquash）。这些配置提供了额外的便利性和上下文信息，帮助用户更好地管理代码。</p>
-<p><strong>因人而异的配置</strong>  包括改进合并冲突显示（merge.conflictstyle）、设置拉取行为（pull.rebase）和运行文件系统监视器（core.fsmonitor）。这些配置需要根据个人偏好和项目需求选择。</p>
+<h3><a class="header-anchor" href="#如何使用大型语言模型来辅助编写代码-英文"><span></span></a><a href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/" target="_blank" rel="noopener noreferrer">如何使用大型语言模型来辅助编写代码（英文）</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162227294.png" alt=""></p>
+<p>文章中分享了使用大型语言模型（LLM）辅助编程的经验。作者认为LLM更像是高级自动补全工具，能够加速开发过程，但需要合理设定期望。LLM的训练截止日期限制了其对代码库的熟悉程度，因此开发者需选择稳定的库。上下文管理是关键，清晰的对话和指令能让LLM更好地生成代码。作者还强调测试LLM生成代码的重要性，并建议利用支持运行代码的工具来快速迭代。</p>
+<p>通过具体案例，如使用Claude Code创建展示工具提交历史的页面，作者展示了LLM在快速开发中的优势。LLM的最大价值在于加速想法实现，帮助开发者快速尝试新方案并学习新技能。同时，LLM并不能替代人类的专业知识和直觉，而是增强现有能力的工具。作者还提到“氛围编码”的学习方式，即通过随意提出想法来快速了解LLM的能力和局限性。总之，LLM是开发者强大的辅助工具，能够提升效率并拓展知识边界。</p>
+<h3><a class="header-anchor" href="#mcp-终极指南"><span></span></a><a href="https://guangzhengli.com/blog/zh/model-context-protocol/" target="_blank" rel="noopener noreferrer">MCP 终极指南</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162259713.png" alt=""></p>
+<p>文章主要介绍了由 Anthropic 公司主导发布的 Model Context Protocol（MCP）及其在 AI 应用层开发中的重要性。过去 AI 模型与现有系统集成缓慢，而 MCP 作为一种开放、通用的协议标准，能够使 AI 模型与不同 API 和数据源无缝交互，推动了 AI 应用与现有服务的集成。文章还对比了 Function Calling、AI Agent 和 MCP 三者之间的区别，并详细阐述了 MCP 的工作原理，包括其架构中的 Hosts、Clients、Servers 等部分，以及如何通过创建 MCP Server 来实现 AI Agent 的自动化功能，最后提供了 MCP 的一些资源和使用建议。</p>
 <h2>开源项目</h2>
-<h3><a class="header-anchor" href="#chinese-weekly-hub-中文周刊合集"><span></span></a><a href="https://github.com/shawnxie94/chinese-weekly-hub" target="_blank" rel="noopener noreferrer">chinese-weekly-hub：中文周刊合集</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022245991.png" alt=""></p>
-<p>有意思的<code>中文周刊</code>，拓宽视野，打破信息差。</p>
-<h3><a class="header-anchor" href="#watermark-removal-ai去水印"><span></span></a><a href="https://github.com/zuruoke/watermark-removal" target="_blank" rel="noopener noreferrer">watermark-removal：AI去水印</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022246241.png" alt=""></p>
-<p>利用AI去除水印。</p>
-<h3><a class="header-anchor" href="#docling-文档和ai之间的桥梁"><span></span></a><a href="https://github.com/DS4SD/docling" target="_blank" rel="noopener noreferrer">docling：文档和AI之间的桥梁</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022250314.png" alt=""></p>
-<p>Docling是一个由IBM开发的开源工具，旨在简化文档处理流程。它支持多种文档格式（如PDF、DOCX、XLSX、HTML等）的解析，并提供与生成式人工智能生态系统的无缝集成。</p>
+<h3><a class="header-anchor" href="#mermaid-图标工具"><span></span></a><a href="https://github.com/mermaid-js/mermaid" target="_blank" rel="noopener noreferrer">mermaid：图标工具</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162226254.png" alt=""></p>
+<p>Mermaid 是一个基于 JavaScript 的图表工具，它允许用户通过类似 Markdown 的文本定义生成各种图表，如流程图、序列图、甘特图等。</p>
+<h3><a class="header-anchor" href="#camel-多智能体开发框架"><span></span></a><a href="https://github.com/camel-ai/camel" target="_blank" rel="noopener noreferrer">camel：多智能体开发框架</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162308236.png" alt=""></p>
+<p>CAMEL是一个强大的开源框架，专注于多智能体系统的研究和开发。它提供了丰富的功能和工具，支持大规模智能体的模拟、数据生成、任务自动化和世界模拟。</p>
+<h3><a class="header-anchor" href="#openmanus-通用智能体"><span></span></a><a href="https://github.com/mannaandpoem/OpenManus" target="_blank" rel="noopener noreferrer">OpenManus：通用智能体</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162309779.png" alt=""></p>
+<p>Manus开源平替，通用智能体。</p>
 <h2>学习资源</h2>
-<h3><a class="header-anchor" href="#ai-by-hand-excel-通过excel讲解ai原理"><span></span></a><a href="https://github.com/ImagineAILab/ai-by-hand-excel" target="_blank" rel="noopener noreferrer">ai-by-hand-excel：通过Excel讲解AI原理</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022249116.png" alt=""></p>
-<p>在Excel中学习AI。</p>
-<h3><a class="header-anchor" href="#linux101-docs-学习linux"><span></span></a><a href="https://github.com/ustclug/Linux101-docs" target="_blank" rel="noopener noreferrer">Linux101-docs：学习Linux</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022252557.png" alt=""></p>
-<p>中国科学技术大学 Linux 用户协会编写的Linux入门指南。</p>
-<h3><a class="header-anchor" href="#project-based-learning-做项目学习编程"><span></span></a><a href="https://github.com/practical-tutorials/project-based-learning" target="_blank" rel="noopener noreferrer">project-based-learning：做项目学习编程</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022256690.png" alt=""></p>
-<p>通过实际项目学习编程技能。</p>
+<h3><a class="header-anchor" href="#self-hosting-guide-自部署指南"><span></span></a><a href="https://github.com/mikeroyal/Self-Hosting-Guide" target="_blank" rel="noopener noreferrer">Self-Hosting-Guide：自部署指南</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162222519.png" alt=""></p>
+<p>自托管指南，涵盖了从基础设置到高级应用的各个方面，包括软件和硬件选择、容器技术、CI/CD、开发工具、网络服务、云存储、数据库管理、远程访问、虚拟化、密码管理、安全措施、监控、备份、归档、家庭服务器、媒体服务器、智能家居自动化、语音助手、视频监控、文本转语音合成、视频和音频处理、播客、有声读物、健康、园艺、地图、书签、照片、过去ebin、笔记记录、时间监控、维基、游戏、基础项目等。</p>
+<h3><a class="header-anchor" href="#awesome-mcp-servers-mcp-服务器集合"><span></span></a><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank" rel="noopener noreferrer">awesome-mcp-servers：MCP 服务器集合</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162310435.png" alt=""></p>
+<p>MCP 服务器集合。</p>
+<h3><a class="header-anchor" href="#hacker-news-每日播报"><span></span></a><a href="https://github.com/ccbikai/hacker-news" target="_blank" rel="noopener noreferrer">Hacker News 每日播报</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162315488.png" alt=""></p>
+<p>一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。</p>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022307235.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503162321907.png" type="image/png"/>
     </item>
     <item>
       <title>肖恩技术周刊（第 40 期）：智能体是通往AGI的必经之路吗？</title>
@@ -86,7 +72,7 @@
       <guid>https://weekly.shawnxie.top/content/2025/40.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 40 期）：智能体是通往AGI的必经之路吗？</source>
       <description>肖恩技术周刊（第 40 期）：智能体是通往AGI的必经之路吗？ 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 开篇图 ...</description>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
 <p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
@@ -156,6 +142,76 @@
 <p>此后，Linux不断发展，被移植到新架构，“开源”概念兴起，IBM投资，Linux应用范围不断扩大。从最初屏幕上交替显示的“A”和“B”，到如今在全球数十亿设备上运行，Linux的发展堪称传奇。</p>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503100007852.png" type="image/png"/>
+    </item>
+    <item>
+      <title>肖恩技术周刊（第 39 期）：战斗，爽！</title>
+      <link>https://weekly.shawnxie.top/content/2025/39.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/39.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 39 期）：战斗，爽！</source>
+      <description>肖恩技术周刊（第 39 期）：战斗，爽！ 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 开篇图 狩猎解禁！这作新增的“...</description>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
+<strong>更新时间</strong>: 周一<br>
+<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
+<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
+<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
+</blockquote>
+<h2>开篇图</h2>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022307235.png" alt=""></p>
+<p>狩猎解禁！这作新增的“相杀“机制真的是太爽了，与怪物硬碰硬，正反馈拉满。虽然剧情还是一如既往的拉胯，但玩怪物猎人谁看剧情呢。人物捏脸也精细多了，看板娘也终于正常了，不用像世界那样被aibo折磨了。</p>
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#刚刚-gpt-4-5问世-openai迄今最大、最贵模型-api价格飞涨30倍-不拼推理拼情商"><span></span></a><a href="https://mp.weixin.qq.com/s/GtLcOA1aF_7bm8J69dqqog" target="_blank" rel="noopener noreferrer">刚刚，GPT-4.5问世！OpenAI迄今最大、最贵模型，API价格飞涨30倍，不拼推理拼情商</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022304263.png" alt=""></p>
+<p>2025年2月28日，OpenAI发布了其最新聊天模型GPT-4.5。该模型是OpenAI迄今为止最大、最强的模型，强调“情商”和自然交互能力的提升。GPT-4.5通过扩展无监督学习，增强了模式识别、创造性见解和减少幻觉的能力，但并非推理模型。其知识库更广泛，能更好地遵循用户意图，尤其在写作、编程和解决问题方面表现出色。测试显示，GPT-4.5在事实性回答、人类协作等方面优于前代模型，但在数学和编程能力上仍逊色于部分推理模型。目前，GPT-4.5支持搜索、文件和图片上传等功能，未来将扩展多模态功能。API价格因计算资源需求大幅上涨，每1M token收费75美元，比GPT-4o高出30倍。OpenAI仍在评估是否长期提供GPT-4.5 API。</p>
+<h3><a class="header-anchor" href="#全球首个混合推理模型-claude-3-7-sonnet来袭-真实编码力压一切对手"><span></span></a><a href="https://mp.weixin.qq.com/s/RzdrxKbHKKqtN-FvbOQsZw" target="_blank" rel="noopener noreferrer">全球首个混合推理模型：Claude 3.7 Sonnet来袭，真实编码力压一切对手</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022304348.png" alt=""></p>
+<p>Anthropic 发布了其迄今为止最智能的模型 Claude 3.7 Sonnet，这是市面上首款混合推理模型，具有标准和扩展思考模式，用户可通过 API 对思考时间进行细粒度控制。同时推出的 Claude Code 工具，使开发人员能从终端将工程任务委托给 Claude。Claude 3.7 Sonnet 在编码和前端 web 开发方面表现出色，成为 Anthropic 最佳编码模型，可通过多种计划和平台使用，价格与前代相同。该模型在多个基准测试中表现优异，尤其在 SWE-bench Verified 和 TAU-bench 上实现 SOTA 性能。Anthropic 还对模型进行了安全性和可靠性评估，未来希望 Claude 能成为独立自主工作的专家级智能体，解决复杂难题。</p>
+<h3><a class="header-anchor" href="#_90后北大校友破解挂谷猜想-陶哲轩激动转发-网友-预定菲尔兹奖"><span></span></a><a href="https://www.qbitai.com/2025/02/259906.html" target="_blank" rel="noopener noreferrer">90后北大校友破解挂谷猜想，陶哲轩激动转发！网友：预定菲尔兹奖</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022304825.png" alt=""></p>
+<p>近日，北大校友王虹与哥大数学副教授Joshua Zahl在三维空间中证明了困扰数学家上百年的挂谷猜想（Kakeya猜想），引发广泛关注。该猜想由日本数学家挂谷宗一于1917年提出，断言包含每个方向上单位长度线段的集合（Kakeya集）在三维空间中具有Minkowski和Hausdorff维度等于3。王虹和Zahl通过127页论文，采用多尺度分析技术，引入非聚集条件、Wolff公理等进行论证，最终证明了猜想。王虹1991年出生于广西桂林平乐县，16岁考入北大地球与空间物理系后转入数学系，2011年获学士学位，后在巴黎综合理工学院、巴黎第十一大学、麻省理工大学深造，目前是纽约大学数学系副教授。此次突破使她成为2026年菲尔兹奖热门人选，有望成为首位中国籍女性菲尔兹奖得主。</p>
+<h2>技术博客</h2>
+<h3><a class="header-anchor" href="#亚马逊s3是如何以99-999999999-的持久性存储350万亿个对象-英文"><span></span></a><a href="https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion" target="_blank" rel="noopener noreferrer">亚马逊S3是如何以99.999999999%的持久性存储350万亿个对象（英文）</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022301471.png" alt=""></p>
+<p>本文详细介绍了亚马逊S3如何存储350万亿个对象，并实现99.999999999%（11个9）的持久性。S3是亚马逊于2006年推出的云存储服务，已成为现代云计算基础设施的核心。它支持从个人开发者到大型企业的各种需求，提供可扩展、安全且易于使用的存储解决方案。S3通过自动扩展存储容量、提供多种存储类别（如S3标准、智能分层、冰川和S3 Express One Zone）以及与AWS其他服务（如Lambda、CloudFront、Athena等）的集成，满足不同数据访问频率和成本优化的需求。</p>
+<p>S3的架构基于微服务设计，包含超过350个微服务，分布在多个AWS区域和可用区，负责存储、检索和保护数据。其前端请求处理服务接收API请求，进行身份验证和路由；索引和元数据服务通过分布式索引跟踪对象位置；存储和数据放置服务使用纠删码和多可用区复制保护数据；读写优化服务通过多部分上传和缓存提高性能；持久性和恢复服务通过校验和验证和自动修复确保数据完整性；安全和合规服务则保护数据免受未经授权的访问和网络威胁。</p>
+<p>S3的数据写入过程包括客户端发送写入请求、DNS解析和路由、负载均衡器和Web服务器处理请求、对象索引到元数据存储、数据放置和存储，最后向客户端发送响应。S3的索引系统通过分布式索引和键分区引擎实现快速查找和高并发处理，支持超过1亿次/秒的请求处理能力，同时通过动态分区和负载均衡避免热点问题。</p>
+<p>S3的演变历程包括从全球模型到区域模型的转变、引入Glacier、增强性能和安全性、集成AI和分析能力、推出智能分层和S3 Select等功能。S3的持久性和高可用性得益于多可用区存储、自动扩展和AI驱动的预测性扩展策略。通过这些技术，S3成为支持媒体流、人工智能工作负载、实时分析和关键任务应用的基石。</p>
+<h3><a class="header-anchor" href="#如何扩展你的模型-英文"><span></span></a><a href="https://jax-ml.github.io/scaling-book/" target="_blank" rel="noopener noreferrer">如何扩展你的模型（英文）</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022302612.png" alt=""></p>
+<p>一本面向机器学习研究者和工程师的实用指南，旨在帮助读者深入理解Transformer架构、硬件优化以及大规模模型训练和推理的实践技巧。文中强调了硬件与算法协同设计的重要性，并通过丰富的案例和工具支持，帮助读者实现模型性能的最大化。</p>
+<p>文章首先介绍了深度学习中“模型扩展”的重要性，指出即使是小型模型也常常接近硬件极限，因此研究者需要关注大规模效率。作者通过屋顶线分析（Roofline Analysis）解释了计算、通信和内存如何限制模型的扩展能力，并详细讨论了TPU和GPU的工作原理以及它们如何通过有限带宽和延迟的互连网络协同工作。此外，文中还探讨了矩阵乘法的性能瓶颈以及如何利用硬件特性优化模型。</p>
+<p>在Transformer架构方面，文中深入分析了其参数数量、FLOPs（浮点运算次数）的计算以及KV缓存的大小。通过数学分析，作者展示了如何计算Transformer在训练和推理过程中的计算量和内存使用。文中还讨论了四种主要的模型并行化技术：数据并行、张量并行、流水线并行和专家并行，这些技术可以帮助研究者在给定硬件平台上高效地训练和推理大规模模型。此外，文中还介绍了其他优化技术，如重计算、优化器/模型分片（ZeRO）、主机卸载和梯度累积。</p>
+<p>文中通过LLaMA-3模型的训练和推理案例，展示了如何将理论应用于实际问题，并讨论了在TPU上训练和推理LLaMA-3的成本、时间和性能优化策略。此外，文中还介绍了如何使用JAX和XLA（加速线性代数）堆栈进行性能分析，并提供了使用JAX/TensorBoard分析器调试和优化代码的实用指南。</p>
+<h3><a class="header-anchor" href="#核心-git-开发人员如何配置-git-英文"><span></span></a><a href="https://blog.gitbutler.com/how-git-core-devs-configure-git/" target="_blank" rel="noopener noreferrer">核心 Git 开发人员如何配置 Git（英文）</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022300933.png" alt=""></p>
+<p>文章分享了Git核心开发者常用的配置方法，旨在帮助用户优化Git的使用体验。作者将配置分为三类：明显提升效率的配置、值得尝试的配置以及因人而异的配置。</p>
+<p><strong>明显提升效率的配置</strong>包括优化分支和标签的排序（如branch.sort和tag.sort）、设置默认分支名称（init.defaultBranch）、改进diff显示（如diff.colorMoved和diff.renames）、优化推送和抓取行为（如push.default和fetch.prune）。这些配置可以显著提升Git的可读性和操作效率。</p>
+<p><strong>值得尝试的配置</strong>  包括自动纠正提示（help.autocorrect）、提交时显示diff（commit.verbose）、记录冲突解决方案（rerere.enabled）、全局忽略文件（core.excludesfile）和优化变基体验（如rebase.autoSquash）。这些配置提供了额外的便利性和上下文信息，帮助用户更好地管理代码。</p>
+<p><strong>因人而异的配置</strong>  包括改进合并冲突显示（merge.conflictstyle）、设置拉取行为（pull.rebase）和运行文件系统监视器（core.fsmonitor）。这些配置需要根据个人偏好和项目需求选择。</p>
+<h2>开源项目</h2>
+<h3><a class="header-anchor" href="#chinese-weekly-hub-中文周刊合集"><span></span></a><a href="https://github.com/shawnxie94/chinese-weekly-hub" target="_blank" rel="noopener noreferrer">chinese-weekly-hub：中文周刊合集</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022245991.png" alt=""></p>
+<p>有意思的<code>中文周刊</code>，拓宽视野，打破信息差。</p>
+<h3><a class="header-anchor" href="#watermark-removal-ai去水印"><span></span></a><a href="https://github.com/zuruoke/watermark-removal" target="_blank" rel="noopener noreferrer">watermark-removal：AI去水印</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022246241.png" alt=""></p>
+<p>利用AI去除水印。</p>
+<h3><a class="header-anchor" href="#docling-文档和ai之间的桥梁"><span></span></a><a href="https://github.com/DS4SD/docling" target="_blank" rel="noopener noreferrer">docling：文档和AI之间的桥梁</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022250314.png" alt=""></p>
+<p>Docling是一个由IBM开发的开源工具，旨在简化文档处理流程。它支持多种文档格式（如PDF、DOCX、XLSX、HTML等）的解析，并提供与生成式人工智能生态系统的无缝集成。</p>
+<h2>学习资源</h2>
+<h3><a class="header-anchor" href="#ai-by-hand-excel-通过excel讲解ai原理"><span></span></a><a href="https://github.com/ImagineAILab/ai-by-hand-excel" target="_blank" rel="noopener noreferrer">ai-by-hand-excel：通过Excel讲解AI原理</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022249116.png" alt=""></p>
+<p>在Excel中学习AI。</p>
+<h3><a class="header-anchor" href="#linux101-docs-学习linux"><span></span></a><a href="https://github.com/ustclug/Linux101-docs" target="_blank" rel="noopener noreferrer">Linux101-docs：学习Linux</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022252557.png" alt=""></p>
+<p>中国科学技术大学 Linux 用户协会编写的Linux入门指南。</p>
+<h3><a class="header-anchor" href="#project-based-learning-做项目学习编程"><span></span></a><a href="https://github.com/practical-tutorials/project-based-learning" target="_blank" rel="noopener noreferrer">project-based-learning：做项目学习编程</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022256690.png" alt=""></p>
+<p>通过实际项目学习编程技能。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503022307235.png" type="image/png"/>
     </item>
     <item>
       <title>肖恩技术周刊（第 38 期）：陪伴</title>
