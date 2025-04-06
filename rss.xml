@@ -6,10 +6,75 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>feedId:106642906166709248+userId:73601809993285632</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 30 Mar 2025 12:05:12 GMT</pubDate>
-    <lastBuildDate>Sun, 30 Mar 2025 12:05:12 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Apr 2025 15:44:49 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Apr 2025 15:44:49 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 43 期）：电子榨菜</title>
+      <link>https://weekly.shawnxie.top/content/2025/43.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/43.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 43 期）：电子榨菜</source>
+      <description>肖恩技术周刊（第 43 期）：电子榨菜 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 开篇图 这哥们真的是直播鬼才，切...</description>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
+<strong>更新时间</strong>: 周一<br>
+<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
+<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
+<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
+</blockquote>
+<h2>开篇图</h2>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062337766.png" alt=""></p>
+<p>这哥们真的是直播鬼才，切片能看一下午。</p>
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#抖音安全与信任中心"><span></span></a><a href="https://95152.douyin.com/" target="_blank" rel="noopener noreferrer">抖音安全与信任中心</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062322669.png" alt=""></p>
+<p>抖音建立安全与信任中心，推进算法和平台治理透明化。</p>
+<h2>技术博客</h2>
+<h3><a class="header-anchor" href="#去哪儿高峰期资源保障之智能扩缩容"><span></span></a><a href="https://mp.weixin.qq.com/s/b9-PG9Uz2tBxCwgxcmTJyw" target="_blank" rel="noopener noreferrer">去哪儿高峰期资源保障之智能扩缩容</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062325887.png" alt=""></p>
+<p>去哪儿网针对业务高峰期资源保障问题，开发了智能扩缩容方案，通过流量日历平台整合业务监控与运维数据，利用算法预测业务高峰时的资源需求，并自动执行扩缩容操作。该方案覆盖了考试、节假日和促销活动等多种业务高峰场景，通过九个阶段的业务流程实现从事件预判到复盘的全流程管理。</p>
+<p>在业务流程方面，系统支持热点事件录入，根据事件类型和业务涨幅预估高峰期业务量，调用算法接口预测 CPU 核数，并结合安全阈值计算预估机器数。运维团队根据预估结果创建定时扩缩容任务，使用本地和云上资源执行操作。任务高峰期结束后，进入复盘阶段，分析预测准确率和覆盖率，以改进算法和流程。</p>
+<p>算法部分采用神经网络模型，通过分析订单量、QPS、机器型号等影响 CPU 的因素进行训练，考察平均绝对百分比误差（MAPE）和相关性系数等指标。模型离线定时更新，学习高峰事件和近期数据，确保模型的时效性和鲁棒性。同时，系统设置了最大副本数和最小副本数的安全限制，保障机器数预测过低场景下的稳定性。</p>
+<p>项目实施后，应用接入数量达到 150 个以上，占比酒店应用总核数 90% 以上，已完成多种重点高峰事件保障。应用预估平均覆盖度为 96%，准确率为 89%。单次事件高峰期节约人工运维效率 3pd/次，年化节约 270pd，相比人工预测资源节省约 20%。</p>
+<p>未来，去哪儿网计划进一步拓展智能扩缩容的应用场景，包括实体机/KVM 场景和存储层资源，并提升容量扩容的安全性检测。同时，将继续优化算法，借助 AI 提升业务量预估准确性和业务指标与应用 CPU 的关联性，逐步覆盖公司各业务线，实现全司资源调度智能化。</p>
+<h3><a class="header-anchor" href="#llm应用落地实施手册"><span></span></a><a href="https://mp.weixin.qq.com/s/t-uYwd9NOxJIAIMAYWEqhg" target="_blank" rel="noopener noreferrer">LLM应用落地实施手册</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062325365.png" alt=""></p>
+<p>本文是一份关于大型语言模型（LLM）应用落地实施的手册，作者林然结合自身开发经验，详细介绍了如何系统性地实施基于LLM的应用。文章首先介绍了LLM应用的常见场景，如文本分类、信息抽取、文本生成、对话系统等，并将其分为会话型和任务型两大类。会话型应用以用户输入为核心，输入复杂且涉及对话上下文；任务型应用则以系统数据为输入，输入较为固定，通常采用批处理方式。</p>
+<p>在复杂度评估方面，作者将LLM应用划分为L1到L4四个级别，从简单的单轮调用到复杂的自主规划Agent。用户体验风险也是关键考量因素，错误影响和任务失败概率直接影响应用的成功与否。</p>
+<p>文章进一步介绍了L3级LLM应用的构建方式，包括架构设计、知识工程、模型优化和迭代优化。架构设计强调任务拆解和检索增强，知识工程涉及构建多种知识库，模型优化则包括Prompt优化和模型微调。迭代优化则通过建立评估指标和记录实验结果来不断改进系统。</p>
+<p>最后，文章通过一个具体的Text-to-SQL应用案例，展示了从需求分析、用户体验风险评估、架构设计、知识工程到开发落地及优化的全过程。该项目通过优化架构和知识工程，将Text-to-SQL的准确率从10%提升至90%以上，充分体现了LLM应用落地实施的有效性和潜力。</p>
+<h2>开源项目</h2>
+<h3><a class="header-anchor" href="#local-deep-researcher-本地深度研究员"><span></span></a><a href="https://github.com/langchain-ai/local-deep-researcher" target="_blank" rel="noopener noreferrer">local-deep-researcher：本地深度研究员</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062242531.png" alt=""></p>
+<p>利用本地运行的语言模型（LLM），如Ollama或LMStudio提供的模型，帮助用户进行深度网络研究，并生成带有引用的研究报告。</p>
+<h3><a class="header-anchor" href="#rd-agent-ai驱动研发自动化"><span></span></a><a href="https://github.com/microsoft/RD-Agent" target="_blank" rel="noopener noreferrer">RD-Agent：AI驱动研发自动化</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062328998.png" alt=""></p>
+<p>RD-Agent 是一个旨在实现AI驱动研发自动化的项目，目前处于预览阶段，其核心目标是简化模型和数据开发流程，为工业研发创造价值。</p>
+<h3><a class="header-anchor" href="#neovim-vim-激进重构版本"><span></span></a><a href="https://github.com/neovim/neovim" target="_blank" rel="noopener noreferrer">neovim：Vim 激进重构版本</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062332547.png" alt=""></p>
+<p>Vim 激进重构版本，专注于可扩展性和可用性。</p>
+<h2>学习资源</h2>
+<h3><a class="header-anchor" href="#awesome-llm-post-training-大模型后训练资源"><span></span></a><a href="https://github.com/mbzuai-oryx/Awesome-LLM-Post-training" target="_blank" rel="noopener noreferrer">Awesome-LLM-Post-training：大模型后训练资源</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062338756.png" alt=""></p>
+<p>大型语言模型（LLMs）后训练方法的深入研究，提供了一个全面的资源库，涵盖了与LLMs后训练方法相关的最具影响力的论文、代码实现、基准测试和资源。</p>
+<h3><a class="header-anchor" href="#ai-engineering-hub-人工智能工程资源"><span></span></a><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank" rel="noopener noreferrer">ai-engineering-hub：人工智能工程资源</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062338376.png" alt=""></p>
+<p>提供AI工程领域深度教程、代码示例和资源，帮助用户学习和实践。</p>
+<h3><a class="header-anchor" href="#油猴开发指南"><span></span></a><a href="https://learn.scriptcat.org/" target="_blank" rel="noopener noreferrer">油猴开发指南</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062333401.png" alt=""></p>
+<p>更适合国人体质的油猴教程。</p>
+<h2>随便看看</h2>
+<h3><a class="header-anchor" href="#vibe-coding彻底火了-到底什么是-氛围编程-它如何改变未来的软件开发"><span></span></a><a href="https://www.mittrchina.com/news/detail/14590" target="_blank" rel="noopener noreferrer">Vibe Coding彻底火了，到底什么是“氛围编程”？它如何改变未来的软件开发？</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062339060.png" alt=""></p>
+<p>“氛围编程”（Vibe Coding）是由 OpenAI 联合创始人 Andrej Karpathy 提出的一种新型编程方式。它强调开发者无需深入理解代码细节，而是通过 AI 辅助快速实现功能。Karpathy 用此方法在一小时内用 Swift 完成了一个 iOS 应用的开发，展示了其高效性。该方法的核心是让开发者专注于功能效果，而非代码本身，从而大大降低了编程的门槛，使更多人能够参与到软件开发中来。</p>
+<p>“氛围编程”正在改变软件开发行业，它推动了编程的民主化，让小团队能够快速开发出产品并创造高收入业务。它还可能改变软件的风格和设计，带来全新的交互模式，并重新定义软件开发的价值链，使软件的价值更依赖于创造力而非单纯的代码能力。</p>
+<p>然而，“氛围编程”也存在一些局限性。由于开发者可能不完全理解代码，这可能导致代码质量和可维护性问题，甚至可能引入安全漏洞。此外，该方法目前更适合低风险的个人项目和概念验证工作。尽管如此，“氛围编程”仍为软件开发带来了新的可能性和机遇。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202504062337766.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 42 期）：新公园文化</title>
       <link>https://weekly.shawnxie.top/content/2025/42.html</link>
@@ -78,6 +143,8 @@
 <p>文章聚焦于中国职场中年轻人因各种原因进入空窗期的现象及其所面临的困境。空窗期的成因复杂多样，既有主动选择，也有被动无奈。主动离职者多因身体、家庭或对工作强度的不满，而被动离职者则可能因行业不景气或公司裁员。脉脉报告显示，主动辞职待业的比例有所上升，而被动辞职的比例略有下降。</p>
 <p>在空窗期中，年轻人的活动方式各异。有人选择休息、旅行，以放松身心；有人尝试旅居或转行做自媒体；还有人继续备考，如公务员、研究生等，试图通过提升学历或职业资格来增加竞争力。然而，空窗期过长会带来诸多问题。求职时，简历上的时间断层常被HR质疑，求职者需面对来自亲友的压力，同时还要应对生活成本的压力，如房租、社保等。前程无忧的调研显示，多数人需要攒够一定金额才敢暂停工作，而房租、社保等生存成本在一线及新一线城市中较高，给空窗期的年轻人带来了较大的经济压力。</p>
 <p>文章指出，空窗期的求职者在重新进入职场时，往往面临被压薪甚至找不到工作的困境，这进一步加剧了他们的焦虑。同时，断缴社保可能影响城市落户、购房资格、买车摇号等，其他生存刚需费用也让生活成本居高不下。整体而言，空窗期的年轻人在追求自我价值与适应社会期望之间面临着诸多挑战。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503302052531.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503302053663.png" alt=""></p>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202503232326067.png" type="image/png"/>
     </item>
