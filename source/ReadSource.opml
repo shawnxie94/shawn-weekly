@@ -106,6 +106,7 @@
 		<outline text="The Mozilla Blog" title="The Mozilla Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.mozilla.org/en/" xmlUrl="https://blog.mozilla.org/feed/"/>
 		<outline text="The New Stack" title="The New Stack" description="" type="rss" version="RSS" htmlUrl="https://thenewstack.io/" xmlUrl="http://thenewstack.io/feed/"/>
 		<outline text="Visual Studio Blog" title="Visual Studio Blog" description="" type="rss" version="RSS" htmlUrl="https://devblogs.microsoft.com/visualstudio/" xmlUrl="https://devblogs.microsoft.com/visualstudio/feed/"/>
+		<outline text="Uber Engineering Blog" title="Uber Engineering Blog" description="" type="rss" version="RSS" htmlUrl="https://www.uber.com/blog/engineering" xmlUrl="https://www.uber.com/blog/engineering/rss/"/>
 	</outline>
 	<outline text="技术周刊" title="技术周刊">
 		<outline text="1Link.Fun 科技周刊" title="1Link.Fun 科技周刊" description="" type="rss" version="RSS" htmlUrl="https://xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40" xmlUrl="https://1link.fun/index.xml"/>
@@ -150,16 +151,13 @@
 		<outline text="Turing Post" title="Turing Post" description="" type="rss" version="RSS" htmlUrl="https://www.turingpost.com/" xmlUrl="https://rss.beehiiv.com/feeds/UJIoBuf5BX.xml"/>
 	</outline>
 	<outline text="RssHub" title="RssHub">
-		<outline text="36氪 - 24小时热榜" title="36氪 - 24小时热榜" description="" type="rss" version="RSS" htmlUrl="https://www.36kr.com/" xmlUrl="http://1.92.108.134:1200/36kr/hot-list/24"/>
-		<outline text="热门文章 - 周榜 - 人人都是产品经理" title="热门文章 - 周榜 - 人人都是产品经理" description="" type="rss" version="RSS" htmlUrl="https://www.woshipm.com/" xmlUrl="http://1.92.108.134:1200/woshipm/popular/weekly"/>
-		<outline text="MIT 科技评论 - 本周热榜" title="MIT 科技评论 - 本周热榜" description="" type="rss" version="RSS" htmlUrl="https://www.mittrchina.com/hot" xmlUrl="http://1.92.108.134:1200/mittrchina/hot"/>
-		<outline text="Readhub - 热门话题" title="Readhub - 热门话题" description="" type="rss" version="RSS" htmlUrl="https://readhub.cn/" xmlUrl="https://rsshub.rssforever.com/readhub"/>
-		<outline text="Readhub - 每日早报 - Readhub" title="Readhub - 每日早报 - Readhub" description="" type="rss" version="RSS" htmlUrl="https://api.readhub.cn/daily" xmlUrl="http://1.92.108.134:1200/readhub/daily"/>
-		<outline text="Huggingface 中文博客" title="Huggingface 中文博客" description="" type="rss" version="RSS" htmlUrl="https://huggingface.co/blog/zh" xmlUrl="https://rsshub.rssforever.com/huggingface/blog-zh"/>
-		<outline text="Trending repositories on GitHub this week · GitHub" title="Trending repositories on GitHub this week · GitHub" description="" type="rss" version="RSS" htmlUrl="https://github.com/trending/?since=weekly&amp;spoken_language_code=" xmlUrl="https://rsshub.rssforever.com/github/trending/weekly/any"/>
-		<outline text="OpenAI Blog" title="OpenAI Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://rsshub.app/openai/blog"/>
-		<outline text="晚点 - 最新报道" title="晚点 - 最新报道" description="" type="rss" version="RSS" htmlUrl="https://www.latepost.com/" xmlUrl="https://rsshub.rssforever.com/latepost"/>
-		<outline text="Uber Engineering Blog" title="Uber Engineering Blog" description="" type="rss" version="RSS" htmlUrl="https://www.uber.com/blog/engineering" xmlUrl="https://rsshub.bestblogs.dev/uber/blog"/>
+		<outline text="36氪 - 24小时热榜" title="36氪 - 24小时热榜" description="" type="rss" version="RSS" htmlUrl="https://www.36kr.com/" xmlUrl="http://rsshub.bestblogs.dev/36kr/hot-list/24"/>
+		<outline text="MIT 科技评论 - 本周热榜" title="MIT 科技评论 - 本周热榜" description="" type="rss" version="RSS" htmlUrl="https://www.mittrchina.com/hot" xmlUrl="http://rsshub.bestblogs.dev/mittrchina/hot"/>
+		<outline text="Readhub - 热门话题" title="Readhub - 热门话题" description="" type="rss" version="RSS" htmlUrl="https://readhub.cn/" xmlUrl="https://rsshub.bestblogs.dev/readhub"/>
+		<outline text="Readhub - 每日早报 - Readhub" title="Readhub - 每日早报 - Readhub" description="" type="rss" version="RSS" htmlUrl="https://api.readhub.cn/daily" xmlUrl="http://rsshub.bestblogs.dev/readhub/daily"/>
+		<outline text="Huggingface 中文博客" title="Huggingface 中文博客" description="" type="rss" version="RSS" htmlUrl="https://huggingface.co/blog/zh" xmlUrl="https://rsshub.bestblogs.dev/huggingface/blog-zh"/>
+		; <outline text="Trending repositories on GitHub this week · GitHub" title="Trending repositories on GitHub this week · GitHub" description="" type="rss" version="RSS" htmlUrl="https://github.com/trending/?since=weekly&amp;spoken_language_code=" xmlUrl="https://rsshub.bestblogs.dev/github/trending/weekly/any"/>
+		<outline text="晚点 - 最新报道" title="晚点 - 最新报道" description="" type="rss" version="RSS" htmlUrl="https://www.latepost.com/" xmlUrl="https://rsshub.bestblogs.dev/latepost"/>
 		<outline text="The Batch | DeepLearning.AI | AI News &amp; Insights" title="The Batch | DeepLearning.AI | AI News &amp; Insights" description="" type="rss" version="RSS" htmlUrl="https://www.deeplearning.ai/the-batch/" xmlUrl="https://rsshub.bestblogs.dev/deeplearning/the-batch"/>
 	</outline>
 	</body>
