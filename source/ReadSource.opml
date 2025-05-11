@@ -8,39 +8,22 @@
 	<outline text="公众号" title="公众号">
 		<outline text="携程技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2390272091.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2390272091.atom"/>
 		<outline text="京东零售技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3520012476.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3520012476.atom"/>
-		<outline text="京东技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3553167232.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3553167232.atom"/>
 		<outline text="百度Geek说" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3892545299.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3892545299.atom"/>
 		<outline text="小红书技术REDtech" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3889763736.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3889763736.atom"/>
 		<outline text="阿里技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3885737868.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3885737868.atom"/>
 		<outline text="蚂蚁技术AntTech" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3247771423.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3247771423.atom"/>
-		<outline text="阿里云开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3239545440.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3239545440.atom"/>
-		<outline text="字节跳动技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3253632141.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3253632141.atom"/>
-		<outline text="微软亚洲研究院" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3001073387.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3001073387.atom"/>
-		<outline text="腾讯技术工程" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2398602260.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2398602260.atom"/>
 		<outline text="阿里云云原生" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3537616032.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3537616032.atom"/>
-		<outline text="京东云开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3559811867.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3559811867.atom"/>
-		<outline text="大淘宝技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3014106999.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3014106999.atom"/>
-		<outline text="美团技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2396491298.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2396491298.atom"/>
 		<outline text="转转技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3202958333.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3202958333.atom"/>
 		<outline text="哔哩哔哩技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3876745802.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3876745802.atom"/>
 		<outline text="亚马逊云科技" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3088300711.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3088300711.atom"/>
-		<outline text="小米技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3510410326.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3510410326.atom"/>
 		<outline text="即刻技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3008527037.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3008527037.atom"/>
-		<outline text="爱彼迎技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3916230445.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3916230445.atom"/>
 		<outline text="得物技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3915178544.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3915178544.atom"/>
-		<outline text="谷歌开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3008689962.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3008689962.atom"/>
-		<outline text="腾讯云开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3264589119.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3264589119.atom"/>
-		<outline text="爱奇艺技术产品团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3242732364.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3242732364.atom"/>
 		<outline text="滴滴技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3558136264.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3558136264.atom"/>
-		<outline text="快手技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3867580341.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3867580341.atom"/>
 		<outline text="网易云音乐技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3255877705.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3255877705.atom"/>
-		<outline text="微软科技" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3071048628.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3071048628.atom"/>
 		<outline text="Qunar技术沙龙" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3074721425.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3074721425.atom"/>
 		<outline text="vivo互联网技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3286681597.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3286681597.atom"/>
 		<outline text="比尔盖茨" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3282540708.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3282540708.atom"/>
-		<outline text="极客公园" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_1304308441.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_1304308441.atom"/>
 		<outline text="印记中文" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3239902349.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3239902349.atom"/>
-		<outline text="LLM SPACE" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3942646359.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3942646359.atom"/>
 		<outline text="ShowMeAI研究中心" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3869621703.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3869621703.atom"/>
 		<outline text="Thoughtworks洞见" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2392679800.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2392679800.atom"/>
 		<outline text="艾瑞咨询" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2399237400.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2399237400.atom"/>
@@ -49,10 +32,21 @@
 		<outline text="Gartner公司" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3096426314.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3096426314.atom"/>
 		<outline text="IT咖啡馆" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3257139038.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3257139038.atom"/>
 		<outline text="麻省理工科技评论APP" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3291711073.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3291711073.atom"/>
-		<outline text="晚点LatePost" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3572959446.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3572959446.atom"/>
 		<outline text="36氪" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3264997043.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3264997043.atom"/>
 		<outline text="OSC开源社区" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2397342721.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2397342721.atom"/>
-        <outline text="腾讯云中间件" type="rss" xmlUrl="https://werss.bestblogs.dev/feeds/MP_WXS_3011465052.atom" htmlUrl="https://werss.bestblogs.dev/feeds/MP_WXS_3011465052.atom"/>
+		<outline text="京东技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3553167232.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3553167232.atom"/>
+		<outline text="阿里云开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3239545440.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3239545440.atom"/>
+		<outline text="字节跳动技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3253632141.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3253632141.atom"/>
+		<outline text="腾讯技术工程" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2398602260.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2398602260.atom"/>
+		<outline text="大淘宝技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3014106999.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3014106999.atom"/>
+		<outline text="美团技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2396491298.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_2396491298.atom"/>
+		<outline text="小米技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3510410326.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3510410326.atom"/>
+		<outline text="爱彼迎技术团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3916230445.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3916230445.atom"/>
+		<outline text="谷歌开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3008689962.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3008689962.atom"/>
+		<outline text="腾讯云开发者" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3264589119.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3264589119.atom"/>
+		<outline text="爱奇艺技术产品团队" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3242732364.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3242732364.atom"/>
+		<outline text="快手技术" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3867580341.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3867580341.atom"/>
+		<outline text="微软科技" type="rss" xmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3071048628.atom" htmlUrl="http://101.36.107.8:4000/feeds/MP_WXS_3071048628.atom"/>
         <outline text="阿里研究院" type="rss" xmlUrl="https://werss.bestblogs.dev/feeds/MP_WXS_2395844153.atom" htmlUrl="https://werss.bestblogs.dev/feeds/MP_WXS_2395844153.atom"/>
 	</outline>
 	<outline text="技术博客" title="技术博客">
@@ -124,7 +118,6 @@
 		<outline text="阮一峰的网络日志" title="阮一峰的网络日志" description="" type="rss" version="RSS" htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml"/>
 		<outline text="豌豆花下猫" title="豌豆花下猫" description="" type="rss" version="RSS" htmlUrl="https://pythoncat.top/" xmlUrl="https://pythoncat.top/rss.xml"/>
 		<outline text="肖恩技术周刊" title="肖恩技术周刊" description="" type="rss" version="RSS" htmlUrl="https://weekly.shawnxie.top/" xmlUrl="https://weekly.shawnxie.top/rss.xml"/>
-		<outline text="信息差——独立开发者出海周刊" title="信息差——独立开发者出海周刊" description="" type="rss" version="RSS" htmlUrl="https://gapis.money/" xmlUrl="https://gapis.money/rss.xml"/>
 		<outline text="月球背面" title="月球背面" description="" type="rss" version="RSS" htmlUrl="https://moonvy.com/blog" xmlUrl="https://moonvy.com/blog/rss.xml"/>
 		<outline text="粥里有勺糖" title="粥里有勺糖" description="" type="rss" version="RSS" htmlUrl="https://sugarat.top/" xmlUrl="https://sugarat.top/feed.rss"/>
 		<outline text="AIGC Weekly" title="AIGC Weekly" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://quail.ink/op7418/feed/atom"/>
@@ -137,7 +130,7 @@
 		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://mainssl.geekpark.net/rss.rss" xmlUrl="https://www.geekpark.net/rss"/>
 		<outline text="介绍 on SuperTechFans" title="介绍 on SuperTechFans" description="" type="rss" version="RSS" htmlUrl="https://supertechfans.com/cn/" xmlUrl="https://www.supertechfans.com/cn/index.xml"/>
 		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
-		<outline text="BestBlogs.dev" title="BestBlogs.dev" description="" type="rss" version="RSS" htmlUrl="https://bestblogs.dev/zh/feeds" xmlUrl="https://www.bestblogs.dev/zh/feeds/rss"/>
+		<!-- <outline text="BestBlogs.dev" title="BestBlogs.dev" description="" type="rss" version="RSS" htmlUrl="https://bestblogs.dev/zh/feeds" xmlUrl="https://www.bestblogs.dev/zh/feeds/rss"/> -->
 		<outline text="InfoQ" title="InfoQ" description="" type="rss" version="RSS" htmlUrl="https://www.infoq.com/" xmlUrl="http://www.infoq.com/rss/rss.action"/>
 		<outline text="InfoQ 推荐" title="InfoQ 推荐" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://plink.anyfeeder.com/infoq/recommend"/>
 		<outline text="JavaScript Temporal to ease dates and times | InfoWorld" title="JavaScript Temporal to ease dates and times | InfoWorld" description="" type="rss" version="RSS" htmlUrl="https://www.infoworld.com/" xmlUrl="https://www.infoworld.com/feed/"/>
