@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2025/46.md",
+                "file": "docs/content/2025/47.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "46"
+              "title": "47"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://github.com/voideditor/void",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/content/2025/44.md",
+                "file": "docs/content/2025/47.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "44 的反向链接列表"
+              "title": "47 的反向链接列表"
             }
           },
           {
@@ -174,11 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f08e929cc027938",
+  "active": "62196a9aacfdb958",
   "lastOpenFiles": [
     "docs/README.md",
-    "docs/content/2025/46.md",
+    "docs/content/2025/47.md",
+    "().md",
     "source/template.md",
+    "docs/content/2025/46.md",
     "docs/content/2025/45.md",
     "docs/content/2025/44.md",
     "source/feeds_2025-05-18.opml.xml",
@@ -202,8 +205,6 @@
     "docs/content/2024/24.md",
     "docs/content/2024/23.md",
     "docs/content/2024/22.md",
-    "docs/content/2024/21.md",
-    "docs/content/2024/20.md",
     "docs/content/未命名",
     "tools/theme/vintage.js",
     "tools/type-statistics.html",
