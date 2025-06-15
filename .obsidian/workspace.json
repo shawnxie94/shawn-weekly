@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/content/2025/49.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "49"
@@ -174,12 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62196a9aacfdb958",
+  "active": "5f08e929cc027938",
   "lastOpenFiles": [
-    "docs/content/2025/48.md",
-    "docs/content/2025/49.md",
-    "source/template.md",
     "docs/README.md",
+    "docs/content/2025/49.md",
+    "docs/content/2025/48.md",
+    "source/template.md",
     "docs/content/2025/47.md",
     "().md",
     "docs/content/2025/46.md",
