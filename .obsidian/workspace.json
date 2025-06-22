@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37fed815ca4131bd",
+        "id": "a07868a2562fa67a",
         "type": "tabs",
         "children": [
           {
-            "id": "5f08e929cc027938",
+            "id": "36f49a4064b1efd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2025/49.md",
+                "file": "docs/content/2025/50.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "49"
+              "title": "50"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prompt-eng-interactive-tutorial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/content/2025/49.md",
+                "file": "docs/content/2025/50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "49 的反向链接列表"
+              "title": "50 的反向链接列表"
             }
           },
           {
@@ -174,14 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f08e929cc027938",
+  "active": "36f49a4064b1efd6",
   "lastOpenFiles": [
     "docs/README.md",
+    "docs/content/2025/50.md",
     "docs/content/2025/49.md",
-    "docs/content/2025/48.md",
-    "source/template.md",
-    "docs/content/2025/47.md",
     "().md",
+    "source/template.md",
+    "docs/content/2025/48.md",
+    "docs/content/2025/47.md",
     "docs/content/2025/46.md",
     "docs/content/2025/45.md",
     "docs/content/2025/44.md",
@@ -203,7 +204,6 @@
     "docs/content/2025/33.md",
     "docs/source/read_source.md",
     "docs/source/template.md",
-    "docs/content/2024/24.md",
     "docs/content/未命名",
     "tools/theme/vintage.js",
     "tools/type-statistics.html",
