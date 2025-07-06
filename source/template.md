@@ -8,7 +8,7 @@ date: 2025-XX-XX
 > **订阅方式**: 微信公众号“**肖恩聊技术**”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
 > <img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300">
 
-## 开篇图
+
 ![](https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241117233731.png)
 
 XXXX

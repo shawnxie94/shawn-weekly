@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2025/51.md",
+                "file": "docs/content/2025/52.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "51"
+              "title": "52"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Web-Dev-For-Beginners",
+                "query": "nginx-proxy-manager",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/content/2025/51.md",
+                "file": "docs/content/2025/52.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "51 的反向链接列表"
+              "title": "52 的反向链接列表"
             }
           },
           {
@@ -175,11 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb24b07ab43162c0",
+  "active": "36f49a4064b1efd6",
   "lastOpenFiles": [
     "docs/README.md",
-    "docs/content/2025/51.md",
+    "docs/content/2025/52.md",
     "source/template.md",
+    "docs/content/2025/51.md",
     "docs/content/2025/50.md",
     "docs/content/2025/49.md",
     "().md",
@@ -204,7 +206,6 @@
     "docs/content/2025/34.md",
     "source/Subscriptions-OnMyMac.opml",
     "docs/content/2025/33.md",
-    "docs/source/read_source.md",
     "docs/content/未命名",
     "tools/theme/vintage.js",
     "tools/type-statistics.html",
