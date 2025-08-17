@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
-    "collapsed": true
+    "width": 416.5
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -178,14 +177,14 @@
   "active": "9be95495ac6c1741",
   "lastOpenFiles": [
     "docs/content/2025/53.md",
+    "docs/content/2025/52.md",
     "docs/content/2025/54.md",
     "docs/content/2025/55.md",
-    "docs/content/2025/57.md",
     "docs/content/2025/58.md",
+    "docs/content/2025/57.md",
     "docs/content/2025/56.md",
     "docs/README.md",
     "source/template.md",
-    "docs/content/2025/52.md",
     "().md",
     "未命名.md",
     "docs/content/2025/51.md",
