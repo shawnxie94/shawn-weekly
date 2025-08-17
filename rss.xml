@@ -6,10 +6,65 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>feedId:106642906166709248+userId:73601809993285632</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 Aug 2025 14:42:31 GMT</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2025 14:42:31 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 15:41:02 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 15:41:02 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 58 期）：坠落or飞翔</title>
+      <link>https://weekly.shawnxie.top/content/2025/58.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/58.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 58 期）：坠落or飞翔</source>
+      <description>肖恩技术周刊（第 58 期）：坠落or飞翔 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 “假如坠落的时间足够长，你会...</description>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
+<strong>更新时间</strong>: 周一<br>
+<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
+<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
+<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172335918.png" alt=""></p>
+<p>“假如坠落的时间足够长，你会以为自己是在飞，反之亦然。”</p>
+<p align="right">——《焦虑的人》</p>
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#github-cer辞职-团队合并入coreai"><span></span></a><a href="https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition" target="_blank" rel="noopener noreferrer">GitHub CER辞职，团队合并入CoreAI</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172302152.png" alt=""></p>
+<p>2025年8月11日，GitHub CEO Thomas Dohmke辞职，GitHub将更紧密地整合进微软的CoreAI团队。自2018年被微软以75亿美元收购后，GitHub一直作为独立公司运营。Dohmke离职后，微软不再任命新CEO，GitHub领导团队将直接向CoreAI团队汇报。CoreAI由前Meta高管Jay Parikh领导，专注于构建AI平台和工具。此次调整意味着GitHub的运营将更依赖微软的AI战略，其未来角色可能发生变化。Dohmke离职可能与他对GitHub在微软AI战略中的角色有不同看法有关，他计划离开微软去创业。</p>
+<h3><a class="header-anchor" href="#全球首个孕育机器人预计一年内面世-定价不超10万元"><span></span></a><a href="https://finance.sina.com.cn/tech/roll/2025-08-11/doc-infkqmzi9863865.shtml" target="_blank" rel="noopener noreferrer">全球首个孕育机器人预计一年内面世 定价不超10万元</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172305115.png" alt=""></p>
+<p>新加坡南洋理工博士张其峰正在研发全球首个孕育机器人，或在一年内问世，售价不超10万元。和传统的试管、代孕不同，这套系统模拟了子宫环境，还装进仿人类的机器人体内，让“机器人妈妈”从怀孕到分娩，全流程复刻人类体验。谈及研发初衷，张其峰在接受媒体采访时表示，主要是为了满足当代年轻人不想怀孕，还想要孩子的需求。</p>
+<h2>佳文共赏</h2>
+<h3><a class="header-anchor" href="#_37岁退休一周年-经验与心得分享"><span></span></a><a href="https://yfzz.net/?p=89" target="_blank" rel="noopener noreferrer">37岁退休一周年：经验与心得分享</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172301704.png" alt=""></p>
+<p>作者退休一周年后的经验分享，围绕财务准备、心理建设和退休后生活展开。财务准备方面，作者强调“本金多、收益高、支出少”至少满足两个条件，建议利用人力资本积累本金，减少人生重大变量，通过记账制定支出预算，并寻找被动收入。心理建设上，作者指出需明确FIRE目标，做好长期作战准备，考虑安全上的取舍，应对失去工作身份标签后的心理变化，以及“吃苦一代”的退休困境。退休后生活部分，作者分享了自己每天的活动安排，如玩游戏、上网冲浪、学习金融知识等，强调重要的是过程而非结果，同时认为租房并不会没有安全感。作者提醒FIRE并非适合所有人，需谨慎考虑。</p>
+<h3><a class="header-anchor" href="#通过手机振动检测对话内容"><span></span></a><a href="https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cellphone-vibrations-researchers-report" target="_blank" rel="noopener noreferrer">通过手机振动检测对话内容</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172300238.png" alt=""></p>
+<p>宾夕法尼亚州立大学的研究人员通过毫米波雷达传感器和开源语音识别模型“Whisper”，成功从手机听筒振动中远程解码对话，生成电话通话转录。实验中，雷达传感器在距离手机约3米处捕捉振动，转录准确率约为60%，且可通过上下文校正提升。研究团队将此技术比作唇读，虽信息有限，但结合上下文可推断对话内容。该研究旨在提高公众对隐私风险的意识，提醒人们在敏感通话时注意隐私保护。</p>
+<h2>技术博客</h2>
+<h3><a class="header-anchor" href="#小红书自研binlog-server守护mysql数据0丢失"><span></span></a><a href="https://mp.weixin.qq.com/s/0Lu7_XVCbMIOJkN9h_0o6g" target="_blank" rel="noopener noreferrer">小红书自研Binlog Server守护MySQL数据0丢失</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172259150.png" alt=""></p>
+<p>小红书技术团队自研了Binlog Server，旨在解决MySQL数据库在异常情况下数据丢失的问题，提升数据库的高可用性和数据一致性。该方案通过提升半同步复制性能，加速日志传输，在故障时自动补数据，保证数据一致性。使用极少的资源（1C1G）即可将复制速度提升至300MB/s+，实现复制性能翻倍。目前，该方案已经100%部署于小红书半同步复制集群，在多次切换中为新主库补数据，守护了核心数据库的安全。</p>
+<p>Binlog Server支持级联架构，既可以作为Slave节点从上游接收并保存Binlog，也可以作为Master向下游发送Binlog。它支持SQL语法，减少周围系统的开发和适配成本。在性能方面，Binlog Server在小事务压测条件下，写入速度可达300MB/s，资源消耗极低。在高可用支持方面，当主库宕机时，通过ORC组件进行数据切换，确保数据0丢失。</p>
+<p>未来，Binlog Server还可以在从库扩容、库表拆分等场景中发挥作用，支持标准MySQL协议，降低主库压力，并使用S3作为存储节省成本。</p>
+<h2>开源项目</h2>
+<h3><a class="header-anchor" href="#claude代码安全检查工具"><span></span></a><a href="https://github.com/anthropics/claude-code-security-review" target="_blank" rel="noopener noreferrer">Claude代码安全检查工具</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172308887.png" alt=""></p>
+<p>使用Anthropic的Claude Code工具进行深度语义安全分析，以检测代码变更中的安全漏洞。该工具提供智能、上下文感知的安全分析，支持多种编程语言，具有低误报率和快速启动的特点。它还提供了详细的漏洞解释和修复指导，并可通过GitHub Actions轻松集成到开发流程中。</p>
+<h3><a class="header-anchor" href="#umami-站点分析工具"><span></span></a><a href="https://github.com/umami-software/umami" target="_blank" rel="noopener noreferrer">umami：站点分析工具</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172314363.png" alt=""></p>
+<p>Umami是一个现代的、注重隐私的Google Analytics替代品，提供简单快速的分析服务。</p>
+<h3><a class="header-anchor" href="#jsonpath-json读取工具类"><span></span></a><a href="https://github.com/json-path/JsonPath" target="_blank" rel="noopener noreferrer">JsonPath：json读取工具类</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172317681.png" alt=""></p>
+<p>JsonPath 是一个 Java DSL，用于读取 JSON 文档。JsonPath 表达式类似于 XPath，用于查询 JSON 结构，支持多种符号表示法和操作符，还提供多种函数和过滤器，可用于提取、筛选和操作 JSON 数据。JsonPath 提供了静态读取 API、流式 API 和配置选项，支持与多种 JsonProvider 集成，还引入了 Cache SPI，方便用户根据需求进行路径缓存配置。</p>
+<h2>工具推荐</h2>
+<h3><a class="header-anchor" href="#国外技术公司博客合集"><span></span></a><a href="https://engineering.fyi/" target="_blank" rel="noopener noreferrer">国外技术公司博客合集</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172250938.png" alt=""></p>
+<p>来自谷歌、Meta、OpenAI 等顶尖科技公司的技术博客合集。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172335918.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 57 期）：课题分离</title>
       <link>https://weekly.shawnxie.top/content/2025/57.html</link>
@@ -326,9 +381,9 @@
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><p>编程的本质包括<strong>逻辑(Logic)、控制(Control)和数据(Data)</strong>。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，<strong>有效地分离Logic、Control 和 Data 是写出好程序的关键所在</strong>。</p>
 <p>为了解耦，可以使用状态机、DSL和编程范式等模型、工具和方法。更具体的，面向对象的设计模式是基础思维，C语言是必须学习的语言，C++语言是世界上范式最多的语言，Java 语言是综合能力最强的语言，而 Go 语言则是最适合入门的语言。</p>
  <p align="right">——《左耳听风》 陈皓著</p>
-## 业界资讯
-### [马斯克Grok-4碾压所有大模型！“比所有博士聪明”，AIME25拿满分](https://www.qbitai.com/2025/07/307398.html#/)
-![](https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507132251512.png)
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#马斯克grok-4碾压所有大模型-比所有博士聪明-aime25拿满分"><span></span></a><a href="https://www.qbitai.com/2025/07/307398.html#/" target="_blank" rel="noopener noreferrer">马斯克Grok-4碾压所有大模型！“比所有博士聪明”，AIME25拿满分</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507132251512.png" alt=""></p>
 <p>马斯克的Grok-4模型发布，其在多项基准测试中表现卓越，如AIME25获满分，SAT、GRE近乎满分，还具备强大推理、编程、药物发现等能力。训练量是Grok-2的100倍、Grok-3的10倍，依靠xAI的20万卡计算集群。发布直播中展示了与ChatGPT的语音对话对比，Grok-4明显更胜一筹。未来，Grok系列将推出更多模型，如编程模型、多模态Agent等，且Grok已融入特斯拉固件，将成为擎天柱人形机器人的大脑。</p>
 <h3><a class="header-anchor" href="#深夜开源首个万亿模型k2-压力给到openai-kimi时刻要来了"><span></span></a><a href="https://mp.weixin.qq.com/s/dBfp2AhgTyzgLBMQjzMxng" target="_blank" rel="noopener noreferrer">深夜开源首个万亿模型K2，压力给到OpenAI，Kimi时刻要来了？</a></h3>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507132252186.png" alt=""></p>
