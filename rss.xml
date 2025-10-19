@@ -6,10 +6,127 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>feedId:106642906166709248+userId:73601809993285632</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Oct 2025 15:23:55 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 15:23:55 GMT</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2025 14:33:40 GMT</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2025 14:33:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！</title>
+      <link>https://weekly.shawnxie.top/content/2025/66.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/66.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！</source>
+      <description>肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！ 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码...</description>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
+<strong>更新时间</strong>: 周一<br>
+<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
+<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
+<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192214029.png" alt=""></p>
+<p>中国用户量最高的9个App，安装包尺寸差距居然如此大。安装包大小的差异，对用户体验的影响是多层次的。</p>
+<p>首先是最直接的下载转化率，安装包每增加10MB，下载完成率可能下降5%-10%，尤其在三四线城市或网络环境不佳的场景下，用户的耐心极为有限。</p>
+<p>其次是存储焦虑，对于使用64GB甚至32GB手机的用户来说，每多装一个大体量App都意味着要删除一些照片或其他应用，这种取舍成本会直接影响下载意愿。</p>
+<p>从企业角度看，较小的安装包意味着更低的获客门槛、更高的新用户转化率，特别是在下沉市场和流量敏感用户群体中，这种优势会被显著放大，最终转化为实实在在的市场份额。</p>
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#沉痛悼念深切缅怀杨振宁先生"><span></span></a><a href="https://www.tsinghua.edu.cn/info/1173/121840.htm" target="_blank" rel="noopener noreferrer">沉痛悼念深切缅怀杨振宁先生</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192232415.png" alt=""></p>
+<p>享誉世界的物理学家、诺贝尔物理学奖获得者，中国科学院院士，清华大学教授、清华大学高等研究院名誉院长杨振宁先生，因病于2025年10月18日12时00分在北京逝世，享年103岁。</p>
+<h3><a class="header-anchor" href="#windows-10正式结束支持-不再提供安全更新"><span></span></a><a href="https://landiannews.com/archives/110905.html" target="_blank" rel="noopener noreferrer">Windows 10正式结束支持，不再提供安全更新</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192230819.png" alt=""></p>
+<p>2025 年 10 月 14 日起，微软正式结束对 Windows 10 消费者版（和部分企业版）的支持，不再提供安全更新、错误修复和功能更新。用户若想继续获得更新，需注册扩展安全更新（ESU）计划。基于 Windows 10 的 LTSB/LTSC、IoT 和 Server 版不受此次结束支持影响，它们有自己独立的更新周期。微软曾敦促用户升级到 Windows 11，但仍有大量用户在使用 Windows 10。</p>
+<h2>佳文共赏</h2>
+<h3><a class="header-anchor" href="#如今超过-50-的互联网内容都是ai的劣质信息"><span></span></a><a href="https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop" target="_blank" rel="noopener noreferrer">如今超过 50% 的互联网内容都是AI的劣质信息</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192219786.png" alt=""></p>
+<p>文章探讨了人工智能生成内容（AI slop）在互联网上的占比情况。自2022年11月ChatGPT公开发布以来，AI生成内容在网络上迅速增加。</p>
+<p>SEO公司Graphite发布了一份报告，分析了2020年1月至2025年5月期间发布的65,000篇英文文章，使用AI检测工具Surfer来判断文章是否由大型语言模型生成。报告显示，AI生成文章的占比从2022年底的约10%飙升至2024年的超过40%，并在2024年11月达到峰值后趋于平稳。截至2025年5月，AI生成文章占比为52%。尽管AI生成内容的占比仍然较高，但其增长速度已经放缓，目前与人类撰写的文章大致持平。然而，由于许多付费网站已阻止Common Crawl抓取其页面，人类撰写的文章可能被低估。</p>
+<p>此外，AI检测工具的可靠性以及AI与人类创作的融合趋势，都使得对AI生成内容的准确评估变得更加复杂。尽管如此，人类创作的内容仍然占据重要地位，AI与人类创作之间的界限越来越模糊。</p>
+<h2>技术博客</h2>
+<h3><a class="header-anchor" href="#从0到1建设美团数据库容量评估系统"><span></span></a><a href="https://tech.meituan.com/2025/10/17/database-capacity-evaluation-system.html" target="_blank" rel="noopener noreferrer">从0到1建设美团数据库容量评估系统</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192222094.png" alt=""></p>
+<p>文章介绍了美团技术团队建设数据库容量评估系统的过程，包括项目背景、目标、能力全景、流量回放、容量上探和容量运营等关键部分。</p>
+<p>美团数据库团队面临活动期间数据库集群读写容量评估困难以及数据库变更风险难以识别两大痛点。为解决这些问题，团队建设了数据库容量评估系统，该系统具备数据操作安全、评估结果真实、系统灵活高效等基本要求，涵盖压测平台、对外赋能、核心功能和基础能力等部分。流量回放通过录制在线流量、构建沙盒环境并执行流量回放评估数据库集群性能；容量上探基于业务高峰期采集真实流量样本，自动执行多轮加速回放测试探测集群最大承载读写 QPS；容量运营集成容量评估托管、容量计算和自动化运维三大核心功能模块，实现集群容量状态即时掌控。</p>
+<p>未来，该系统将支持更多数据库类型、辅助预算规划、实现容量智能调优，并构建案例库。</p>
+<h2>开源项目</h2>
+<h3><a class="header-anchor" href="#焦虑舒缓工具集"><span></span></a><a href="https://github.com/alvinunreal/anxiety-aid-tools" target="_blank" rel="noopener noreferrer">焦虑舒缓工具集</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192227747.png" alt=""></p>
+<p>通过科学验证的技巧帮助人们在需要时找到平静。</p>
+<h3><a class="header-anchor" href="#_100-美元打造-chatgpt"><span></span></a><a href="https://github.com/karpathy/nanochat" target="_blank" rel="noopener noreferrer">100 美元打造 ChatGPT</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192221310.png" alt=""></p>
+<p>旨在以极低的成本（约100美元）实现类似ChatGPT的大型语言模型（LLM）的全流程开发，包括预训练、微调、评估、推理和简单的Web界面部署。</p>
+<h2>工具推荐</h2>
+<h3><a class="header-anchor" href="#promptpilot-提示词优化工具"><span></span></a><a href="https://promptpilot.volcengine.com/home" target="_blank" rel="noopener noreferrer">PromptPilot：提示词优化工具</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192228242.png" alt=""></p>
+<p>火山方舟大模型服务平台的PromptPilot，通过全流程智能优化，帮助用户高效获得更优的Prompt方案，以提升大语言模型处理复杂任务的能力。它支持Prompt调优和Solution探索两种任务，涵盖多种场景，提供多种能力，如一键改写、基于反馈优化、AI联网生成变量等，并支持自定义模型和修改模型推理参数。</p>
+<h2>资源推荐</h2>
+<h3><a class="header-anchor" href="#_2025-年人工智能现状报告"><span></span></a><a href="https://www.stateof.ai/" target="_blank" rel="noopener noreferrer">2025 年人工智能现状报告</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192228369.png" alt=""></p>
+<p>报告涵盖研究、行业、政治、安全、调查和预测六个维度。报告指出，OpenAI在AI前沿领域保持微弱领先，但中国在推理和编码任务上缩小了差距。2025年，推理成为关键，前沿实验室结合多种技术创造了更智能的模型。AI开始成为科学合作者，如DeepMind的Co-Scientist和斯坦福的Virtual Lab，推动了生物学等领域的发展。商业应用方面，美国企业对AI工具的付费使用大幅增加，AI优先的初创公司增长迅速。调查结果显示，95%的专业人士在工作或家中使用AI，76%的人自掏腰包购买AI工具，生产力显著提升。基础设施方面，多GW数据中心如Stargate标志着新的计算基础设施浪潮。政治上，美国倾向于“美国优先AI”，欧洲的AI法案遇到困难，中国扩大其开放权重生态系统。安全研究进入更务实的阶段，引发了关于透明度与能力的辩论。报告还指出，存在风险辩论降温，转向关于可靠性、网络韧性和长期治理的具体问题。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192214029.png" type="image/png"/>
+    </item>
+    <item>
+      <title>肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？</title>
+      <link>https://weekly.shawnxie.top/content/2025/65.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/65.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？</source>
+      <description>肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？ 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 在...</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
+<strong>更新时间</strong>: 周一<br>
+<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
+<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
+<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122243290.png" alt=""></p>
+<p>在深夜游戏后关闭电脑时，出现有可用更新并点下了“更新并关机”，以为更新完成后会自动关机，但一觉醒来发现电脑还呼呼转着风扇！</p>
+<p>10月2号，微软在 Windows 11 开发者预览频道的 Dev 频道 26220.6760 中，宣布：修复了一个潜在<a href="https://blogs.windows.com/windows-insider/2025/09/29/announcing-windows-11-insider-preview-build-26220-6760-dev-channel/" target="_blank" rel="noopener noreferrer">问题</a>，该问题可能导致点击“更新并关闭”之后实际上无法关闭您的电脑。</p>
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#_2025《福布斯》全球最佳雇主公布-微软蝉联榜首-国家电网、阿里、腾讯中国内地前三"><span></span></a><a href="https://finance.sina.com.cn/tech/digi/2025-10-09/doc-infticeh0499416.shtml?froms=ggmp" target="_blank" rel="noopener noreferrer">2025《福布斯》全球最佳雇主公布：微软蝉联榜首，国家电网、阿里、腾讯中国内地前三</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122208165.png" alt=""></p>
+<p>10月9日，福布斯发布全球最佳雇主榜单。微软蝉联榜首，达美航空、谷歌母公司Alphabet、Adobe等紧随其后，苹果排名第九。中国内地53家企业入选，国家电网、阿里巴巴、腾讯分列中国内地前三，榜单前十名中软件 IT 与服务业、银行与金融业企业各占三席。评选基于对50多国30多万员工的匿名调查，从薪资、职业晋升机会等多维度打分，结合过去三年数据统计得出。</p>
+<h3><a class="header-anchor" href="#《时代》公布年度300大发明榜单-宇树科技、deepseek、华为、比亚迪上榜"><span></span></a><a href="https://finance.sina.com.cn/wm/2025-10-10/doc-inftkkxt1625221.shtml" target="_blank" rel="noopener noreferrer">《时代》公布年度300大发明榜单：宇树科技、DeepSeek、华为、比亚迪上榜</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122311145.png" alt=""></p>
+<p>10月10日，美国《时代》杂志公布了2025年度最佳发明榜单，共有300款产品上榜，其中包括宇树科技、DeepSeek、华为、比亚迪、苹果公司的产品。</p>
+<h2>佳文共赏</h2>
+<h3><a class="header-anchor" href="#编程语言拟人化漫画"><span></span></a><a href="https://leftoversalad.com/c/015_programmingpeople/" target="_blank" rel="noopener noreferrer">编程语言拟人化漫画</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122223212.png" alt=""></p>
+<p>各种编程语言拟人化漫画。</p>
+<h2>技术博客</h2>
+<h3><a class="header-anchor" href="#python-3-14-来了-它有多快"><span></span></a><a href="https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it" target="_blank" rel="noopener noreferrer">Python 3.14 来了，它有多快？</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122241113.png" alt=""></p>
+<p>作者对Python 3.14发布后的性能测试分析。通过设计包含多个维度（如不同Python版本、解释器类型、测试脚本、线程模式和运行设备）的测试矩阵，对Python 3.14的性能进行了全面评估。测试结果显示，Python 3.14相较于前一版本有了显著的速度提升，尤其是在多线程环境下，自由线程解释器表现出色，3.14版本的自由线程解释器在多线程CPU密集型应用中比标准解释器快约2 - 3.1倍。此外，Pypy 3.11表现也十分出色，速度略快于Node.js，几乎是3.14的5倍。不过，作者也指出，尽管基准测试有趣，但并不能完全代表真实应用的性能，因为现实中的应用通常会混合使用纯Python和原生代码，而作者的测试仅运行纯Python代码。</p>
+<h3><a class="header-anchor" href="#为何如今的-python-开发者青睐类型提示"><span></span></a><a href="https://pyrefly.org/blog/why-typed-python/" target="_blank" rel="noopener noreferrer">为何如今的 Python 开发者青睐类型提示</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122315220.png" alt=""></p>
+<p>文章探讨了现代Python开发者为何越来越倾向于使用类型提示（type hints），并介绍了如何开始使用类型提示来编写更高质量、更可靠的代码。</p>
+<p>Python因其动态类型特性而广受欢迎，尤其在AI、数据科学和科学计算领域。然而，随着项目从实验阶段转向生产环境，动态类型的灵活性可能带来风险。2014年，PEP 484引入了类型提示，允许开发者在Python中使用静态类型注解，这一特性在Python 3.5中被引入，并不断完善。类型提示通过渐进式类型系统，允许开发者逐步添加类型注解，而不会破坏现有代码。</p>
+<p>使用类型提示有诸多好处，包括早期捕获错误、使代码更易于阅读和审查，以及帮助开发者更快地将实验代码扩展到生产系统。文章建议开发者在项目初期就开始添加类型注解，并选择合适的类型检查器，如Pyrefly，将其集成到IDE和CI/CD流程中。此外，开发者可以通过官方文档和社区资源提升类型提示的使用技能。</p>
+<p>总之，类型提示是Python代码未来的重要投资，虽然需要一些初始工作，但它可以减少调试时间、简化代码审查，并减少生产问题。</p>
+<h2>开源项目</h2>
+<h3><a class="header-anchor" href="#chrome-devtools-mcp-浏览器控制mcp"><span></span></a><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener noreferrer">chrome-devtools-mcp：浏览器控制MCP</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122310760.png" alt=""></p>
+<p>chrome-devtools-mcp 是一个用于让编程助手（如 Gemini、Claude 等）控制和检查 Chrome 浏览器的工具。</p>
+<h2>工具推荐</h2>
+<h3><a class="header-anchor" href="#platypus"><span></span></a><a href="https://sveinbjorn.org/platypus" target="_blank" rel="noopener noreferrer">Platypus</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122302722.png" alt=""></p>
+<p>Platypus 可以将命令行脚本（如 shell 脚本、Python、Perl、Ruby、PHP、JavaScript 等）封装为 macOS 原生应用程序，使其更易于与不熟悉命令行界面的用户共享。</p>
+<h3><a class="header-anchor" href="#ollama网页搜索"><span></span></a><a href="https://ollama.com/blog/web-search" target="_blank" rel="noopener noreferrer">Ollama网页搜索</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122303854.png" alt=""></p>
+<p>Ollama提供了一个新的Web搜索API，允许用户通过API从互联网获取最新信息，以增强模型的准确性和减少幻觉。</p>
+<h3><a class="header-anchor" href="#全球儿歌乐园"><span></span></a><a href="https://beddysongs.com/zh" target="_blank" rel="noopener noreferrer">全球儿歌乐园</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122306107.png" alt=""></p>
+<p>汇聚世界各地的经典与原创儿歌，让孩子在熟悉与新奇的旋律中快乐成长，感受音乐带来的温暖与陪伴。</p>
+<h2>学习资源</h2>
+<h3><a class="header-anchor" href="#agentic-ai-从-调模型-到-设计系统"><span></span></a><a href="https://www.deeplearning.ai/courses/agentic-ai/" target="_blank" rel="noopener noreferrer">Agentic AI：从“调模型”到“设计系统”</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122239830.png" alt=""></p>
+<p>DeepLearning.AI推出了“Agentic AI”课程。该课程旨在教授学员构建能够通过迭代、多步骤工作流程采取行动的AI智能体系统，涵盖从设计模式到部署和评估的实用知识。课程内容包括四种设计模式：反思（AI自我批评并改进输出）、工具使用（AI与外部工具集成）、规划（将复杂任务分解为可执行步骤）和多智能体工作流程（协调多个专业AI系统）。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122243290.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 64 期）：习惯驱动多数行为</title>
       <link>https://weekly.shawnxie.top/content/2025/64.html</link>
@@ -101,66 +218,6 @@
 <p>一本关于构建智能系统的设计模式的实用指南</p>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510082303879.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？</title>
-      <link>https://weekly.shawnxie.top/content/2025/65.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/65.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？</source>
-      <description>肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？ 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 在...</description>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<blockquote>
-<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
-<strong>更新时间</strong>: 周一<br>
-<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
-<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
-<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122243290.png" alt=""></p>
-<p>在深夜游戏后关闭电脑时，出现有可用更新并点下了“更新并关机”，以为更新完成后会自动关机，但一觉醒来发现电脑还呼呼转着风扇！</p>
-<p>10月2号，微软在 Windows 11 开发者预览频道的 Dev 频道 26220.6760 中，宣布：修复了一个潜在<a href="https://blogs.windows.com/windows-insider/2025/09/29/announcing-windows-11-insider-preview-build-26220-6760-dev-channel/" target="_blank" rel="noopener noreferrer">问题</a>，该问题可能导致点击“更新并关闭”之后实际上无法关闭您的电脑。</p>
-<h2>业界资讯</h2>
-<h3><a class="header-anchor" href="#_2025《福布斯》全球最佳雇主公布-微软蝉联榜首-国家电网、阿里、腾讯中国内地前三"><span></span></a><a href="https://finance.sina.com.cn/tech/digi/2025-10-09/doc-infticeh0499416.shtml?froms=ggmp" target="_blank" rel="noopener noreferrer">2025《福布斯》全球最佳雇主公布：微软蝉联榜首，国家电网、阿里、腾讯中国内地前三</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122208165.png" alt=""></p>
-<p>10月9日，福布斯发布全球最佳雇主榜单。微软蝉联榜首，达美航空、谷歌母公司Alphabet、Adobe等紧随其后，苹果排名第九。中国内地53家企业入选，国家电网、阿里巴巴、腾讯分列中国内地前三，榜单前十名中软件 IT 与服务业、银行与金融业企业各占三席。评选基于对50多国30多万员工的匿名调查，从薪资、职业晋升机会等多维度打分，结合过去三年数据统计得出。</p>
-<h3><a class="header-anchor" href="#《时代》公布年度300大发明榜单-宇树科技、deepseek、华为、比亚迪上榜"><span></span></a><a href="https://finance.sina.com.cn/wm/2025-10-10/doc-inftkkxt1625221.shtml" target="_blank" rel="noopener noreferrer">《时代》公布年度300大发明榜单：宇树科技、DeepSeek、华为、比亚迪上榜</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122311145.png" alt=""></p>
-<p>10月10日，美国《时代》杂志公布了2025年度最佳发明榜单，共有300款产品上榜，其中包括宇树科技、DeepSeek、华为、比亚迪、苹果公司的产品。</p>
-<h2>佳文共赏</h2>
-<h3><a class="header-anchor" href="#编程语言拟人化漫画"><span></span></a><a href="https://leftoversalad.com/c/015_programmingpeople/" target="_blank" rel="noopener noreferrer">编程语言拟人化漫画</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122223212.png" alt=""></p>
-<p>各种编程语言拟人化漫画。</p>
-<h2>技术博客</h2>
-<h3><a class="header-anchor" href="#python-3-14-来了-它有多快"><span></span></a><a href="https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it" target="_blank" rel="noopener noreferrer">Python 3.14 来了，它有多快？</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122241113.png" alt=""></p>
-<p>作者对Python 3.14发布后的性能测试分析。通过设计包含多个维度（如不同Python版本、解释器类型、测试脚本、线程模式和运行设备）的测试矩阵，对Python 3.14的性能进行了全面评估。测试结果显示，Python 3.14相较于前一版本有了显著的速度提升，尤其是在多线程环境下，自由线程解释器表现出色，3.14版本的自由线程解释器在多线程CPU密集型应用中比标准解释器快约2 - 3.1倍。此外，Pypy 3.11表现也十分出色，速度略快于Node.js，几乎是3.14的5倍。不过，作者也指出，尽管基准测试有趣，但并不能完全代表真实应用的性能，因为现实中的应用通常会混合使用纯Python和原生代码，而作者的测试仅运行纯Python代码。</p>
-<h3><a class="header-anchor" href="#为何如今的-python-开发者青睐类型提示"><span></span></a><a href="https://pyrefly.org/blog/why-typed-python/" target="_blank" rel="noopener noreferrer">为何如今的 Python 开发者青睐类型提示</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122315220.png" alt=""></p>
-<p>文章探讨了现代Python开发者为何越来越倾向于使用类型提示（type hints），并介绍了如何开始使用类型提示来编写更高质量、更可靠的代码。</p>
-<p>Python因其动态类型特性而广受欢迎，尤其在AI、数据科学和科学计算领域。然而，随着项目从实验阶段转向生产环境，动态类型的灵活性可能带来风险。2014年，PEP 484引入了类型提示，允许开发者在Python中使用静态类型注解，这一特性在Python 3.5中被引入，并不断完善。类型提示通过渐进式类型系统，允许开发者逐步添加类型注解，而不会破坏现有代码。</p>
-<p>使用类型提示有诸多好处，包括早期捕获错误、使代码更易于阅读和审查，以及帮助开发者更快地将实验代码扩展到生产系统。文章建议开发者在项目初期就开始添加类型注解，并选择合适的类型检查器，如Pyrefly，将其集成到IDE和CI/CD流程中。此外，开发者可以通过官方文档和社区资源提升类型提示的使用技能。</p>
-<p>总之，类型提示是Python代码未来的重要投资，虽然需要一些初始工作，但它可以减少调试时间、简化代码审查，并减少生产问题。</p>
-<h2>开源项目</h2>
-<h3><a class="header-anchor" href="#chrome-devtools-mcp-浏览器控制mcp"><span></span></a><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener noreferrer">chrome-devtools-mcp：浏览器控制MCP</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122310760.png" alt=""></p>
-<p>chrome-devtools-mcp 是一个用于让编程助手（如 Gemini、Claude 等）控制和检查 Chrome 浏览器的工具。</p>
-<h2>工具推荐</h2>
-<h3><a class="header-anchor" href="#platypus"><span></span></a><a href="https://sveinbjorn.org/platypus" target="_blank" rel="noopener noreferrer">Platypus</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122302722.png" alt=""></p>
-<p>Platypus 可以将命令行脚本（如 shell 脚本、Python、Perl、Ruby、PHP、JavaScript 等）封装为 macOS 原生应用程序，使其更易于与不熟悉命令行界面的用户共享。</p>
-<h3><a class="header-anchor" href="#ollama网页搜索"><span></span></a><a href="https://ollama.com/blog/web-search" target="_blank" rel="noopener noreferrer">Ollama网页搜索</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122303854.png" alt=""></p>
-<p>Ollama提供了一个新的Web搜索API，允许用户通过API从互联网获取最新信息，以增强模型的准确性和减少幻觉。</p>
-<h3><a class="header-anchor" href="#全球儿歌乐园"><span></span></a><a href="https://beddysongs.com/zh" target="_blank" rel="noopener noreferrer">全球儿歌乐园</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122306107.png" alt=""></p>
-<p>汇聚世界各地的经典与原创儿歌，让孩子在熟悉与新奇的旋律中快乐成长，感受音乐带来的温暖与陪伴。</p>
-<h2>学习资源</h2>
-<h3><a class="header-anchor" href="#agentic-ai-从-调模型-到-设计系统"><span></span></a><a href="https://www.deeplearning.ai/courses/agentic-ai/" target="_blank" rel="noopener noreferrer">Agentic AI：从“调模型”到“设计系统”</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122239830.png" alt=""></p>
-<p>DeepLearning.AI推出了“Agentic AI”课程。该课程旨在教授学员构建能够通过迭代、多步骤工作流程采取行动的AI智能体系统，涵盖从设计模式到部署和评估的实用知识。课程内容包括四种设计模式：反思（AI自我批评并改进输出）、工具使用（AI与外部工具集成）、规划（将复杂任务分解为可执行步骤）和多智能体工作流程（协调多个专业AI系统）。</p>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122243290.png" type="image/png"/>
     </item>
     <item>
       <title>肖恩技术周刊（第 63 期）：搞笑诺贝尔奖</title>
