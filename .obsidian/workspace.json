@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "284a857551dc7e78",
+        "id": "8cf9f68a6b5d2476",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec28321c485cdde",
+            "id": "c5dd61504c4d6780",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "docs/content/2025/72.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "72"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context-engineering-intro",
+                "query": "Cognee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/content/2025/72.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "72 的反向链接列表"
             }
           },
           {
@@ -173,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62196a9aacfdb958",
+  "active": "c5dd61504c4d6780",
   "lastOpenFiles": [
-    "未命名.base",
+    "docs/README.md",
+    "docs/content/2025/72.md",
+    "source/template.md",
+    "README.md",
     "docs/content/2025/71.md",
+    "未命名.base",
     "docs/content/2025/70.md",
     "docs/content/2025/69.md",
     "docs/content/2025/68.md",
@@ -198,9 +205,6 @@
     "docs/content/2025/52.md",
     "docs/content/2025/51.md",
     "docs/content/2025/50.md",
-    "docs/content/2025/48.md",
-    "docs/content/2025/49.md",
-    "docs/content/2025/46.md",
     "未命名 1.base",
     "landiannews.com/archives",
     "landiannews.com",
