@@ -6,10 +6,100 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>feedId:106642906166709248+userId:73601809993285632</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Dec 2025 16:13:35 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 16:13:35 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 15:02:42 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 15:02:42 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 74 期）：AI重塑未来</title>
+      <link>https://weekly.shawnxie.top/content/2025/74.html</link>
+      <guid>https://weekly.shawnxie.top/content/2025/74.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 74 期）：AI重塑未来</source>
+      <description>肖恩技术周刊（第 74 期）：AI重塑未来 周刊内容: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。 更新时间: 周一 历史收录: 技术周刊合集 订阅方式: 微信公众号“肖恩聊技术”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~ 公众号二维码 《时代》杂志将2025 “年...</description>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p><strong>周刊内容</strong>: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
+<strong>更新时间</strong>: 周一<br>
+<strong>历史收录</strong>: <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&amp;action=getalbum&amp;album_id=3492416248238096386#wechat_redirect" target="_blank" rel="noopener noreferrer">技术周刊合集</a> <br>
+<strong>订阅方式</strong>: 微信公众号“<strong>肖恩聊技术</strong>”，除周刊外还有更多原创技术博文，欢迎关注👏🏻~<br>
+<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="300"></p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214215740551.png" alt=""></p>
+<p>《时代》杂志将2025 “<strong>年度人物</strong>” 称号授予了的AI的构建者们，包含马克·扎克伯格（Meta）、苏姿丰（AMD）、埃隆·马斯克（xAI）、黄仁勋（英伟达）、萨姆·奥特曼（OpenAI）、德米斯·哈萨比斯（DeepMind）、达里奥·阿莫迪（Anthropic）以及李飞飞（以人为本人工智能研究院）。</p>
+<p>该封面图片灵感来源于1932年经典的“<strong>摩天楼顶上的午餐</strong>”（Lunch atop a Skyscraper）照片，把几位AI领域的代表人物坐到摩天大楼的钢梁上。他们正如同当年修建摩天大楼的工人一样，坐在钢梁上俯瞰世界，他们或许将重塑我们的未来。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214225003555.png" alt=""></p>
+<h2>业界资讯</h2>
+<h3><a class="header-anchor" href="#隆重推出-gpt-5-2"><span></span></a><a href="https://openai.com/zh-Hans-CN/index/introducing-gpt-5-2/" target="_blank" rel="noopener noreferrer">隆重推出 GPT-5.2</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214220112347.png" alt=""></p>
+<p>OpenAI 发布了 GPT-5.2，这是其迄今为止最强大的模型系列，专为专业知识型工作设计。该模型在多个基准测试中刷新了行业水平，包括在 GDPval 测试中，其在涵盖 44 个职业的知识型工作任务上超越了行业专家，表现优于顶尖行业专业人士或与其持平的比例达到 70.9%。</p>
+<h3><a class="header-anchor" href="#汉语盘点2025"><span></span></a><a href="http://www.news.cn/book/zt/2025hzpd/index.html" target="_blank" rel="noopener noreferrer">汉语盘点2025</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214220657931.png" alt=""></p>
+<p>“汉语盘点2025”活动由国家语言资源监测与研究中心、商务印书馆、新华网等联合主办，旨在用一个字或词描述当年的中国与世界，记录社会变迁与世界万象。活动经过网友推荐、专家评选，选出入围年度国内字、词各5个，国际字、词各5个，投票时间为12月9日至12月18日，网友可进入专题页面投票，每天最多投五次。</p>
+<h3><a class="header-anchor" href="#可灵-ai上线主体库-模型拥有记忆能力-角色-永不变脸"><span></span></a><a href="https://www.aibase.com/zh/news/23464" target="_blank" rel="noopener noreferrer">可灵 AI上线主体库：模型拥有记忆能力 角色“永不变脸”</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214221853445.png" alt=""></p>
+<p>快手旗下可灵 AI 发布「主体库」，为 O1 多模态视频模型添加长期记忆能力，用户上传单张角色图，系统可生成 3D 视角补全、多光线变体，支持跨场景一键调用，主体一致性超 96%。2025Q1 将上线「多人主体库」与「实时风格化」，同一画面可锁定 3 位角色，并实时切换卡通、复古、赛博等全局风格。</p>
+<h2>佳文共赏</h2>
+<h3><a class="header-anchor" href="#为什么训练-claude-要用欧陆哲学-模型背后的哲学家「解密」"><span></span></a><a href="https://www.ifanr.com/1648386" target="_blank" rel="noopener noreferrer">为什么训练 Claude 要用欧陆哲学？模型背后的哲学家「解密」</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214223048815.png" alt=""></p>
+<p>Anthropic 公司在开发 Claude 时，引入欧陆哲学来塑造模型的行为准则。欧陆哲学关注人类生存体验和意义生成，与注重逻辑分析和科学实证的分析哲学不同。Claude 的系统提示词要求模型参考欧陆哲学，以避免在对话中过于强调实证和科学，变成缺乏共情的“杠精”。例如，当用户表达“水是纯粹的能量”这种非科学观点时，Claude 不会机械地反驳，而是进入用户的语境进行对话。</p>
+<p>此外，Claude 的开发者 Amanda Askell 还引入亚里士多德的美德伦理学，训练模型具备“良好品格”，如诚实、好奇、仁慈等内在美德，使其在面对未知情境时能做出符合人类价值观的判断。</p>
+<h3><a class="header-anchor" href="#为什么速度很重要"><span></span></a><a href="https://lemire.me/blog/2025/12/05/why-speed-matters/" target="_blank" rel="noopener noreferrer">为什么速度很重要</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214222926517.png" alt=""></p>
+<p>Daniel Lemire 在其博客中强调速度在技术工作中的重要性。他指出，尽管高质量的工作需要时间，但长时间的缓慢进展通常是负面的。快速行动有助于避免在不重要的项目部分上浪费过多时间，例如他曾经花费大量时间构建一个无人问津的课程播客版本。快速迭代还能加速学习过程，因为人们通过犯错来学习，而快速行动意味着更快地犯错和学习。</p>
+<p>他还提到，工作成果会随着时间变得不那么相关，缓慢的工作节奏会导致人们坚持使用过时的成果，如一位教授使用了七年准备的、二十年前的讲义。在某些情况下，如心脏手术，经验丰富的、手术次数多的外科医生往往比准备时间长但手术次数少的医生更可靠。</p>
+<h3><a class="header-anchor" href="#萨姆·奥特曼肮脏的dram交易"><span></span></a><a href="https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal" target="_blank" rel="noopener noreferrer">萨姆·奥特曼肮脏的DRAM交易</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214223009557.png" alt=""></p>
+<p>2025 年 10 月 1 日，OpenAI 与三星和 SK 海力士达成协议，锁定全球 40% 的 DRAM 供应。这一举措震惊了整个行业，因为其规模和保密性极高，甚至两家供应商彼此都不知道对方与 OpenAI 的合作细节。这导致其他公司恐慌性抢购 RAM，加剧了市场的紧张局势。</p>
+<p>同时，由于关税问题、RAM 价格夏季下跌以及二手 RAM 制造设备停滞，市场几乎没有安全库存。OpenAI 的交易仅涉及原始晶圆，而非成品内存模块，这表明其可能旨在限制竞争对手的供应。受此影响，RAM 价格飙升，相关硬件产品如 SSD、小型预装电脑、RADEON 显卡和 Xbox 等面临供应短缺和价格上涨的风险。</p>
+<h2>技术博客</h2>
+<h3><a class="header-anchor" href="#ai研发新范式-基于技术方案全链路生成代码"><span></span></a><a href="https://mp.weixin.qq.com/s/WXXKpVth8OJqvjrnS1m7Cw" target="_blank" rel="noopener noreferrer">AI研发新范式：基于技术方案全链路生成代码</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214223344716.png" alt=""></p>
+<p>腾讯广告审核团队探索出一套面向未来的 AI 开发新范式，以提升从需求确认到功能上线的全链路效率。该范式基于“AI 技术规范 + 模板化技术方案 + MCP 工具集成 + AI 自我总结”，通过技术规范确保代码符合安全、设计、编码风格等标准；利用模板化技术方案将面向人的技术方案转变为面向 AI 的标准化模板，涵盖代码层级结构、控制器层、业务逻辑层、持久层设计；借助 MCP 工具集成实现一站式开发；AI 自我总结则便于人工审查和后续维护。</p>
+<p>在技术选型上，选择 CodeBuddy 作为 AI 编程工具，结合公司先进大模型和 eplus 度量平台。实践表明，该范式使审核中心需求覆盖率超 70%，Agent 代码行采纳率超 50%，研发时长节约超 30%。未来，团队将探索打通开发、测试、部署全链路协同，实现端到端一站式研发。</p>
+<h3><a class="header-anchor" href="#通过skill提升ai前端设计"><span></span></a><a href="https://www.claude.com/blog/improving-frontend-design-through-skills" target="_blank" rel="noopener noreferrer">通过Skill提升AI前端设计</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214223521682.png" alt=""></p>
+<p>本文介绍了通过 Skills 提升 Claude 在前端设计方面的表现。Claude 在无指导时会生成通用的前端设计，如使用 Inter 字体和紫色渐变背景。这是因为模型在采样时基于训练数据中的统计模式预测标记，而安全的设计选择在网页训练数据中占主导地位。</p>
+<p>为解决这一问题，提出了 Skills，即动态加载特定领域知识的文档，Claude 可在运行时按需加载这些技能，避免永久上下文开销。例如，创建前端设计技能，通过指定字体、颜色、动画和背景等设计维度的指导，使 Claude 生成更具吸引力的前端界面。</p>
+<p>此外，还开发了 web-artifacts-builder 技能，指导 Claude 使用现代 Web 技术（如 React、Tailwind CSS 和 shadcn/ui）构建更丰富的前端工件。通过 Skills，开发者无需在每个请求中手动提供前端设计上下文，即可利用 Claude 的可引导性，生成具有品牌特色的前端设计。</p>
+<h3><a class="header-anchor" href="#智能体工程"><span></span></a><a href="https://blog.langchain.com/agent-engineering-a-new-discipline/" target="_blank" rel="noopener noreferrer">智能体工程</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214223245891.png" alt=""></p>
+<p>Agent Engineering 是一种新兴的工程实践，专注于将非确定性的 LLM（大型语言模型）系统迭代优化为可靠的生产级应用。该过程是循环的，包括构建、测试、部署、观察、优化和重复。与传统软件开发不同，Agent Engineering 强调在生产环境中快速迭代和学习，而不是在部署前追求完美。</p>
+<p>Agent Engineering 结合了三个关键技能：产品思维、工程和数据科学。产品思维定义了代理的行为和范围，包括编写驱动代理行为的提示和定义评估标准。工程部分涉及构建使代理生产就绪的基础设施，如工具开发、UI/UX 设计和运行时管理。数据科学则负责衡量代理性能和可靠性，通过系统如评估、A/B 测试和监控来实现。</p>
+<p>这种实践的出现是由于 LLM 的两个基本变化：一是 LLM 足够强大，可以处理复杂的多步骤工作流程；二是这种强大带来了真正的不可预测性。Agent Engineering 让团队能够在生产环境中快速迭代，通过观察真实行为并系统地进行优化，从而构建出可信赖的系统。</p>
+<h2>开源项目</h2>
+<h3><a class="header-anchor" href="#open-autoglm-手机端智能助理框架"><span></span></a><a href="https://github.com/zai-org/Open-AutoGLM" target="_blank" rel="noopener noreferrer">Open-AutoGLM：手机端智能助理框架</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214225609472.png" alt=""></p>
+<p>Open-AutoGLM 是一个开源的手机端智能助理框架，基于 AutoGLM 构建，能够通过 ADB 控制安卓设备，利用视觉语言模型理解屏幕内容并自动化操作流程。</p>
+<h3><a class="header-anchor" href="#lifetrace-智能生活记录"><span></span></a><a href="https://github.com/FreeU-group/LifeTrace" target="_blank" rel="noopener noreferrer">LifeTrace：智能生活记录</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214225503388.png" alt=""></p>
+<p>LifeTrace 是一个基于 AI 的智能生活记录系统，能够自动管理个人任务上下文。它通过自动截图、OCR 文字识别、向量检索和多模态搜索等技术，帮助用户记录、组织和检索日常活动痕迹。</p>
+<h3><a class="header-anchor" href="#spec-kit-规约编程工具包"><span></span></a><a href="https://github.com/github/spec-kit" target="_blank" rel="noopener noreferrer">spec-kit：规约编程工具包</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214225346264.png" alt=""></p>
+<p>Spec-Kit 旨在帮助开发者通过 Spec-Driven Development（规格驱动开发）模式快速构建高质量软件。其核心在于将规格转化为可执行代码，而非仅作为开发参考。开发者可通过 Specify CLI 初始化项目，选择不同 AI 助手（如 Qoder CLI、Claude Code 等）辅助开发。开发流程包括建立项目原则、创建规格、制定技术实施计划、分解任务并执行实现。</p>
+<h2>工具推荐</h2>
+<h3><a class="header-anchor" href="#生命的大小"><span></span></a><a href="https://neal.fun/size-of-life/" target="_blank" rel="noopener noreferrer">生命的大小</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214215636642.png" alt=""></p>
+<p>“Size of Life”网页允许用户通过交互式的方式比较不同生物和生物结构的大小，从微观的DNA到宏观的蓝鲸等。它提供了一个直观的视角来理解生命在不同尺度上的多样性。</p>
+<h3><a class="header-anchor" href="#快速暴露本地服务器到公网"><span></span></a><a href="https://tunnl.gg/" target="_blank" rel="noopener noreferrer">快速暴露本地服务器到公网</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214221743193.png" alt=""></p>
+<p>一个用于将本地服务器暴露到互联网的工具。</p>
+<h3><a class="header-anchor" href="#开源平替"><span></span></a><a href="https://openalternative.co/" target="_blank" rel="noopener noreferrer">开源平替</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214222406991.png" alt=""></p>
+<p>网站提供了流行专有软件的开源平替。</p>
+<h2>资源推荐</h2>
+<h3><a class="header-anchor" href="#claude-快速上手指南"><span></span></a><a href="https://github.com/anthropics/claude-quickstarts" target="_blank" rel="noopener noreferrer">Claude 快速上手指南</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214222737368.png" alt=""></p>
+<p>帮助开发者快速上手使用 Claude API 构建应用的项目集合。它包含多个快速启动项目，如客户支持代理、金融数据分析师、计算机使用演示和自主编码代理等，每个项目都提供了可定制的基础框架。</p>
+<h3><a class="header-anchor" href="#ai编程开源知识库"><span></span></a><a href="https://ai.feishu.cn/wiki/HhHOwodFciggqqkTeF8cK3Wcnyb" target="_blank" rel="noopener noreferrer">AI编程开源知识库</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214221514366.png" alt=""></p>
+<p>通过具体案例，演示 AI 编程的实战过程。</p>
+<h3><a class="header-anchor" href="#结构化提示词知识库"><span></span></a><a href="https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe" target="_blank" rel="noopener noreferrer">结构化提示词知识库</a></h3>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214221239540.png" alt=""></p>
+<p>汇集了高质量的提示词工程技术、教程和工具相关内容。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214215740551.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 73 期）：何意味？</title>
       <link>https://weekly.shawnxie.top/content/2025/73.html</link>
@@ -181,9 +271,6 @@
 <h3><a class="header-anchor" href="#nano-banana-pro提示词推荐"><span></span></a><a href="https://youmind.com/zh-CN/nano-banana-pro-prompts" target="_blank" rel="noopener noreferrer">Nano Banana Pro提示词推荐</a></h3>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251130210922110.png" alt=""></p>
 <p>各种类型的Nano Banana Pro提示词参考。</p>
-<h3><a class="header-anchor" href="#播客创作ai-工具listenhub"><span></span></a><a href="https://listenhub.ai/zh" target="_blank" rel="noopener noreferrer">播客创作AI 工具ListenHub</a></h3>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251130212120528.png" alt=""></p>
-<p>ListenHub 是一款专注于播客创作的 AI 工具，其核心技术包括自然对话信息获取、超真实人声合成以及书面语转口语的智能 TTS（FlowSpeech）。通过自然对话，创作者可以轻松获取所需信息，而超真实人声技术则提供了逼真的人声效果，提升了播客的听感体验。FlowSpeech 作为首个书面语转口语的智能 TTS，能够将任何内容转化为自然口语，极大提高了创作效率，可将创作效率提升 10 倍。此外，ListenHub 提供了不同版本的会员服务，以满足不同创作者的需求，包括脚本编辑、音频与视频导出、音频 API 接口及 MCP 使用权限等功能，支持多种设备，覆盖中文（普通话）和英语两种语言。</p>
 <h2>资源推荐</h2>
 <h3><a class="header-anchor" href="#上下文工程指南"><span></span></a><a href="https://weaviate.io/ebooks/the-context-engineering-guide" target="_blank" rel="noopener noreferrer">上下文工程指南</a></h3>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251130203716416.png" alt=""></p>
