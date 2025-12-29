@@ -13,6 +13,11 @@ export default hopeTheme({
   navbar,
   sidebar,
   copyright: "MIT Licensed | Copyright © 2024 - 至今 肖恩技术周刊",
+  pageInfo: [
+    'Date',
+    'ReadingTime',
+    'Word'  
+  ],
 
   plugins: {
     feed: true,
