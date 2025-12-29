@@ -1,11 +1,13 @@
 name: docs
 
 on:
-  # 每当 push 到 main 分支时触发部署
   push:
     branches: [main]
-  # 手动触发部署
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   docs:
@@ -13,24 +15,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
           fetch-depth: 0
 
-      - name: 设置 Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          # 选择要使用的 node 版本
           node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Run Build Script
+      - name: Update latest links
+        run: npm run update:links
+
+      - name: Build docs
         run: npm run docs:build
 
-      - name: 部署到 GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: docs/.vuepress/dist
+          token: ${{ secrets.ACCESS_TOKEN }}
+          branch: gh-pages
+          folder: docs/.vuepress/dist

@@ -1,10 +1,34 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import theme from './theme/index.js'
+import fs from 'fs'
+import path from 'path'
+
+const articlesData = JSON.stringify(
+  JSON.parse(
+    fs.readFileSync(
+      path.resolve(__dirname, './articles.json'),
+      'utf-8'
+    )
+  )
+)
+
+function articlesReplacePlugin() {
+  return {
+    name: 'articles-replace',
+    transform(code, id) {
+      if (id.includes('RecentArticles.vue')) {
+        return code.replace('const articles = __ARTICLES__', `const articles = ${articlesData}`)
+      }
+      return null
+    }
+  }
+}
 
 export default defineUserConfig({
   bundler: viteBundler({
     viteOptions: {
+      plugins: [articlesReplacePlugin()],
       css: {
         preprocessorOptions: {
           scss: {
