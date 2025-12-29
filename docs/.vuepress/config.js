@@ -39,6 +39,31 @@ const generateContentSidebar = () => {
   return sidebar;
 };
 
+const generateCollectionSidebar = () => {
+  const collectionDir = 'docs/collection';
+  const sidebar = [];
+  
+  // 读取所有 .md 文件
+  const files = fs.readdirSync(collectionDir)
+    .filter(file => path.extname(file) === '.md')
+    .sort((a, b) => {
+      // 按年份降序排序
+      const yearA = parseInt(path.basename(a, '.md'));
+      const yearB = parseInt(path.basename(b, '.md'));
+      return yearB - yearA;
+    });
+  
+  files.forEach(file => {
+    const filePath = path.join(collectionDir, file);
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    const titleMatch = fileContent.match(/^#\s+(.*)$/m);
+    const title = titleMatch ? titleMatch[1] : `${path.basename(file, path.extname(file))}年总结`;
+    sidebar.push({ text: title, link: `${path.basename(file)}` });
+  });
+  
+  return sidebar;
+};
+
 export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
@@ -59,14 +84,9 @@ export default defineUserConfig({
         children: generateContentSidebar(),
       },
       {
-        text: '合集',
+        text: '年度总结',
         prefix: '/collection/',
-        children: [
-          {
-            text: '2024',
-            link: '2024.md'
-          }
-        ],
+        children: generateCollectionSidebar(),
       },
       {
         text: '博客',
@@ -86,15 +106,10 @@ export default defineUserConfig({
           link: '/'
         },
         {
-          text: '合集',
+          text: '年度总结',
           prefix:'collection/',
           collapsible: true,
-          children: [
-            {
-              text: '2024年周刊合集（01期 - 30期）',
-              link: '2024.md'
-            }
-          ],
+          children: generateCollectionSidebar(),
         },
         {
           text: '周刊',

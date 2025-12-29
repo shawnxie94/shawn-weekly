@@ -6,7 +6,7 @@ actions:
   - text: 新一期
     link: /content/2025/76.html
     type: primary
-  - text: 合集
+  - text: 年度总结
     link: /collection/2024.html
     type: secondary 
   - text: 订阅
