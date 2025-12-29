@@ -21,4 +21,3 @@ XXXX
 ## 资源推荐
 
 
-<CommentService />

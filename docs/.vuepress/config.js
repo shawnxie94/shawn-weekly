@@ -1,65 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
-import { hopeTheme } from 'vuepress-theme-hope'
 import { defineUserConfig } from 'vuepress'
-import { cachePlugin } from '@vuepress/plugin-cache'
-import fs from 'fs';
-import path from 'path';
-
-const generateContentSidebar = () => {
-  const contentDir = 'docs/content';
-  const sidebar = [];
-  const years = fs.readdirSync(contentDir)
-    .filter(year => fs.statSync(path.join(contentDir, year)).isDirectory() && year !== 'picture')
-    .sort((a, b) => parseInt(b) - parseInt(a));
-    
-  years.forEach(year => {
-    const yearSidebar = { text: year, prefix: `${year}/`, collapsible: true, children: [] };
-    fs.readdirSync(path.join(contentDir, year)).forEach(file => {
-      const filePath = path.join(contentDir, year, file);
-      const fileContent = fs.readFileSync(filePath, 'utf-8');
-      const titleMatch = fileContent.match(/^#\s+(.*)$/m);
-      let title = titleMatch ? titleMatch[1] : `第 ${path.basename(file, path.extname(file))} 期`;
-      // 如果标题为"肖恩技术周刊（第 X 期）：XXX"，则调整为"第 X 期：XXX"
-      const shortTitleMatch = title.match(/技术周刊（第 (\d+) 期）：(.+)/);
-      if (shortTitleMatch) {
-        title = `第 ${shortTitleMatch[1]} 期：${shortTitleMatch[2]}`;
-      }
-      yearSidebar.children.push({ text: title, link: `${path.basename(file, path.extname(file))}.md` });
-    });
-    yearSidebar.children.sort((a, b) => {
-      const numA = parseInt(a.text.match(/第 (\d+) 期/)[1], 10);
-      const numB = parseInt(b.text.match(/第 (\d+) 期/)[1], 10);
-      return numB - numA;
-    });
-    sidebar.push(yearSidebar);
-  });
-  return sidebar;
-};
-
-const generateCollectionSidebar = () => {
-  const collectionDir = 'docs/collection';
-  const sidebar = [];
-  
-  // 读取所有 .md 文件
-  const files = fs.readdirSync(collectionDir)
-    .filter(file => path.extname(file) === '.md')
-    .sort((a, b) => {
-      // 按年份降序排序
-      const yearA = parseInt(path.basename(a, '.md'));
-      const yearB = parseInt(path.basename(b, '.md'));
-      return yearB - yearA;
-    });
-  
-  files.forEach(file => {
-    const filePath = path.join(collectionDir, file);
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
-    const titleMatch = fileContent.match(/^#\s+(.*)$/m);
-    const title = titleMatch ? titleMatch[1] : `${path.basename(file, path.extname(file))}年总结`;
-    sidebar.push({ text: title, link: `${path.basename(file)}` });
-  });
-  
-  return sidebar;
-};
+import theme from './theme/index.js'
 
 export default defineUserConfig({
   bundler: viteBundler({
@@ -73,109 +14,7 @@ export default defineUserConfig({
       }
     }
   }),
-  theme: hopeTheme({
-    hostname: 'https://weekly.shawnxie.top',
-    logo: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
-    repo: 'https://github.com/shawnxie94/shawn-weekly',
-    editLink: false,
-    subSidebar: 'auto',
-    contributors: false,
-    
-    // 启用搜索功能
-    plugins: {
-      // 搜索插件
-      slimsearch: {
-        indexContent: true,
-        suggestion: true,
-        locales: {
-          '/': {
-            placeholder: '搜索',
-          }
-        },
-      },
-      
-      // 评论功能
-      comment: {
-        provider: 'giscus',
-        repo: 'shawnxie94/shawn-weekly',
-        repoId: 'R_kgDOMGLftw',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDOMGLft84CmWJb',
-        mapping: 'pathname',
-        reactionsEnabled: true,
-        emitMetadata: false,
-        inputPosition: 'bottom',
-        lightTheme: 'light',
-        darkTheme: 'dark',
-        lang: 'zh-CN'
-      },
-      
-      // 分析功能
-      analytics: {
-        service: 'umami',
-        id: '3b366c06-d035-411e-a013-8efbabbdad43',
-        link: 'https://cloud.umami.is/script.js'
-      },
-      
-      // RSS功能
-      feed: {
-        hostname: 'https://weekly.shawnxie.top',
-        rss: true,
-        count: 100000,
-        filter: (page) => page.path.startsWith('/content/') || page.path.startsWith('/collection/'),
-        channel: {
-          description: 'feedId:106642906166709248+userId:73601809993285632'
-        }
-      }
-    },
-    
-    navbar: [
-      {
-        text: '主页',
-        link: '/'
-      },
-      {
-        text: '目录',
-        prefix: '/content/',
-        children: generateContentSidebar(),
-      },
-      {
-        text: '总结',
-        prefix: '/collection/',
-        children: generateCollectionSidebar(),
-      },
-      {
-        text: '博客',
-        link: 'https://shawnxie.top/',
-      },
-      {
-        text: '订阅',
-        link: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3492416248238096386#wechat_redirect',
-      },
-    ],
-    sidebar: {
-      displayAllHeaders: false,
-      '/': [
-        {
-          text: '主页',
-          collapsible: true,
-          link: '/'
-        },
-        {
-          text: '总结',
-          prefix:'collection/',
-          collapsible: true,
-          children: generateCollectionSidebar(),
-        },
-        {
-          text: '周刊',
-          prefix:'content/',
-          collapsible: true,
-          children: generateContentSidebar(),
-        },
-      ],
-    },
-  }),
+  theme,
   lang: 'zh-CN',
   title: '肖恩技术周刊',
   description: '记录有价值的技术内容',
@@ -189,11 +28,5 @@ export default defineUserConfig({
     [
       'meta',{ name: 'msvalidate.01', content: '2F1791A628BF53E1505F40AA9EBF45AD' }
     ]
-  ],
-  plugins: [
-    // 放到最后
-    cachePlugin({
-      type: 'filesystem',
-    }),
-  ],
+  ]
 })

@@ -19,5 +19,4 @@ features:
     details: 每周一 8:30 不见不散
   - title: 订阅推送
     details: 支持公众号订阅，不错过每期精彩！
-footer: MIT 协议 | 版权所有 © 2024-至今
 ---
