@@ -59,14 +59,6 @@ export default defineUserConfig({
     [
       'script',
       { 'data-website-id': '3b366c06-d035-411e-a013-8efbabbdad43' }
-    ],
-    [
-      "script",
-      {
-        src: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js",
-        async: "true",
-        referrerpolicy: "no-referrer-when-downgrade"
-      },
     ]
   ]
 })

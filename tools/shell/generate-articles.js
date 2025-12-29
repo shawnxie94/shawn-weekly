@@ -1,9 +1,9 @@
 const fs = require('fs')
 const path = require('path')
 
-const contentDir = path.resolve(__dirname, '../docs/content')
-const outputFile = path.resolve(__dirname, '../docs/.vuepress/articles.json')
-const componentFile = path.resolve(__dirname, '../docs/.vuepress/components/RecentArticles.vue')
+const contentDir = path.resolve(__dirname, '../../docs/content')
+const outputFile = path.resolve(__dirname, '../../docs/.vuepress/articles.json')
+const componentFile = path.resolve(__dirname, '../../docs/.vuepress/components/RecentArticles.vue')
 
 const articleMatcher = /(\d+)\/(\d+)\.md$/
 
