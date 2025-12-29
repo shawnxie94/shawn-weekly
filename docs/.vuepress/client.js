@@ -4,9 +4,9 @@ import { h } from 'vue'
 
 defineGiscusConfig({
   repo: 'shawnxie94/shawn-weekly',
-  repoId: 'R_kgDOLCv9Sw',
+  repoId: 'R_kgDOMGLftw',
   category: 'Announcements',
-  categoryId: 'DIC_kwDOLCv9S84CcihP',
+  categoryId: 'DIC_kwDOMGLft84CmWJb',
   mapping: 'pathname',
   reactionsEnabled: true,
   emitMetadata: false,
