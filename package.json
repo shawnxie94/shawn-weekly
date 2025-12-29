@@ -4,7 +4,7 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.19",
+    "@vuepress/bundler-vite": "^2.0.0-rc.26",
     "@vuepress/plugin-cache": "^2.0.0-rc.66",
     "@vuepress/plugin-comment": "^2.0.0-rc.66",
     "@vuepress/plugin-feed": "^2.0.0-rc.66",
@@ -12,6 +12,6 @@
     "@vuepress/plugin-umami-analytics": "^2.0.0-rc.66",
     "@vuepress/theme-default": "^2.0.0-rc.66",
     "sass-embedded": "^1.83.0",
-    "vuepress": "^2.0.0-rc.19"
+    "vuepress": "^2.0.0-rc.26"
   }
 }
