@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const projectRoot = path.resolve(__dirname, '..');
+const projectRoot = path.resolve(__dirname, '../..');
 const contentDir = path.join(projectRoot, 'docs/content');
 const collectionDir = path.join(projectRoot, 'docs/collection');
 const readmePath = path.join(projectRoot, 'docs/README.md');
