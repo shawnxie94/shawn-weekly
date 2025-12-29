@@ -40,11 +40,5 @@ export default hopeTheme({
       darkTheme: 'dark',
       lang: 'zh-CN'
     },
-    
-    analytics: {
-      service: 'umami',
-      id: '3b366c06-d035-411e-a013-8efbabbdad43',
-      link: 'https://cloud.umami.is/script.js'
-    }
   },
 })

@@ -27,6 +27,14 @@ export default defineUserConfig({
     ],
     [
       'meta',{ name: 'msvalidate.01', content: '2F1791A628BF53E1505F40AA9EBF45AD' }
+    ],
+    [
+      'script',
+      { defer: '', src: 'https://cloud.umami.is/script.js' },
+    ],
+    [
+      'script',
+      { 'data-website-id': '3b366c06-d035-411e-a013-8efbabbdad43' }
     ]
   ]
 })
