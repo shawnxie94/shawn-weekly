@@ -5,6 +5,7 @@ import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
 import { cachePlugin } from '@vuepress/plugin-cache'
 import { feedPlugin } from '@vuepress/plugin-feed'
 import { umamiAnalyticsPlugin } from '@vuepress/plugin-umami-analytics'
+import { commentPlugin } from '@vuepress/plugin-comment'
 import fs from 'fs';
 import path from 'path';
 
@@ -68,8 +69,8 @@ export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
     hostname: 'https://weekly.shawnxie.top',
-    logo: 'https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/image-sjql.png',
-    repo: 'https://github.com/Xiaoxie1994/shawn-weekly',
+    logo: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+    repo: 'https://github.com/shawnxie94/shawn-weekly',
     editLink: false,
     subSidebar: 'auto',
     contributors: false,
@@ -84,7 +85,7 @@ export default defineUserConfig({
         children: generateContentSidebar(),
       },
       {
-        text: '年度总结',
+        text: '总结',
         prefix: '/collection/',
         children: generateCollectionSidebar(),
       },
@@ -106,7 +107,7 @@ export default defineUserConfig({
           link: '/'
         },
         {
-          text: '年度总结',
+          text: '总结',
           prefix:'collection/',
           collapsible: true,
           children: generateCollectionSidebar(),
@@ -125,7 +126,7 @@ export default defineUserConfig({
   description: '记录有价值的技术内容',
   head: [
     [
-      'link',{ rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/image-sjql.png' }
+      'link',{ rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png' }
     ],
     [
       'meta',{ name: 'google-site-verification', content: 'rBr3QpOiV6jhzWBKMvyt2NUZOPlgtVBms1Fmq6u--1s' }
@@ -157,6 +158,10 @@ export default defineUserConfig({
       id: '3b366c06-d035-411e-a013-8efbabbdad43',
       link: 'https://cloud.umami.is/script.js'
     }),
+    commentPlugin({
+      provider: 'Giscus'
+    }),
+
     // 放到最后
     cachePlugin({
       type: 'filesystem',

@@ -1,12 +1,12 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/image-sjql.png
+heroImage: https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png
 heroText: 肖恩技术周刊
 actions:
   - text: 新一期
     link: /content/2025/76.html
     type: primary
-  - text: 年度总结
+  - text: 总结
     link: /collection/2024.html
     type: secondary 
   - text: 订阅

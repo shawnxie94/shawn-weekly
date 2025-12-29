@@ -6,13 +6,13 @@
 ## 往期内容
 网页阅读推荐点击[shawn-weekly](https://weekly.shawnxie.top)，获得更好阅读体验。
 
-![](https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/202412302324792.png)
+![](https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412302324792.png)
 
 ## 订阅方式
 避免错过每期内容，可通过公众号订阅：
 - 肖恩聊技术： [技术周刊合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3492416248238096386#wechat_redirect) 
 
-<img src="https://cdn.jsdelivr.net/gh/Xiaoxie1994/images/images/20241103221454.png" alt="公众号二维码" width="400">
+<img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20241103221454.png" alt="公众号二维码" width="400">
 
 ## 信息源
 👉🏻 [阅读信息源](./source/ReadSource.opml) 👈🏻
