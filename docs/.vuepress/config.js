@@ -1,11 +1,7 @@
 import { viteBundler } from '@vuepress/bundler-vite'
-import { defaultTheme } from '@vuepress/theme-default'
+import { hopeTheme } from 'vuepress-theme-hope'
 import { defineUserConfig } from 'vuepress'
-import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
 import { cachePlugin } from '@vuepress/plugin-cache'
-import { feedPlugin } from '@vuepress/plugin-feed'
-import { umamiAnalyticsPlugin } from '@vuepress/plugin-umami-analytics'
-import { commentPlugin } from '@vuepress/plugin-comment'
 import fs from 'fs';
 import path from 'path';
 
@@ -66,14 +62,73 @@ const generateCollectionSidebar = () => {
 };
 
 export default defineUserConfig({
-  bundler: viteBundler(),
-  theme: defaultTheme({
+  bundler: viteBundler({
+    viteOptions: {
+      css: {
+        preprocessorOptions: {
+          scss: {
+            quietDeps: true
+          }
+        }
+      }
+    }
+  }),
+  theme: hopeTheme({
     hostname: 'https://weekly.shawnxie.top',
     logo: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
     repo: 'https://github.com/shawnxie94/shawn-weekly',
     editLink: false,
     subSidebar: 'auto',
     contributors: false,
+    
+    // 启用搜索功能
+    plugins: {
+      // 搜索插件
+      slimsearch: {
+        indexContent: true,
+        suggestion: true,
+        locales: {
+          '/': {
+            placeholder: '搜索',
+          }
+        },
+      },
+      
+      // 评论功能
+      comment: {
+        provider: 'giscus',
+        repo: 'shawnxie94/shawn-weekly',
+        repoId: 'R_kgDOMGLftw',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOMGLft84CmWJb',
+        mapping: 'pathname',
+        reactionsEnabled: true,
+        emitMetadata: false,
+        inputPosition: 'bottom',
+        lightTheme: 'light',
+        darkTheme: 'dark',
+        lang: 'zh-CN'
+      },
+      
+      // 分析功能
+      analytics: {
+        service: 'umami',
+        id: '3b366c06-d035-411e-a013-8efbabbdad43',
+        link: 'https://cloud.umami.is/script.js'
+      },
+      
+      // RSS功能
+      feed: {
+        hostname: 'https://weekly.shawnxie.top',
+        rss: true,
+        count: 100000,
+        filter: (page) => page.path.startsWith('/content/') || page.path.startsWith('/collection/'),
+        channel: {
+          description: 'feedId:106642906166709248+userId:73601809993285632'
+        }
+      }
+    },
+    
     navbar: [
       {
         text: '主页',
@@ -136,32 +191,6 @@ export default defineUserConfig({
     ]
   ],
   plugins: [
-    slimsearchPlugin({
-      indexContent: true,
-      suggestion: true,
-      locales: {
-        '/': {
-          placeholder: '搜索',
-        }
-      },
-    }),
-    feedPlugin({
-      hostname: 'https://weekly.shawnxie.top',
-      rss: true,
-      count: 100000,
-      filter: (page) => page.path.startsWith('/content/') || page.path.startsWith('/collection/'),
-      channel:{
-        description: 'feedId:106642906166709248+userId:73601809993285632'
-      }
-    }),
-    umamiAnalyticsPlugin({
-      id: '3b366c06-d035-411e-a013-8efbabbdad43',
-      link: 'https://cloud.umami.is/script.js'
-    }),
-    commentPlugin({
-      provider: 'Giscus'
-    }),
-
     // 放到最后
     cachePlugin({
       type: 'filesystem',
