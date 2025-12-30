@@ -7,7 +7,7 @@ actions:
     link: /content/2025/76.html
     type: primary
   - text: 总结
-    link: /collection/2024.html
+    link: /collection/2025.html
     type: secondary
   - text: 订阅
     link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3492416248238096386#wechat_redirect

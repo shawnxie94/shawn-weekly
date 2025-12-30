@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <script src="echarts.js"></script>
+    <script src="theme/vintage.js"></script>
+</head>
+
+<body>
+    <div style="margin-bottom: 20px;">
+        <label>选择CSV文件: </label>
+        <input type="file" id="fileInput" accept=".csv" onchange="loadData()">
+    </div>
+    <div id="chart" style="width: 1200px;height:600px;"></div>
+    <script type="text/javascript">
+        // 初始化图表
+        let chart = null;
+
+        function loadData() {
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+            if (!file) {
+                return;
+            }
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const data = e.target.result;
+                // 处理CSV数据
+                const rows = data.split('\n').slice(1);
+                const xAxisData = [];
+                const seriesData = [];
+                rows.forEach(row => {
+                    const [period, count] = row.split(',');
+                    if (period && count) {
+                        xAxisData.push(period);
+                        seriesData.push(parseInt(count));
+                    }
+                });
+
+                // 初始化或更新图表
+                if (!chart) {
+                    chart = echarts.init(document.getElementById('chart'), 'vintage');
+                }
+                const option = {
+                    tooltip: {},
+                    xAxis: {
+                        data: xAxisData,
+                        axisLabel: {
+                            interval: 0,
+                            rotate: 45
+                        }
+                    },
+                    yAxis: {},
+                    series: [
+                        {
+                            name: '阅读数',
+                            type: 'bar',
+                            data: seriesData,
+                            label: {
+                                show: true,
+                                position: 'top'
+                            }
+                        },
+                        {
+                            name: '趋势线',
+                            type: 'line',
+                            data: seriesData,
+                            smooth: false,
+                            lineStyle: {
+                                color: '#91cc75',
+                                width: 3,
+                                type: 'dashed'
+                            },
+                            symbol: 'circle',
+                            symbolSize: 8,
+                            itemStyle: {
+                                color: '#91cc75'
+                            }
+                        }
+                    ]
+                };
+                chart.setOption(option);
+            };
+            reader.readAsText(file);
+        }
+
+        // 请选择CSV文件
+    </script>
+</body>
+
+</html>

@@ -1,10 +1,10 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "node tools/shell/generate-articles.js && vuepress build docs",
-    "update:links": "node tools/shell/update-readme-links.js",
-    "docs:prepare": "node tools/shell/update-readme-links.js && vuepress dev docs",
-    "generate:articles": "node tools/shell/generate-articles.js"
+    "docs:build": "node tools/script/generate-articles.js && vuepress build docs",
+    "update:links": "node tools/script/update-readme-links.js",
+    "docs:prepare": "node tools/script/update-readme-links.js && vuepress dev docs",
+    "generate:articles": "node tools/script/generate-articles.js"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.26",

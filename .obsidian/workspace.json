@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2025/76.md",
+                "file": "source/tmp/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "76"
+              "title": "2025"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
-    "collapsed": true
+    "width": 416.5
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -162,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4d80d4ae6287b9b",
+  "active": "22fde25082133112",
   "lastOpenFiles": [
-    "docs/content/2025/75.md",
     "docs/content/2025/76.md",
+    "docs/content/2025/75.md",
     "docs/README.md",
     "source/template.md",
     "docs/content/2025/74.md",
