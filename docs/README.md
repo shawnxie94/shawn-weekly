@@ -14,8 +14,8 @@ actions:
     type: secondary
 features:
   - title: 内容丰富
-    details: 从 100+ RSS订阅源中精心挑选
-  - title: 更新时间
+    details: 从 130+ RSS订阅源中精心挑选
+  - title: 每周更新
     details: 每周一 8:30 不见不散
   - title: 订阅推送
     details: 支持订阅，不错过每期精彩！
