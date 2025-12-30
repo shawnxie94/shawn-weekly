@@ -6,26 +6,26 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Dec 2025 10:28:04 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Dec 2025 10:28:04 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 14:18:35 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 14:18:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
-      <title>2025年总结：AI 时代人类的稀缺特质</title>
+      <title>2025年总结：Agent元年，寻找人类最后的护城河</title>
       <link>https://weekly.shawnxie.top/collection/2025.html</link>
       <guid>https://weekly.shawnxie.top/collection/2025.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">2025年总结：AI 时代人类的稀缺特质</source>
-      <description>2025年总结：AI 时代人类的稀缺特质 2025年结束了，周刊又坚持了一年，可喜可贺。 今年被称作Agent元年，是AI从“只会聊天的对话框”进化为“能够代劳的打工人”的关键转折点。对于这个称呼，行内人感叹星汉灿烂，行外人则是雾里看花。身在其中的我切实感受到AI的变化和影响，至少在编程智能体这个领域，AI已经带来了深刻的变革。今年有哪些关键突破呢： ...</description>
+      <source url="https://weekly.shawnxie.top/rss.xml">2025年总结：Agent元年，寻找人类最后的护城河</source>
+      <description>2025年总结：Agent元年，寻找人类最后的护城河 2025年结束了，周刊又坚持了一年，可喜可贺。 今年被称作Agent元年，是AI从“只会聊天的对话框”进化为“能够代劳的打工人”的关键转折点。对于这个称呼，行内人感叹星汉灿烂，行外人则是雾里看花。身在其中的我切实感受到AI的变化和影响，至少在编程智能体这个领域，AI已经带来了深刻的变革。那么到底有哪...</description>
       <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751319.png" alt=""></p>
 <p>2025年结束了，周刊又坚持了一年，可喜可贺。</p>
-<p>今年被称作<strong>Agent元年</strong>，是AI从“只会聊天的对话框”进化为“能够代劳的打工人”的关键转折点。对于这个称呼，<strong>行内人感叹星汉灿烂，行外人则是雾里看花</strong>。身在其中的我切实感受到AI的变化和影响，至少在编程智能体这个领域，AI已经带来了深刻的变革。今年有哪些关键突破呢：</p>
+<p>今年被称作<strong>Agent元年</strong>，是AI从“只会聊天的对话框”进化为“能够代劳的打工人”的关键转折点。对于这个称呼，<strong>行内人感叹星汉灿烂，行外人则是雾里看花</strong>。身在其中的我切实感受到AI的变化和影响，至少在编程智能体这个领域，AI已经带来了深刻的变革。那么到底有哪些关键性突破呢：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751321.png" alt=""></p>
 <p><strong>技术底层的突破：从“对话”到“推理”</strong>。以<strong>Reasoning Models</strong>（推理模型）为核心的技术路线成熟，模型具备了<strong>慢思考</strong>能力，学会在回答前进行自我检查、多步规划和逻辑推演。Agent能够将一个复杂目标（如“帮我策划一场去日本的旅行并预订所有门票”）拆解成几十个子任务，并具备出错后自动修正的能力。</p>
 <p><strong>交互模式的变革：从“人找工具”到“工具找人”</strong>。Agent开始接管工具操作权，具备了直接操作屏幕、点击按钮和填写表格的能力。<strong>模型上下文协议</strong>（MCP）解决了智能体与外部工具安全、高效交互的核心问题。AI不再是一个APP，而是长在操作系统里。Android、iOS和Windows全面转向“<strong>AI优先</strong>”，Agent成为了调用各种底层功能的接口。</p>
 <p><strong>商业落地的规模化：从“Demo”到“生产力”</strong>。各大公司开始将AI引入到实际业务中，部署多个专业Agent（如财务Agent、HR Agent、代码Agent）组成的“虚拟团队”，通过<strong>Cross-Agent</strong>（A2A）通信协议，多个智能体能够有效连接与协作。</p>
-<p>很多关键标志性事件，都在印证这个趋势：</p>
+<p>很多关键标志性事件，也都在印证这个趋势：</p>
 <ul>
 <li>OpenAI在年初推出的<strong>o3</strong>及后续的<strong>o4-mini</strong>，首次将“<strong>思考链</strong>（CoT）”技术标准化</li>
 <li><strong>DeepSeek-R1</strong>开源发布，颠覆全球大模型竞争格局，激发Agent开发热潮</li>
@@ -36,7 +36,7 @@
 <li>“<strong>豆包手机</strong>”将AI深度集成进硬件，Agent成为了操作系统（OS）的一层，用户只需说话，就能在后台调用各个应用完成操作</li>
 </ul>
 <p>...</p>
-<p>但技术狂欢的背后，我更多的开始思考人类的价值，我们到底还有哪些<strong>稀缺特质</strong>是无法（或者最后）被取代的。为了弄明白这个问题，我让AI帮我总结了一下（笑）：</p>
+<p>但技术狂欢的背后，我更多的开始思考人类的价值，我们到底还有哪些<strong>稀缺特质</strong>是无法（或者最后）被取代的。为了弄明白这个问题，我咨询了一下AI（笑），它的回答是：</p>
 <ul>
 <li><strong>真实性与信任</strong></li>
 <li><strong>情感与人际能力</strong></li>
@@ -51,11 +51,12 @@
 <li><strong>生态与自然资源</strong></li>
 <li><strong>元认知与学习能力</strong></li>
 </ul>
-<p>我很认同，狠狠地点了个赞。AI时代，稀缺性将向“<strong>人类本质</strong>”回归，弄清楚“<strong>人为何为人</strong>”可能是这个时代最重要的问题。</p>
-<p>如果让现在的我来回答这个问题，我会说：“<strong>独特的品味，真实的活人感和小圈子的归属感</strong>”是根本。</p>
+<p>我很认同，并点了一个踩，不愿承认AI比我更懂人类。</p>
+<p>但不可否认，我们在AI时代的稀缺性将向“<strong>人类本质</strong>”回归，弄清楚“<strong>人为何为人</strong>”可能是这个时代最重要的问题。答案可能还需要时间来思索，但如果让现在的我来回答这个问题，我会说：</p>
+<p>“<strong>独特的品味，真实的活人感和小圈子的归属感是人之根本。</strong>”</p>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751322.png" alt=""></p>
 <h2>年度回顾</h2>
-<p>将周刊内容按照时间线并结合社会热度进行串联总结：</p>
+<p>将周刊内容按照时间线进行串联总结：</p>
 <h3>第一季度：许可证之争、国产AI爆火与智能体的萌芽</h3>
 <p>年初，数据库领域率先燃起战火，Redis和Elasticsearch的<strong>许可证变动</strong>引发了社区关于开源商业模式的剧烈讨论。紧接着，<strong>NVIDIA在CES 2025</strong>上发布的RTX 50系列及Blackwell架构，预示着个人PC向AI超级计算机转型的开始。</p>
 <ul>
@@ -88,29 +89,29 @@
 <h2>数据分析</h2>
 <p>2025年1月1日- 12月31日共发表了<strong>46</strong>期周刊，累计<strong>117,458</strong>字（vuepress字数统计），各类内容共<strong>592</strong>条，公众号累计阅读<strong>8410</strong>人次。</p>
 <h3>阅读趋势</h3>
-<p>52-55期题材应该命中了流量池，阅读量高很多。除去这几期外整体趋势比较平稳，已有30+左右的稳定读者啦。</p>
+<p>52-55期题材应该命中了流量池，阅读量高很多。除去这几期外整体趋势比较平稳，已有30+左右的稳定读者啦，谢谢你们的喜欢。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751323.png" alt=""></p>
 <h3>信息源</h3>
 <p>周刊<a href="https://github.com/shawnxie94/shawn-weekly/blob/main/source/ReadSource.opml" target="_blank" rel="noopener noreferrer">信息源</a>持续扩充中，已包含130+ RSS订阅源，主要覆盖了：</p>
 <ul>
 <li>技术前沿资讯</li>
-<li>知名技术博客和个人开发者</li>
+<li>知名开发者技术博客</li>
 <li>国内大厂技术团队公众号（美团、阿里、腾讯、字节等）</li>
 <li>国外技术公司工程博客</li>
 </ul>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751324.png" alt=""></p>
 <h3>内容分析</h3>
-<p>各类内容共<strong>592</strong>条，占比：</p>
+<p>内容共<strong>592</strong>条，类型占比：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751325.png" alt=""></p>
-<p>今年主题覆盖：</p>
+<p>今年主题覆盖情况（TOP100关键词）：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751326.png" alt=""></p>
 <h2>来年规划</h2>
-<p>第一是<strong>增加“活人感”</strong>。正如前文所述，在AI时代，“<strong>活人感</strong>”是最重要的稀缺特质之一。这一点其实在24年总结中已经注意到，但今年碍于精力实在有限，未能做到有效改善。来年周刊的首要目标仍然是去AI味，尝试更人性化的开题，并在内容摘要后增加个人见解。</p>
-<p>第二是<strong>优化信息源</strong>。丰富的信息源是周刊质量的保障，今年增加了不少，达到了134个。但质量质量，只有量不行，更需要质。来年在持续收集的过程中也会对现有信息源进行整体，剔除低质的部分。</p>
-<p>第三是<strong>流程自动化</strong>。周刊的产出流程为：<strong>信息收集 → 阅读 → 留存 → 撰写</strong>。理想状态应该是只聚焦于阅读，标注是否喜欢、想法等，工具基于交互自动生成周刊。</p>
+<p>第一是<strong>增加“活人感”</strong>。正如前文所述，在AI时代，“<strong>活人感</strong>”是最重要的稀缺特质之一。这一点其实在24年总结中已经注意到，但今年碍于精力实在有限，未能做到有效改善。来年继续去AI味，尝试更人性化的开篇内容，并在摘要后增加个人见解。</p>
+<p>第二是<strong>优化信息源</strong>。丰富的信息源是周刊质量的保障，今年增加了不少，达到了134个。但只求量不行，更需要质。来年在持续收集的过程中也会对现有信息源进行整理，剔除低质部分。</p>
+<p>第三是<strong>流程自动化</strong>。周刊的产出流程为：<strong>信息收集 → 阅读 → 留存 → 撰写</strong>。理想状态应该是只聚焦于阅读、标注是否喜欢、想法等，工具基于交互自动生成周刊。</p>
 <p>信息收集基本实现了自动化，通过自部署<code>FreshRSS</code> + 定时任务实现RSS源的定时拉取，再通过网页端或手机应用<code>Readrops</code>实现随时随地碎片阅读，更多细节见：<a href="https://mp.weixin.qq.com/s/-rwukolBewhDbTLEvsaQbA" target="_blank" rel="noopener noreferrer">碎片时间刷文章！懒人阅读方案分享</a>。</p>
-<p>阅读是目前耗时最多的阶段，虽有AI工具辅助，但整体效率仍不高。有考虑搞一个AI初筛工具，但实际上一天收集的内容数量并不多（大概百来篇），且一篇文章多数情况看了标题和第一段就能确定是否对味，筛选并不是核心痛点。效率低的根本原因应该还是阅读本身，被英语水平和阅读效率所拖累（从小就阅读慢😭），来年再研究研究有没有提效思路。</p>
-<p>留存目前使用<code>flomo</code>，撰写是<code>kimi</code> + <code>Obsidian</code> + <code>doocs/md</code>。理论上这俩步可以做到全自动化。</p>
+<p>阅读是目前耗时最多的阶段，虽有AI工具辅助，但整体效率仍不高。有考虑搞一个AI初筛工具，但实际上一天收集的内容数量并不多（大概百来篇），且一篇文章多数情况看了标题和第一段就能确定是否对味，因此筛选并不是核心痛点。效率低的根本原因应该还是阅读本身，被英语水平和阅读效率所拖累（从小就阅读慢😭），来年再研究研究有没有提效思路。</p>
+<p>留存目前使用<code>flomo</code>，撰写是<code>kimi</code> + <code>Obsidian</code> + <code>doocs/md</code>。理论上这两步可以做到全自动化。</p>
 <h2>调查问卷</h2>
 <p>闭门造车当然是不行的，最后还是例行问卷收集环节，虽然召回率很低，但不能没有！</p>
 <img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412310014791.png" alt="问卷调查" width="300">]]></content:encoded>
