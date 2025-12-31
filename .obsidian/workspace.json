@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/tmp/2025.md",
+                "file": "docs/collection/2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,12 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22fde25082133112",
+  "active": "a4d80d4ae6287b9b",
   "lastOpenFiles": [
+    "source/template.md",
     "docs/content/2025/76.md",
     "docs/content/2025/75.md",
     "docs/README.md",
-    "source/template.md",
     "docs/content/2025/74.md",
     "docs/content/2025/73.md",
     "docs/content/2025/72.md",
