@@ -6,8 +6,8 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Dec 2025 14:24:29 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Dec 2025 14:24:29 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 07:08:37 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 07:08:37 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -21,7 +21,7 @@
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751319.png" alt=""></p>
 <p>2025年结束了，周刊又坚持了一年，可喜可贺。</p>
 <p>今年被称作<strong>Agent元年</strong>，是AI从“只会聊天的对话框”进化为“能够代劳的打工人”的关键转折点。对于这个称呼，<strong>行内人感叹星汉灿烂，行外人则是雾里看花</strong>。身在其中的我切实感受到AI的变化和影响，至少在编程智能体这个领域，AI已经带来了深刻的变革。那么到底有哪些关键性突破呢：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751321.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512311505812.png" alt=""></p>
 <p><strong>技术底层的突破：从“对话”到“推理”</strong>。以<strong>Reasoning Models</strong>（推理模型）为核心的技术路线成熟，模型具备了<strong>慢思考</strong>能力，学会在回答前进行自我检查、多步规划和逻辑推演。Agent能够将一个复杂目标（如“帮我策划一场去日本的旅行并预订所有门票”）拆解成几十个子任务，并具备出错后自动修正的能力。</p>
 <p><strong>交互模式的变革：从“人找工具”到“工具找人”</strong>。Agent开始接管工具操作权，具备了直接操作屏幕、点击按钮和填写表格的能力。<strong>模型上下文协议</strong>（MCP）解决了智能体与外部工具安全、高效交互的核心问题。AI不再是一个APP，而是长在操作系统里。Android、iOS和Windows全面转向“<strong>AI优先</strong>”，Agent成为了调用各种底层功能的接口。</p>
 <p><strong>商业落地的规模化：从“Demo”到“生产力”</strong>。各大公司开始将AI引入到实际业务中，部署多个专业Agent（如财务Agent、HR Agent、代码Agent）组成的“虚拟团队”，通过<strong>Cross-Agent</strong>（A2A）通信协议，多个智能体能够有效连接与协作。</p>
@@ -104,7 +104,7 @@
 <p>内容共<strong>592</strong>条，类型占比：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751325.png" alt=""></p>
 <p>今年主题覆盖情况（TOP100关键词）：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751326.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512311506381.png" alt=""></p>
 <h2>来年规划</h2>
 <p>第一是<strong>增加“活人感”</strong>。正如前文所述，在AI时代，“<strong>活人感</strong>”是最重要的稀缺特质之一。这一点其实在24年总结中已经注意到，但今年碍于精力实在有限，未能做到有效改善。来年继续去AI味，尝试更人性化的开篇内容，并在摘要后增加个人见解。</p>
 <p>第二是<strong>优化信息源</strong>。丰富的信息源是周刊质量的保障，今年增加了不少，达到了134个。但只求量不行，更需要质。来年在持续收集的过程中也会对现有信息源进行整理，剔除低质部分。</p>
