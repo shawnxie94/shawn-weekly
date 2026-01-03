@@ -19,15 +19,83 @@ export default hopeTheme({
     'Word'  
   ],
 
+  markdown: {
+    align: true,
+    attrs: true,
+    codeTabs: true,
+    component: true,
+    demo: true,
+    figure: true,
+    imgLazyload: true,
+    imgSize: true,
+    include: true,
+    mark: true,
+    sub: true,
+    sup: true,
+    tabs: true,
+    tasklist: true,
+    vPre: true,
+  },
+
   plugins: {
-    feed: true,
+    blog: true,
+
+    // SEO & Sitemap
+    seo: true,
+    sitemap: true,
+
+    // Feed
+    feed: {
+      atom: true,
+      json: true,
+      rss: true,
+    },
+
+    // Search
     slimsearch: {
       indexContent: true,
       suggestion: true,
-      locales: {
-        '/': {
-          placeholder: '搜索',
-        }
+    },
+
+    // PWA
+    pwa: {
+      favicon: '/favicon.ico',
+      cacheHTML: true,
+      cachePic: true,
+      appendBase: true,
+      apple: {
+        icon: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+        statusBarColor: 'black',
+      },
+      msTile: {
+        image: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+        color: '#000000',
+      },
+      manifest: {
+        icons: [
+          {
+            src: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+            sizes: '512x512',
+            purpose: 'maskable',
+            type: 'image/png',
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+            sizes: '192x192',
+            purpose: 'maskable',
+            type: 'image/png',
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+            sizes: '512x512',
+            type: 'image/png',
+          },
+          {
+            src: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
+            sizes: '192x192',
+            type: 'image/png',
+          },
+        ],
       },
     },
   

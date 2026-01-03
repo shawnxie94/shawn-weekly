@@ -26,6 +26,7 @@ function articlesReplacePlugin() {
 }
 
 export default defineUserConfig({
+  shouldPrefetch: false,
   bundler: viteBundler({
     viteOptions: {
       plugins: [articlesReplacePlugin()],
@@ -44,6 +45,12 @@ export default defineUserConfig({
   description: '记录有价值的技术内容',
   head: [
     [
+      'link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net' }
+    ],
+    [
+      'link', { rel: 'dns-prefetch', href: 'https://cdn.jsdelivr.net' }
+    ],
+    [
       'link',{ rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png' }
     ],
     [
@@ -54,11 +61,7 @@ export default defineUserConfig({
     ],
     [
       'script',
-      { defer: '', src: 'https://cloud.umami.is/script.js' },
+      { defer: true, src: 'https://cloud.umami.is/script.js', 'data-website-id': '3b366c06-d035-411e-a013-8efbabbdad43' },
     ],
-    [
-      'script',
-      { 'data-website-id': '3b366c06-d035-411e-a013-8efbabbdad43' }
-    ]
   ]
 })
