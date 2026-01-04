@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/collection/2025.md",
+                "file": "docs/content/2026/77.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "77"
             }
           }
         ]
@@ -74,11 +74,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -179,7 +181,11 @@
   "active": "a4d80d4ae6287b9b",
   "lastOpenFiles": [
     "source/template.md",
+    "docs/content/2026/77.md",
     "docs/content/2025/76.md",
+    "docs/collection/2025.md",
+    "docs/content/2026",
+    "未命名",
     "docs/content/2025/75.md",
     "docs/README.md",
     "docs/content/2025/74.md",
@@ -203,17 +209,13 @@
     "docs/content/2025/58.md",
     "docs/content/2025/57.md",
     "docs/content/2025/56.md",
-    "docs/content/2025/55.md",
-    "docs/content/2025/54.md",
     "未命名 1.base",
     "landiannews.com/archives",
     "landiannews.com",
     "source/feeds_2025-05-18.opml.xml",
     "source/Subscriptions-OnMyMac.opml",
-    "docs/content/未命名",
     "tools/theme/vintage.js",
     "tools/type-statistics.html",
-    "tools/theme",
     "docs/collection/wordcloud.png",
     "docs/collection/image.png",
     "docs/collection/image-4.png",

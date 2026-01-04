@@ -20,7 +20,7 @@
 </template>
 
 <script setup>
-const articles = [{"year":"2025","issue":"76","link":"/content/2025/76.html","title":"疯狂的白银","image":"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251228231752435.png"},{"year":"2025","issue":"75","link":"/content/2025/75.html","title":"Slop","image":"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251221234910348.png"},{"year":"2025","issue":"74","link":"/content/2025/74.html","title":"AI重塑未来","image":"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214215740551.png"}]
+const articles = [{"year":"2026","issue":"77","link":"/content/2026/77.html","title":"稀缺特质","image":"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260104220305489.png"},{"year":"2025","issue":"76","link":"/content/2025/76.html","title":"疯狂的白银","image":"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251228231752435.png"},{"year":"2025","issue":"75","link":"/content/2025/75.html","title":"Slop","image":"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251221234910348.png"}]
 </script>
 
 <style lang="scss" scoped>
