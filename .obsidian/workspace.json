@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2026/77.md",
+                "file": "docs/content/2026/78.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "77"
+              "title": "78"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the-book-of-secret-knowledge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +179,7 @@
   "active": "a4d80d4ae6287b9b",
   "lastOpenFiles": [
     "source/template.md",
+    "docs/content/2026/78.md",
     "docs/content/2026/77.md",
     "docs/content/2025/76.md",
     "docs/collection/2025.md",
@@ -208,7 +207,6 @@
     "docs/content/2025/59.md",
     "docs/content/2025/58.md",
     "docs/content/2025/57.md",
-    "docs/content/2025/56.md",
     "未命名 1.base",
     "landiannews.com/archives",
     "landiannews.com",
