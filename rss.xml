@@ -6,8 +6,8 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Jan 2026 15:26:16 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2026 15:26:16 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 13:12:51 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 13:12:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -242,6 +242,7 @@
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202512301751322.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2>年度回顾</h2>
 <p>将周刊内容按照时间线进行串联总结：</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260113210300054.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h3>第一季度：许可证之争、国产AI爆火与智能体的萌芽</h3>
 <p>年初，数据库领域率先燃起战火，Redis和Elasticsearch的<strong>许可证变动</strong>引发了社区关于开源商业模式的剧烈讨论。紧接着，<strong>NVIDIA在CES 2025</strong>上发布的RTX 50系列及Blackwell架构，预示着个人PC向AI超级计算机转型的开始。</p>
 <ul>
