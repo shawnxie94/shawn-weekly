@@ -6,20 +6,42 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Jan 2026 13:12:51 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Jan 2026 13:12:51 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 15:30:39 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 15:30:39 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 79 期）：AI结对编程</title>
+      <link>https://weekly.shawnxie.top/content/2026/79.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/79.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 79 期）：AI结对编程</source>
+      <description>肖恩技术周刊（第 79 期）：AI结对编程 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 结对编程（Pair Programming）是一种两名开发者在同一台电脑前并肩作战的敏捷开发实践。它就像赛车中的车手与领航员： 一人负责驾驶（Driver），专注于键盘输入和具体的逻辑实现。 另一人负责领航（Navig...</description>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
+</blockquote>
+<figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260118232654352.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>结对编程</strong>（Pair Programming）是一种两名开发者在同一台电脑前并肩作战的敏捷开发实践。它就像赛车中的车手与领航员：</p>
+<p>一人负责<strong>驾驶（Driver）</strong>，专注于键盘输入和具体的逻辑实现。</p>
+<p>另一人负责<strong>领航（Navigator）</strong>，在旁边观察代码，思考整体架构、捕捉细微错误，并预判潜在的风险。</p>
+<p>这种模式的核心价值在于“<strong>实时代码审查</strong>”，不仅能显著减少 Bug 数量、提升代码质量，还能有效促进团队内部知识共享。</p>
+<p><strong>AI 结对编程</strong>（AI Pair Programming）则是将你的合作伙伴从一名同事换成 AI 编程助手。在传统模式中，两人是平等的思维碰撞，角色通常会定期互换。但在 AI 模式中，关系转变为<strong>开发者作为主导者，AI 作为执行者</strong>。简单对比如下：</p>
+<p>| <strong>维度</strong>   | <strong>传统结对编程 (Human-Human)</strong> | <strong>AI 结对编程 (Human-AI)</strong>    |
+|</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260118232654352.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 78 期）：Markup or Markdown！</title>
       <link>https://weekly.shawnxie.top/content/2026/78.html</link>
       <guid>https://weekly.shawnxie.top/content/2026/78.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 78 期）：Markup or Markdown！</source>
-      <description>肖恩技术周刊（第 78 期）：Markup or Markdown！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 在如今的 AI 时代，Markdown 已经从程序员的“私人工具”变成了全球通用的“沟通协议”。但鲜为人知的是，这个名字本身其实是一场充满黑色幽默的文字游戏，其诞生背景更带有理想主义色彩。 ...</description>
+      <description>肖恩技术周刊（第 78 期）：Markup or Markdown！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 在如今的 AI 时代，Markdown 已经从程序员的“私人工具”变成了全球通用的“沟通协议”。但鲜为人知的是，这个名字本身其实是一场充满黑色幽默的文字游戏，其诞生背景更带有理想主义色彩。 M...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260111232248622.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>在如今的 AI 时代，<strong>Markdown</strong> 已经从程序员的“私人工具”变成了全球通用的“沟通协议”。但鲜为人知的是，这个名字本身其实是一场充满黑色幽默的<strong>文字游戏</strong>，其诞生背景更带有理想主义色彩。</p>
@@ -109,11 +131,11 @@
       <link>https://weekly.shawnxie.top/content/2026/77.html</link>
       <guid>https://weekly.shawnxie.top/content/2026/77.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 77 期）：稀缺特质</source>
-      <description>肖恩技术周刊（第 77 期）：稀缺特质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 本周对2025年的周刊内容进行了深度总结。 梳理了Agent元年的三大要点，包含：技术底层的突破，从“对话”到“推理”；交互模式的变革，从“人找工具”到“工具找人”；商业落地的规模化，从“Demo”到“生产力”。 讨论了...</description>
+      <description>肖恩技术周刊（第 77 期）：稀缺特质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周对2025年的周刊内容进行了深度总结。 梳理了Agent元年的三大要点，包含：技术底层的突破，从“对话”到“推理”；交互模式的变革，从“人找工具”到“工具找人”；商业落地的规模化，从“Demo”到“生产力”。 讨论了A...</description>
       <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260104220305489.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>本周对2025年的周刊内容进行了深度总结。</p>
@@ -308,11 +330,11 @@
       <link>https://weekly.shawnxie.top/content/2025/76.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/76.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 76 期）：疯狂的白银</source>
-      <description>肖恩技术周刊（第 76 期）：疯狂的白银 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 2025年12月，白银市场经历了史诗级的暴涨。现货白银（London Silver）价格冲破每盎司 79美元 关口，年内涨幅超 170%，其波动性和上涨斜率已远超黄金。 近期关于白银投机的话题很热，原因是场内溢价居高不...</description>
+      <description>肖恩技术周刊（第 76 期）：疯狂的白银 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 2025年12月，白银市场经历了史诗级的暴涨。现货白银（London Silver）价格冲破每盎司 79美元 关口，年内涨幅超 170%，其波动性和上涨斜率已远超黄金。 近期关于白银投机的话题很热，原因是场内溢价居高不下...</description>
       <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251228231752435.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>2025年12月，白银市场经历了史诗级的暴涨。现货<strong>白银</strong>（London Silver）价格冲破每盎司 <strong>79美元</strong> 关口，年内涨幅超 <strong>170%</strong>，其波动性和上涨斜率已远超黄金。</p>
@@ -415,11 +437,11 @@
       <link>https://weekly.shawnxie.top/content/2025/75.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/75.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 75 期）：Slop</source>
-      <description>肖恩技术周刊（第 75 期）：Slop 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 韦氏词典将“slop”评为年度热词，反映AI生成低质量内容的泛滥。 目前网络上充斥着各种荒谬视频、奇怪的广告、虚假新闻和AI 写的劣质文章等，引发人们反感的同时也吸引部分人关注。 在技术层面，人工智能在内容创作领域仍存在...</description>
+      <description>肖恩技术周刊（第 75 期）：Slop 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 韦氏词典将“slop”评为年度热词，反映AI生成低质量内容的泛滥。 目前网络上充斥着各种荒谬视频、奇怪的广告、虚假新闻和AI 写的劣质文章等，引发人们反感的同时也吸引部分人关注。 在技术层面，人工智能在内容创作领域仍存在局...</description>
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251221234910348.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>韦氏词典将“<strong>slop</strong>”评为年度热词，反映AI生成低质量内容的泛滥。</p>
@@ -512,11 +534,11 @@
       <link>https://weekly.shawnxie.top/content/2025/74.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/74.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 74 期）：AI重塑未来</source>
-      <description>肖恩技术周刊（第 74 期）：AI重塑未来 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 《时代》杂志将2025 “年度人物” 称号授予了AI的构建者们，包含马克·扎克伯格（Meta）、苏姿丰（AMD）、埃隆·马斯克（xAI）、黄仁勋（英伟达）、萨姆·奥特曼（OpenAI）、德米斯·哈萨比斯（DeepMi...</description>
+      <description>肖恩技术周刊（第 74 期）：AI重塑未来 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 《时代》杂志将2025 “年度人物” 称号授予了AI的构建者们，包含马克·扎克伯格（Meta）、苏姿丰（AMD）、埃隆·马斯克（xAI）、黄仁勋（英伟达）、萨姆·奥特曼（OpenAI）、德米斯·哈萨比斯（DeepMin...</description>
       <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251214215740551.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>《时代》杂志将2025 “<strong>年度人物</strong>” 称号授予了AI的构建者们，包含马克·扎克伯格（Meta）、苏姿丰（AMD）、埃隆·马斯克（xAI）、黄仁勋（英伟达）、萨姆·奥特曼（OpenAI）、德米斯·哈萨比斯（DeepMind）、达里奥·阿莫迪（Anthropic）以及李飞飞（以人为本人工智能研究院）。</p>
@@ -598,11 +620,11 @@
       <link>https://weekly.shawnxie.top/content/2025/73.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/73.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 73 期）：何意味？</source>
-      <description>肖恩技术周刊（第 73 期）：何意味？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 《时代》杂志公布了2025年的百大年度照片，展示了25年全球各地的重要事件和瞬间，涵盖了政治、社会、自然、体育等多个领域。这些照片不仅记录了重大事件，也反映了人类在面对各种挑战时的情感和反应。 其中这张拍摄于2025 年...</description>
+      <description>肖恩技术周刊（第 73 期）：何意味？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 《时代》杂志公布了2025年的百大年度照片，展示了25年全球各地的重要事件和瞬间，涵盖了政治、社会、自然、体育等多个领域。这些照片不仅记录了重大事件，也反映了人类在面对各种挑战时的情感和反应。 其中这张拍摄于2025 年 ...</description>
       <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251207231741565.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>《<strong>时代</strong>》杂志公布了2025年的<a href="https://time.com/7336112/top-100-photos-2025/" target="_blank" rel="noopener noreferrer">百大年度</a>照片，展示了25年全球各地的重要事件和瞬间，涵盖了政治、社会、自然、体育等多个领域。这些照片不仅记录了重大事件，也反映了人类在面对各种挑战时的情感和反应。</p>
@@ -686,11 +708,11 @@
       <link>https://weekly.shawnxie.top/content/2025/72.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/72.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 72 期）：有趣的C语言谜题</source>
-      <description>肖恩技术周刊（第 72 期）：有趣的C语言谜题 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 图片中的C代码包含了一段URL居然能成功编译和运行。 原因是在C99标准下，URL可被巧妙利用为代码的一部分。代码中 https://susam.net的https:被解释为了一个标签（label），随后的//是...</description>
+      <description>肖恩技术周刊（第 72 期）：有趣的C语言谜题 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 图片中的C代码包含了一段URL居然能成功编译和运行。 原因是在C99标准下，URL可被巧妙利用为代码的一部分。代码中 https://susam.net的https:被解释为了一个标签（label），随后的//是注...</description>
       <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251130220603691.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>图片中的C代码包含了一段URL居然能成功编译和运行。</p>
@@ -773,11 +795,11 @@
       <link>https://weekly.shawnxie.top/content/2025/71.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/71.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 71 期）：何以成事</source>
-      <description>肖恩技术周刊（第 71 期）：何以成事 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 准备，不等于成事。 规划时间，不等于成事。 列任务清单，不等于成事。 告诉别人你要做，不等于成事。 和可能参与的朋友发信息，不等于成事。 发一条斗志昂扬的推文，不等于成事。 因未能成事而自责，不等于成事。 嫉妒已经做成的...</description>
+      <description>肖恩技术周刊（第 71 期）：何以成事 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 准备，不等于成事。 规划时间，不等于成事。 列任务清单，不等于成事。 告诉别人你要做，不等于成事。 和可能参与的朋友发信息，不等于成事。 发一条斗志昂扬的推文，不等于成事。 因未能成事而自责，不等于成事。 嫉妒已经做成的人...</description>
       <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20251123231622421.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>准备，不等于成事。</p>
@@ -880,11 +902,11 @@
       <link>https://weekly.shawnxie.top/content/2025/70.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/70.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 70 期）：流量劫持</source>
-      <description>肖恩技术周刊（第 70 期）：流量劫持 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 流量劫持就是通过不正当的手段，将用户试图访问A网站或使用A服务的网络请求，恶意地引导到B网站或服务，或者在原请求中插入额外的信息（比如广告）。 可以把它想象成：您本来要开车去一家指定的超市（A网站），但有人在路牌上做了手...</description>
+      <description>肖恩技术周刊（第 70 期）：流量劫持 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 流量劫持就是通过不正当的手段，将用户试图访问A网站或使用A服务的网络请求，恶意地引导到B网站或服务，或者在原请求中插入额外的信息（比如广告）。 可以把它想象成：您本来要开车去一家指定的超市（A网站），但有人在路牌上做了手脚...</description>
       <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202511162348913.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><strong>流量劫持</strong>就是通过不正当的手段，将用户试图访问A网站或使用A服务的网络请求，恶意地引导到B网站或服务，或者在原请求中插入额外的信息（比如广告）。</p>
@@ -951,11 +973,11 @@
       <link>https://weekly.shawnxie.top/content/2025/69.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/69.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 69 期）：最高的山，最长的河</source>
-      <description>肖恩技术周刊（第 69 期）：最高的山，最长的河 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 SKT / T1 队史第六座召唤师奖杯，也是 29 岁的 Faker 职业生涯第六次登顶，进一步巩固了其“英雄联盟最高的山、最长的河”的竞技地位。 即便你不是Faker的粉丝，即便你不喜欢韩国战队，但你也不得不...</description>
+      <description>肖恩技术周刊（第 69 期）：最高的山，最长的河 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 SKT / T1 队史第六座召唤师奖杯，也是 29 岁的 Faker 职业生涯第六次登顶，进一步巩固了其“英雄联盟最高的山、最长的河”的竞技地位。 即便你不是Faker的粉丝，即便你不喜欢韩国战队，但你也不得不承...</description>
       <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202511092237703.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>SKT / T1 队史第六座召唤师奖杯，也是 29 岁的 <strong>Faker</strong> 职业生涯第六次登顶，进一步巩固了其“<strong>英雄联盟最高的山、最长的河</strong>”的竞技地位。</p>
@@ -1026,11 +1048,11 @@
       <link>https://weekly.shawnxie.top/content/2025/68.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/68.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 68 期）：苍山洱海</source>
-      <description>肖恩技术周刊（第 68 期）：苍山洱海 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 周末去大理参加了朋友的婚礼，真是一个好地方啊，苍山洱海，后面有机会再去短住一下。 业界资讯 马斯克推出维基百科竞争产品：基于AI生成的Grokipedia 埃隆马斯克旗下的人工智能公司 xAI 日前基于 Grok AI ...</description>
+      <description>肖恩技术周刊（第 68 期）：苍山洱海 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 周末去大理参加了朋友的婚礼，真是一个好地方啊，苍山洱海，后面有机会再去短住一下。 业界资讯 马斯克推出维基百科竞争产品：基于AI生成的Grokipedia 埃隆马斯克旗下的人工智能公司 xAI 日前基于 Grok AI 人...</description>
       <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202511022330936.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>周末去大理参加了朋友的婚礼，真是一个好地方啊，苍山洱海，后面有机会再去短住一下。</p>
@@ -1090,11 +1112,11 @@
       <link>https://weekly.shawnxie.top/content/2025/67.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/67.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 67 期）：1024程序员节</source>
-      <description>肖恩技术周刊（第 67 期）：1024程序员节 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 1024程序员节（1024 Programmer&amp;apos;s Day），又称“码农节” 、中国程序员节，指每年10月24日是中国广大程序员的共同节日 。 程序员节起源于俄罗斯 。2009年，“9月13日程序员节”成为俄罗...</description>
+      <description>肖恩技术周刊（第 67 期）：1024程序员节 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 1024程序员节（1024 Programmer&amp;apos;s Day），又称“码农节” 、中国程序员节，指每年10月24日是中国广大程序员的共同节日 。 程序员节起源于俄罗斯 。2009年，“9月13日程序员节”成为俄罗斯...</description>
       <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510262348220.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><strong>1024程序员节</strong>（1024 Programmer's Day），又称“码农节” 、中国程序员节，指每年10月24日是中国广大程序员的共同节日 。</p>
@@ -1144,11 +1166,11 @@
       <link>https://weekly.shawnxie.top/content/2025/66.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/66.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！</source>
-      <description>肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 中国用户量最高的9个App，安装包尺寸差距居然如此大。安装包大小的差异，对用户体验的影响是多层次的。 首先是最直接的下载转化率，安装包每增加10MB，下载完成率可能下降5%-10%，尤其...</description>
+      <description>肖恩技术周刊（第 66 期）：拼多多安装包仅24MB？主流APP中最小！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 中国用户量最高的9个App，安装包尺寸差距居然如此大。安装包大小的差异，对用户体验的影响是多层次的。 首先是最直接的下载转化率，安装包每增加10MB，下载完成率可能下降5%-10%，尤其在...</description>
       <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510192214029.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>中国用户量最高的9个App，安装包尺寸差距居然如此大。安装包大小的差异，对用户体验的影响是多层次的。</p>
@@ -1197,11 +1219,11 @@
       <link>https://weekly.shawnxie.top/content/2025/65.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/65.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？</source>
-      <description>肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 在深夜游戏后关闭电脑时，出现有可用更新并点下了“更新并关机”，以为更新完成后会自动关机，但一觉醒来发现电脑还呼呼转着风扇！ 10月2号，微软在 Windows 11 开发者预览频道的 Dev...</description>
+      <description>肖恩技术周刊（第 65 期）：Windows 更新不关机竟是BUG？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 在深夜游戏后关闭电脑时，出现有可用更新并点下了“更新并关机”，以为更新完成后会自动关机，但一觉醒来发现电脑还呼呼转着风扇！ 10月2号，微软在 Windows 11 开发者预览频道的 Dev ...</description>
       <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510122243290.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>在深夜游戏后关闭电脑时，出现有可用更新并点下了“更新并关机”，以为更新完成后会自动关机，但一觉醒来发现电脑还呼呼转着风扇！</p>
@@ -1253,11 +1275,11 @@
       <link>https://weekly.shawnxie.top/content/2025/64.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/64.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 64 期）：习惯驱动多数行为</source>
-      <description>肖恩技术周刊（第 64 期）：习惯驱动多数行为 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 驱动人的大部分行为是习惯而非有意识的选择。 《Psychology &amp; Health》期刊上的一项研究通过手机随机提示的方式，对来自英国和澳大利亚的105名参与者进行了一周的调查。结果显示，65%的日常行为是习惯...</description>
+      <description>肖恩技术周刊（第 64 期）：习惯驱动多数行为 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 驱动人的大部分行为是习惯而非有意识的选择。 《Psychology &amp; Health》期刊上的一项研究通过手机随机提示的方式，对来自英国和澳大利亚的105名参与者进行了一周的调查。结果显示，65%的日常行为是习惯性...</description>
       <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202510082303879.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>驱动人的大部分行为是<strong>习惯</strong>而非有意识的选择。</p>
@@ -1341,11 +1363,11 @@
       <link>https://weekly.shawnxie.top/content/2025/63.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/63.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 63 期）：搞笑诺贝尔奖</source>
-      <description>肖恩技术周刊（第 63 期）：搞笑诺贝尔奖 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 2025 年度搞笑诺贝尔奖（Ig Nobel）公布了获奖名单。搞笑诺贝尔奖创建于 1991 年，是对诺贝尔奖的善意戏仿，表彰那些令人发笑但又发人深思的研究。 其中生物学奖授予了儿岛朋贵等日本科学家，他们研究发现，将黑...</description>
+      <description>肖恩技术周刊（第 63 期）：搞笑诺贝尔奖 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 2025 年度搞笑诺贝尔奖（Ig Nobel）公布了获奖名单。搞笑诺贝尔奖创建于 1991 年，是对诺贝尔奖的善意戏仿，表彰那些令人发笑但又发人深思的研究。 其中生物学奖授予了儿岛朋贵等日本科学家，他们研究发现，将黑毛...</description>
       <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202509212333496.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>2025 年度搞笑诺贝尔奖（Ig Nobel）公布了获奖名单。搞笑诺贝尔奖创建于 1991 年，是对诺贝尔奖的善意戏仿，表彰那些令人发笑但又发人深思的研究。</p>
@@ -1412,11 +1434,11 @@
       <link>https://weekly.shawnxie.top/content/2025/62.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/62.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 62 期）：不纯粹工程</source>
-      <description>肖恩技术周刊（第 62 期）：不纯粹工程 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 编程工作可以分为两种截然不同的类型。第一种是 纯粹工程 (pure engineering)，它的目标是尽可能完美地解决一个技术问题。开源项目常常属于这一类：某个工程师想写出最棒的 HTTP 请求库，或是打造他心目中理...</description>
+      <description>肖恩技术周刊（第 62 期）：不纯粹工程 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 编程工作可以分为两种截然不同的类型。第一种是 纯粹工程 (pure engineering)，它的目标是尽可能完美地解决一个技术问题。开源项目常常属于这一类：某个工程师想写出最棒的 HTTP 请求库，或是打造他心目中理想...</description>
       <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202509142333936.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>编程工作可以分为两种截然不同的类型。第一种是&nbsp;<strong>纯粹工程 (pure engineering)</strong>，它的目标是尽可能完美地解决一个技术问题。开源项目常常属于这一类：某个工程师想写出最棒的 HTTP 请求库，或是打造他心目中理想的游戏引擎。第二种是&nbsp;<strong>不纯粹工程 (impure engineering)</strong>，它的目标是尽可能高效地解决一个现实世界的问题。科技公司的付费工作大多如此：工程师们被要求在截止日期前，尽其所能地交付某个项目或功能。</p>
@@ -1472,11 +1494,11 @@
       <link>https://weekly.shawnxie.top/content/2025/61.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/61.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 61 期）：Python的故事</source>
-      <description>肖恩技术周刊（第 61 期）：Python的故事 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 关于世界上最受欢迎的编程语言 ——Python 的故事。20 世纪 90 年代，它最初只是阿姆斯特丹的一个副业项目，后来却成为了驱动人工智能、数据科学以及一些全球最大公司的软件。但 Python 的未来并非一帆...</description>
+      <description>肖恩技术周刊（第 61 期）：Python的故事 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 关于世界上最受欢迎的编程语言 ——Python 的故事。20 世纪 90 年代，它最初只是阿姆斯特丹的一个副业项目，后来却成为了驱动人工智能、数据科学以及一些全球最大公司的软件。但 Python 的未来并非一帆风...</description>
       <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202509072216250.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>关于世界上最受欢迎的编程语言 ——<a href="https://www.youtube.com/watch?v=GfH4QL4VqJ0" target="_blank" rel="noopener noreferrer">Python 的故事</a>。20 世纪 90 年代，它最初只是阿姆斯特丹的一个副业项目，后来却成为了驱动人工智能、数据科学以及一些全球最大公司的软件。但 Python 的未来并非一帆风顺，它曾一度险些消失。</p>
@@ -1535,11 +1557,11 @@
       <link>https://weekly.shawnxie.top/content/2025/60.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/60.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 60 期）：AI平替PS?</source>
-      <description>肖恩技术周刊（第 60 期）：AI平替PS? 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 谷歌推出Gemini 2.5 Flash Image，支持图像生成与编辑，能平替 PS了？在 Google Gemini 可直接体验。通过提供迷你Labubu图片和提示词可生成上图。 业界资讯 Google最先进的...</description>
+      <description>肖恩技术周刊（第 60 期）：AI平替PS? 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 谷歌推出Gemini 2.5 Flash Image，支持图像生成与编辑，能平替 PS了？在 Google Gemini 可直接体验。通过提供迷你Labubu图片和提示词可生成上图。 业界资讯 Google最先进的图...</description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508312332149.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>谷歌推出<code>Gemini 2.5 Flash Image</code>，支持图像生成与编辑，能平替 PS了？在&nbsp;<a href="https://gemini.google.com/app" target="_blank" rel="noopener noreferrer">Google Gemini</a>&nbsp;可直接体验。通过提供迷你Labubu图片和提示词可生成上图。</p>
@@ -1593,11 +1615,11 @@
       <link>https://weekly.shawnxie.top/content/2025/59.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/59.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 59 期）：OpenAI进化之路</source>
-      <description>肖恩技术周刊（第 59 期）：OpenAI进化之路 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 以不同年份为节点，呈现了OpenAI模型的进化历程。从2018年的GPT-1只能简单表达困惑，到2019年的GPT-2能与人探讨AI相关问题。2021年的TEXT-DAVINCI-001能礼貌问候并询问未来A...</description>
+      <description>肖恩技术周刊（第 59 期）：OpenAI进化之路 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 以不同年份为节点，呈现了OpenAI模型的进化历程。从2018年的GPT-1只能简单表达困惑，到2019年的GPT-2能与人探讨AI相关问题。2021年的TEXT-DAVINCI-001能礼貌问候并询问未来AI...</description>
       <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508242305084.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>以不同年份为节点，呈现了OpenAI模型的进化历程。从2018年的GPT-1只能简单表达困惑，到2019年的GPT-2能与人探讨AI相关问题。2021年的TEXT-DAVINCI-001能礼貌问候并询问未来AI相关事宜，2023年的GPT-4-0314能提出与未来AI对话可能涉及的诸多前沿话题，再到2025年的GPT-5能以更深入、更具哲学意味的方式思考自身与未来模型的关系以及对人类的看法，展现了AI在理解、表达、思考深度和广度等方面的飞速进步。</p>
@@ -1658,11 +1680,11 @@
       <link>https://weekly.shawnxie.top/content/2025/58.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/58.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 58 期）：坠落or飞翔</source>
-      <description>肖恩技术周刊（第 58 期）：坠落or飞翔 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 “假如坠落的时间足够长，你会以为自己是在飞，反之亦然。” ——《焦虑的人》 业界资讯 GitHub CER辞职，团队合并入CoreAI 2025年8月11日，GitHub CEO Thomas Dohmke辞职，Gi...</description>
+      <description>肖恩技术周刊（第 58 期）：坠落or飞翔 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 “假如坠落的时间足够长，你会以为自己是在飞，反之亦然。” ——《焦虑的人》 业界资讯 GitHub CER辞职，团队合并入CoreAI 2025年8月11日，GitHub CEO Thomas Dohmke辞职，Git...</description>
       <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508172335918.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>“假如坠落的时间足够长，你会以为自己是在飞，反之亦然。”</p>
@@ -1709,11 +1731,11 @@
       <link>https://weekly.shawnxie.top/content/2025/57.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/57.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 57 期）：课题分离</source>
-      <description>肖恩技术周刊（第 57 期）：课题分离 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 王勇（Andy Stewart，deepin前CTO，现懒猫微服CEO）在博客《过去二十年，工作上最后悔的事是什么？》中提到： 这个概念在心理学中叫“课题分离” ，由阿德勒 (Alfred Adler) 提出，意思是将人...</description>
+      <description>肖恩技术周刊（第 57 期）：课题分离 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 王勇（Andy Stewart，deepin前CTO，现懒猫微服CEO）在博客《过去二十年，工作上最后悔的事是什么？》中提到： 这个概念在心理学中叫“课题分离” ，由阿德勒 (Alfred Adler) 提出，意思是将人际...</description>
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508102237410.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>王勇（Andy Stewart，deepin前CTO，现懒猫微服CEO）在博客《过去二十年，工作上最后悔的事是什么？》中提到：</p>
@@ -1775,11 +1797,11 @@
       <link>https://weekly.shawnxie.top/content/2025/56.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/56.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 56 期）：坎宁安定律</source>
-      <description>肖恩技术周刊（第 56 期）：坎宁安定律 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 坎宁安定律指：在互联网上得到优秀答案的最佳方法不是去提问，而是发布一个错误或者负面的答案。这个概念由 Wikipedia 之父沃德·坎宁安提出。 例如你在网上提问某个城市有哪些好玩的地方，也许不会有太多人响应你。但如果...</description>
+      <description>肖恩技术周刊（第 56 期）：坎宁安定律 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 坎宁安定律指：在互联网上得到优秀答案的最佳方法不是去提问，而是发布一个错误或者负面的答案。这个概念由 Wikipedia 之父沃德·坎宁安提出。 例如你在网上提问某个城市有哪些好玩的地方，也许不会有太多人响应你。但如果你...</description>
       <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508032253002.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>坎宁安定律指：<strong>在互联网上得到优秀答案的最佳方法不是去提问，而是发布一个错误或者负面的答案</strong>。这个概念由 Wikipedia 之父沃德·坎宁安提出。</p>
@@ -1840,11 +1862,11 @@
       <link>https://weekly.shawnxie.top/content/2025/55.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/55.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 55 期）：手机发展史</source>
-      <description>肖恩技术周刊（第 55 期）：手机发展史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，...</description>
+      <description>肖恩技术周刊（第 55 期）：手机发展史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，当...</description>
       <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507272314799.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，当前手机外观设计<strong>趋于单调乏味</strong>。</p>
@@ -1921,11 +1943,11 @@
       <link>https://weekly.shawnxie.top/content/2025/54.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/54.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 54 期）：芯片简史</source>
-      <description>肖恩技术周刊（第 54 期）：芯片简史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 最近在读《芯片简史》，非常推荐！全书用 60 余年芯片进化的大叙事，串起科学原理、工程狂想、商业暗战与人性挣扎，既是一本技术史，也是一份数字时代的生存指南。 业界资讯 OpenAI发布ChatGPT agent 7 月 ...</description>
+      <description>肖恩技术周刊（第 54 期）：芯片简史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 最近在读《芯片简史》，非常推荐！全书用 60 余年芯片进化的大叙事，串起科学原理、工程狂想、商业暗战与人性挣扎，既是一本技术史，也是一份数字时代的生存指南。 业界资讯 OpenAI发布ChatGPT agent 7 月 1...</description>
       <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507202322131.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>最近在读《芯片简史》，非常推荐！全书用 60 余年芯片进化的大叙事，串起科学原理、工程狂想、商业暗战与人性挣扎，既是一本技术史，也是一份数字时代的生存指南。</p>
@@ -1987,11 +2009,11 @@
       <link>https://weekly.shawnxie.top/content/2025/53.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/53.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 53 期）：编程的本质</source>
-      <description>肖恩技术周刊（第 53 期）：编程的本质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 编程的本质包括逻辑(Logic)、控制(Control)和数据(Data)。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，有效地分离Logic、Cont...</description>
+      <description>肖恩技术周刊（第 53 期）：编程的本质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 编程的本质包括逻辑(Logic)、控制(Control)和数据(Data)。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，有效地分离Logic、Contr...</description>
       <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507132324107.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>Programs = Algorithms + Data Structures</span></span>
@@ -2056,11 +2078,11 @@
       <link>https://weekly.shawnxie.top/content/2025/52.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/52.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 52 期）：魔数0x5f3759df</source>
-      <description>肖恩技术周刊（第 52 期）：魔数0x5f3759df 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 本周开始重看《左耳听风》。上次阅读都是5年前了，那时刚开始工作，太多内容读不懂。这次感觉好很多，能快速get到不少重点，看来这五年没白过。想想左耳朵耗子去世都两年了，他18年写的内容在当前来看还十分有价值...</description>
+      <description>肖恩技术周刊（第 52 期）：魔数0x5f3759df 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周开始重看《左耳听风》。上次阅读都是5年前了，那时刚开始工作，太多内容读不懂。这次感觉好很多，能快速get到不少重点，看来这五年没白过。想想左耳朵耗子去世都两年了，他18年写的内容在当前来看还十分有价值，...</description>
       <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507062323231.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>本周开始重看《左耳听风》。上次阅读都是5年前了，那时刚开始工作，太多内容读不懂。这次感觉好很多，能快速get到不少重点，看来这五年没白过。想想左耳朵耗子去世都两年了，他18年写的内容在当前来看还十分有价值，一些趋势的预测也是很准确，真是大牛，可惜了。</p>
@@ -2132,11 +2154,11 @@
       <link>https://weekly.shawnxie.top/content/2025/51.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/51.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？</source>
-      <description>肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 浏览器请求头中的 User-Agent 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其...</description>
+      <description>肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 浏览器请求头中的 User-Agent 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其 ...</description>
       <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506292313238.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>浏览器请求头中的 <code>User-Agent</code> 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其 <code>User-Agent</code> 字段以“Mozilla”开头。当时许多网站会通过检测 <code>User-Agent</code> 字段来判断浏览器类型，并据此提供不同的代码支持。如果字段中没有“Mozilla”，网站可能会拒绝服务或显示错误。</p>
@@ -2203,11 +2225,11 @@
       <link>https://weekly.shawnxie.top/content/2025/50.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/50.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 50 期）：警惕胶水工作</source>
-      <description>肖恩技术周刊（第 50 期）：警惕胶水工作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 胶水工作指那些通常不那么光鲜亮丽，但对于维持团队或项目顺利运转至关重要的任务。它是幕后工作，能助力他人取得成功，比如整理文档、确保沟通顺畅、新员工入职指引以及处理技术债务等。尽管衔接性工作很有价值，但常常被低估，如果...</description>
+      <description>肖恩技术周刊（第 50 期）：警惕胶水工作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 胶水工作指那些通常不那么光鲜亮丽，但对于维持团队或项目顺利运转至关重要的任务。它是幕后工作，能助力他人取得成功，比如整理文档、确保沟通顺畅、新员工入职指引以及处理技术债务等。尽管衔接性工作很有价值，但常常被低估，如果不...</description>
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506222133782.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p><strong>胶水工作</strong>指那些通常不那么光鲜亮丽，但对于维持团队或项目顺利运转至关重要的任务。它是幕后工作，能助力他人取得成功，比如整理文档、确保沟通顺畅、新员工入职指引以及处理技术债务等。尽管衔接性工作很有价值，但常常被低估，如果不能与更引人注目的贡献相平衡，还可能阻碍职业发展。毕竟公司不会奖励胶水工作，个人应有策略地去做，针对自己负责的项目，适当的胶水工作可以确保项目成功。</p>
@@ -2276,11 +2298,11 @@
       <link>https://weekly.shawnxie.top/content/2025/49.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/49.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 49 期）：消费主义假象</source>
-      <description>肖恩技术周刊（第 49 期）：消费主义假象 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 川美2025届毕业设计作品《祷》创作灵感： 鲍曼说：“什么是消费主义？创造你根本不需要的东西，然后让你渴望得到它。消费主义不是关于对欲望满足的承诺，而是关于为了更多欲望、激发更多欲望的承诺。”通过把古典圣母像和现代消...</description>
+      <description>肖恩技术周刊（第 49 期）：消费主义假象 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 川美2025届毕业设计作品《祷》创作灵感： 鲍曼说：“什么是消费主义？创造你根本不需要的东西，然后让你渴望得到它。消费主义不是关于对欲望满足的承诺，而是关于为了更多欲望、激发更多欲望的承诺。”通过把古典圣母像和现代消费...</description>
       <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506152121965.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>川美2025届毕业设计作品《祷》创作灵感：</p>
@@ -2350,11 +2372,11 @@
       <link>https://weekly.shawnxie.top/content/2025/48.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/48.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 48 期）：周刊一岁啦！</source>
-      <description>肖恩技术周刊（第 48 期）：周刊一岁啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 去年6月8日发布了周刊第一期，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写...</description>
+      <description>肖恩技术周刊（第 48 期）：周刊一岁啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去年6月8日发布了周刊第一期，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写作...</description>
       <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506082247765.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>去年6月8日发布了<a href="https://mp.weixin.qq.com/s/3SQAfI1HNDDL3o1lTqCB0g" target="_blank" rel="noopener noreferrer">周刊第一期</a>，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写作和动手能力（还是捣鼓了不少东西）。</p>
@@ -2396,11 +2418,11 @@
       <link>https://weekly.shawnxie.top/content/2025/47.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/47.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 47 期）：端午安康</source>
-      <description>肖恩技术周刊（第 47 期）：端午安康 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。 业界资讯 Claude团队推出“电路追踪”（circuit tracing）工具，读懂大模型的“脑回路”? Cl...</description>
+      <description>肖恩技术周刊（第 47 期）：端午安康 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。 业界资讯 Claude团队推出“电路追踪”（circuit tracing）工具，读懂大模型的“脑回路”? Cla...</description>
       <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506022246606.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。</p>
@@ -2459,11 +2481,11 @@
       <link>https://weekly.shawnxie.top/content/2025/46.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/46.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 46 期）：好习惯要坚持</source>
-      <description>肖恩技术周刊（第 46 期）：好习惯要坚持 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 为提升家庭凝聚力，增进彼此了解，2022年我提议了一个活动——家庭读书会。虽然各种因素导致读书会老是不能按时举办，但三年下来，还是共读了27本书，开了24次读书会，收获颇丰。很幸运，读书是大家共同的爱好，否则一时兴起...</description>
+      <description>肖恩技术周刊（第 46 期）：好习惯要坚持 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 为提升家庭凝聚力，增进彼此了解，2022年我提议了一个活动——家庭读书会。虽然各种因素导致读书会老是不能按时举办，但三年下来，还是共读了27本书，开了24次读书会，收获颇丰。很幸运，读书是大家共同的爱好，否则一时兴起的...</description>
       <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202505252224286.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>为提升家庭凝聚力，增进彼此了解，2022年我提议了一个活动——家庭读书会。虽然各种因素导致读书会老是不能按时举办，但三年下来，还是共读了27本书，开了24次读书会，收获颇丰。很幸运，读书是大家共同的爱好，否则一时兴起的活动不可能坚持这么久。</p>
@@ -2517,11 +2539,11 @@
       <link>https://weekly.shawnxie.top/content/2025/45.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/45.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 45 期）：冰冷的规则</source>
-      <description>肖恩技术周刊（第 45 期）：冰冷的规则 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 事情是这样的，5月初刚给娃买了奶粉，最近618启动就再看了一下价格，好家伙直接便宜了300多（总价2000）。买之前也看了价格追踪软件，去年的最低价和我买时差不多，所以就没等618提前下了单（毕竟娃吃奶也等不了）。虽然...</description>
+      <description>肖恩技术周刊（第 45 期）：冰冷的规则 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 事情是这样的，5月初刚给娃买了奶粉，最近618启动就再看了一下价格，好家伙直接便宜了300多（总价2000）。买之前也看了价格追踪软件，去年的最低价和我买时差不多，所以就没等618提前下了单（毕竟娃吃奶也等不了）。虽然7...</description>
       <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202505182041039.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>事情是这样的，5月初刚给娃买了奶粉，最近618启动就再看了一下价格，好家伙直接便宜了300多（总价2000）。买之前也看了价格追踪软件，去年的最低价和我买时差不多，所以就没等618提前下了单（毕竟娃吃奶也等不了）。虽然7天保价超过了3天，但想着这么大的价格波动，多少会有些补偿吧，就问了下商家客服（非自营店），但也没抱太大希望。</p>
@@ -2580,11 +2602,11 @@
       <link>https://weekly.shawnxie.top/content/2025/44.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/44.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 44 期）：凌晨3点的高速</source>
-      <description>肖恩技术周刊（第 44 期）：凌晨3点的高速 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 四月每周成都老家两头跑，再加上工作事情比较多，天天加班到22、23点，不得已停更了一个月。五一还体验了一把川A大军出城，没见过凌晨三点的洛杉矶，但体验过了20点出发凌晨三点到家的酸爽（正常4个半小时）。别的也没啥新...</description>
+      <description>肖恩技术周刊（第 44 期）：凌晨3点的高速 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 四月每周成都老家两头跑，再加上工作事情比较多，天天加班到22、23点，不得已停更了一个月。五一还体验了一把川A大军出城，没见过凌晨三点的洛杉矶，但体验过了20点出发凌晨三点到家的酸爽（正常4个半小时）。别的也没啥新鲜...</description>
       <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202505120016131.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>四月每周成都老家两头跑，再加上工作事情比较多，天天加班到22、23点，不得已停更了一个月。五一还体验了一把川A大军出城，没见过凌晨三点的洛杉矶，但体验过了20点出发凌晨三点到家的酸爽（正常4个半小时）。别的也没啥新鲜事分享，就周末更新了一篇阅读方案文章：<a href="https://mp.weixin.qq.com/s/-rwukolBewhDbTLEvsaQbA" target="_blank" rel="noopener noreferrer">"碎片时间刷文章！懒人阅读方案分享"</a>，感兴趣的朋友可以看看。</p>
@@ -2652,11 +2674,11 @@
       <link>https://weekly.shawnxie.top/content/2025/43.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/43.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 43 期）：电子榨菜</source>
-      <description>肖恩技术周刊（第 43 期）：电子榨菜 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 这哥们真的是直播鬼才，切片能看一下午。 业界资讯 抖音安全与信任中心 抖音建立安全与信任中心，推进算法和平台治理透明化。 技术博客 去哪儿高峰期资源保障之智能扩缩容 去哪儿网针对业务高峰期资源保障问题，开发了智能扩缩容方...</description>
+      <description>肖恩技术周刊（第 43 期）：电子榨菜 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 这哥们真的是直播鬼才，切片能看一下午。 业界资讯 抖音安全与信任中心 抖音建立安全与信任中心，推进算法和平台治理透明化。 技术博客 去哪儿高峰期资源保障之智能扩缩容 去哪儿网针对业务高峰期资源保障问题，开发了智能扩缩容方案...</description>
       <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202504062337766.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>这哥们真的是直播鬼才，切片能看一下午。</p>
@@ -2712,11 +2734,11 @@
       <link>https://weekly.shawnxie.top/content/2025/42.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/42.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 42 期）：新公园文化</source>
-      <description>肖恩技术周刊（第 42 期）：新公园文化 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 不知道是不是只有成都这样，天气稍微好一点，公园就密密麻麻的人。茶必须在公园喝，烤肉必须在公园吃，牌也得在公园打。 业界资讯 黄仁勋 2 个半小时演讲，英伟达已经进入「Agentic AI」时代 在2025年GTC大会上...</description>
+      <description>肖恩技术周刊（第 42 期）：新公园文化 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 不知道是不是只有成都这样，天气稍微好一点，公园就密密麻麻的人。茶必须在公园喝，烤肉必须在公园吃，牌也得在公园打。 业界资讯 黄仁勋 2 个半小时演讲，英伟达已经进入「Agentic AI」时代 在2025年GTC大会上，...</description>
       <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202503232326067.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>不知道是不是只有成都这样，天气稍微好一点，公园就密密麻麻的人。茶必须在公园喝，烤肉必须在公园吃，牌也得在公园打。</p>
@@ -2778,11 +2800,11 @@
       <link>https://weekly.shawnxie.top/content/2025/41.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/41.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 41 期）：疲乏</source>
-      <description>肖恩技术周刊（第 41 期）：疲乏 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 最近有点疲乏，感觉需要一个长假期来恢复一下情绪。 业界资讯 OpenAI发布构建智能体新工具 OpenAI于2025年3月11日发布了一系列新工具，旨在简化智能代理（agents）的开发，帮助开发者和企业构建更可靠、高效的自...</description>
+      <description>肖恩技术周刊（第 41 期）：疲乏 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 最近有点疲乏，感觉需要一个长假期来恢复一下情绪。 业界资讯 OpenAI发布构建智能体新工具 OpenAI于2025年3月11日发布了一系列新工具，旨在简化智能代理（agents）的开发，帮助开发者和企业构建更可靠、高效的自主...</description>
       <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202503162321907.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>最近有点疲乏，感觉需要一个长假期来恢复一下情绪。</p>
@@ -2829,11 +2851,11 @@
       <link>https://weekly.shawnxie.top/content/2025/40.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/40.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 40 期）：智能体是通往AGI的必经之路吗？</source>
-      <description>肖恩技术周刊（第 40 期）：智能体是通往AGI的必经之路吗？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 看了Manus的视频（邀请码就离谱，炒到了10万），感觉并没有给我当时GPT-3.5的那种震撼。必须承认，它把Agent做到了极致，产品力看起来非常的强。但智能体真的是通往AGI的必经之路吗？ 业...</description>
+      <description>肖恩技术周刊（第 40 期）：智能体是通往AGI的必经之路吗？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 看了Manus的视频（邀请码就离谱，炒到了10万），感觉并没有给我当时GPT-3.5的那种震撼。必须承认，它把Agent做到了极致，产品力看起来非常的强。但智能体真的是通往AGI的必经之路吗？ 业界...</description>
       <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202503100007852.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>看了Manus的视频（邀请码就离谱，炒到了10万），感觉并没有给我当时GPT-3.5的那种震撼。必须承认，它把Agent做到了极致，产品力看起来非常的强。但智能体真的是通往AGI的必经之路吗？</p>
@@ -2901,11 +2923,11 @@
       <link>https://weekly.shawnxie.top/content/2025/39.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/39.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 39 期）：战斗，爽！</source>
-      <description>肖恩技术周刊（第 39 期）：战斗，爽！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 狩猎解禁！这作新增的“相杀“机制真的是太爽了，与怪物硬碰硬，正反馈拉满。虽然剧情还是一如既往的拉胯，但玩怪物猎人谁看剧情呢。人物捏脸也精细多了，看板娘也终于正常了，不用像世界那样被aibo折磨了。 业界资讯 刚刚，GP...</description>
+      <description>肖恩技术周刊（第 39 期）：战斗，爽！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 狩猎解禁！这作新增的“相杀“机制真的是太爽了，与怪物硬碰硬，正反馈拉满。虽然剧情还是一如既往的拉胯，但玩怪物猎人谁看剧情呢。人物捏脸也精细多了，看板娘也终于正常了，不用像世界那样被aibo折磨了。 业界资讯 刚刚，GPT...</description>
       <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202503022307235.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>狩猎解禁！这作新增的“相杀“机制真的是太爽了，与怪物硬碰硬，正反馈拉满。虽然剧情还是一如既往的拉胯，但玩怪物猎人谁看剧情呢。人物捏脸也精细多了，看板娘也终于正常了，不用像世界那样被aibo折磨了。</p>
@@ -2966,11 +2988,11 @@
       <link>https://weekly.shawnxie.top/content/2025/38.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/38.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 38 期）：陪伴</source>
-      <description>肖恩技术周刊（第 38 期）：陪伴 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 没有什么比看着孩子一天天长大更开心的事了。 业界资讯 20万张GPU！马斯克掏出「地表最强」大模型Grok-3，排行榜登顶，复仇OpenAI 2025年2月18日，马斯克的xAI团队发布了最新旗舰大模型Grok-3及其轻量版...</description>
+      <description>肖恩技术周刊（第 38 期）：陪伴 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 没有什么比看着孩子一天天长大更开心的事了。 业界资讯 20万张GPU！马斯克掏出「地表最强」大模型Grok-3，排行榜登顶，复仇OpenAI 2025年2月18日，马斯克的xAI团队发布了最新旗舰大模型Grok-3及其轻量版本...</description>
       <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202502232314959.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>没有什么比看着孩子一天天长大更开心的事了。</p>
@@ -3049,11 +3071,11 @@
       <link>https://weekly.shawnxie.top/content/2025/37.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/37.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 37 期）：反差魅力</source>
-      <description>肖恩技术周刊（第 37 期）：反差魅力 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 只因刷到了《乌龙特工》一个剪辑片段，就立马在B站看完了整个电影，笑得肚子疼。 业界资讯 GitHub Copilot 支持 Agent GitHub Copilot多项更新，重点是通过AI技术提升开发效率和用户体验。推出...</description>
+      <description>肖恩技术周刊（第 37 期）：反差魅力 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 只因刷到了《乌龙特工》一个剪辑片段，就立马在B站看完了整个电影，笑得肚子疼。 业界资讯 GitHub Copilot 支持 Agent GitHub Copilot多项更新，重点是通过AI技术提升开发效率和用户体验。推出了...</description>
       <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202502170018326.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>只因刷到了《乌龙特工》一个剪辑片段，就立马在B站看完了整个电影，笑得肚子疼。</p>
@@ -3111,11 +3133,11 @@
       <link>https://weekly.shawnxie.top/content/2025/36.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/36.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 36 期）：国漫雄起！</source>
-      <description>肖恩技术周刊（第 36 期）：国漫雄起！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 恭喜哪吒2登上中国影史票房榜第一！很久没遇到这么好看的国产电影了，活该它赚钱。 业界资讯 OpenAI 推出深度研究和推理功能 OpenAI推出了Deep Research，这是ChatGPT的一项新功能，能够通过互联...</description>
+      <description>肖恩技术周刊（第 36 期）：国漫雄起！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 恭喜哪吒2登上中国影史票房榜第一！很久没遇到这么好看的国产电影了，活该它赚钱。 业界资讯 OpenAI 推出深度研究和推理功能 OpenAI推出了Deep Research，这是ChatGPT的一项新功能，能够通过互联网...</description>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202502092338076.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>恭喜哪吒2登上中国影史票房榜第一！很久没遇到这么好看的国产电影了，活该它赚钱。</p>
@@ -3176,11 +3198,11 @@
       <link>https://weekly.shawnxie.top/content/2025/35.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/35.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 35 期）：DeepSeek爆火</source>
-      <description>肖恩技术周刊（第 35 期）：DeepSeek爆火 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 春节快乐！还在假期，就简单写写吧。这几天逛公园听到大妈们都在聊DeepSeek，还讨论中国AI潜力如何大，聊的有板有眼的。自媒体春节也不休了，都加班加点发文章，生怕错过这波热度。就连朋友圈也是肉眼可见的含AI...</description>
+      <description>肖恩技术周刊（第 35 期）：DeepSeek爆火 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 春节快乐！还在假期，就简单写写吧。这几天逛公园听到大妈们都在聊DeepSeek，还讨论中国AI潜力如何大，聊的有板有眼的。自媒体春节也不休了，都加班加点发文章，生怕错过这波热度。就连朋友圈也是肉眼可见的含AI量...</description>
       <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202502021952745.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>春节快乐！还在假期，就简单写写吧。这几天逛公园听到大妈们都在聊DeepSeek，还讨论中国AI潜力如何大，聊的有板有眼的。自媒体春节也不休了，都加班加点发文章，生怕错过这波热度。就连朋友圈也是肉眼可见的含AI量很高。</p>
@@ -3280,11 +3302,11 @@
       <link>https://weekly.shawnxie.top/content/2025/34.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/34.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 34 期）：辞旧迎新</source>
-      <description>肖恩技术周刊（第 34 期）：辞旧迎新 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 龙年最后一个工作日，极度充实的一年马上就要结束啦。本周对一整年的经历做了回顾和总结，虽然知道事项不少，但真正罗列出来的时候，还是比预想的多一些，在工作、家庭和个人上都有不小的收获。等蛇年伊始把总结发出来（当然还有🧧），...</description>
+      <description>肖恩技术周刊（第 34 期）：辞旧迎新 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 龙年最后一个工作日，极度充实的一年马上就要结束啦。本周对一整年的经历做了回顾和总结，虽然知道事项不少，但真正罗列出来的时候，还是比预想的多一些，在工作、家庭和个人上都有不小的收获。等蛇年伊始把总结发出来（当然还有🧧），和...</description>
       <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>龙年最后一个工作日，极度充实的一年马上就要结束啦。本周对一整年的经历做了回顾和总结，虽然知道事项不少，但真正罗列出来的时候，还是比预想的多一些，在工作、家庭和个人上都有不小的收获。等蛇年伊始把总结发出来（当然还有🧧），和大家一起辞旧迎新！</p>
@@ -3349,11 +3371,11 @@
       <link>https://weekly.shawnxie.top/content/2025/33.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/33.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 33 期）：泼天流量？</source>
-      <description>肖恩技术周刊（第 33 期）：泼天流量？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 这周瓜还挺多，TikTok难民涌入小红书、TikTok宣布停止运营。虽说次元壁是破了，但事实上可能并没有媒体宣称的那么其乐融融，毕竟两国民众的意识形态和社会潜意识差太多了。放任发展可能会出现冲突（其实已经有不少了，幸好...</description>
+      <description>肖恩技术周刊（第 33 期）：泼天流量？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 这周瓜还挺多，TikTok难民涌入小红书、TikTok宣布停止运营。虽说次元壁是破了，但事实上可能并没有媒体宣称的那么其乐融融，毕竟两国民众的意识形态和社会潜意识差太多了。放任发展可能会出现冲突（其实已经有不少了，幸好审...</description>
       <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202501192303054.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>这周瓜还挺多，TikTok难民涌入小红书、TikTok宣布停止运营。虽说次元壁是破了，但事实上可能并没有媒体宣称的那么其乐融融，毕竟两国民众的意识形态和社会潜意识差太多了。放任发展可能会出现冲突（其实已经有不少了，幸好审核很严格），后续就看小红书的应对手段了。能否接住这波流量，拭目以待。</p>
@@ -3427,11 +3449,11 @@
       <link>https://weekly.shawnxie.top/content/2025/32.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/32.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 32 期）：克隆声音</source>
-      <description>肖恩技术周刊（第 32 期）：克隆声音 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 公众号朗读音色可以自定义了，克隆了自己的声音，还是蛮像的，哈哈。 业界资讯 从黄仁勋CES演讲,看英伟达庞大AI棋局:物理AI、AI PC、通用机器人 在CES 2025上，英伟达创始人黄仁勋发表了重要讲话，全面展示了英...</description>
+      <description>肖恩技术周刊（第 32 期）：克隆声音 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 公众号朗读音色可以自定义了，克隆了自己的声音，还是蛮像的，哈哈。 业界资讯 从黄仁勋CES演讲,看英伟达庞大AI棋局:物理AI、AI PC、通用机器人 在CES 2025上，英伟达创始人黄仁勋发表了重要讲话，全面展示了英伟...</description>
       <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202501122357382.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>公众号朗读音色可以自定义了，克隆了自己的声音，还是蛮像的，哈哈。</p>
@@ -3510,11 +3532,11 @@
       <link>https://weekly.shawnxie.top/content/2025/31.html</link>
       <guid>https://weekly.shawnxie.top/content/2025/31.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 31 期）：自力更生</source>
-      <description>肖恩技术周刊（第 31 期）：自力更生 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 从拼夕夕买了木板和连接片，自己动手拼装了洗衣柜，弄的时候有儿时玩沙子般快感了。 业界资讯 2024年度数据库回顾 2024年数据库领域发生了诸多重要事件，涉及许可证变动、收购案、新版本发布等，行业格局和商业模式不断演变。...</description>
+      <description>肖恩技术周刊（第 31 期）：自力更生 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 从拼夕夕买了木板和连接片，自己动手拼装了洗衣柜，弄的时候有儿时玩沙子般快感了。 业界资讯 2024年度数据库回顾 2024年数据库领域发生了诸多重要事件，涉及许可证变动、收购案、新版本发布等，行业格局和商业模式不断演变。 ...</description>
       <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202501052340615.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>从拼夕夕买了木板和连接片，自己动手拼装了洗衣柜，弄的时候有儿时玩沙子般快感了。</p>
@@ -3599,11 +3621,11 @@
       <link>https://weekly.shawnxie.top/content/2024/30.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/30.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 30 期）：2024的尾声</source>
-      <description>肖恩技术周刊（第 30 期）：2024的尾声 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 2024就要结束了，大家年初定的目标都完成了吗？俺今年达成了新“五子登科”中的第四子——孩子，就差一个票子了。不过最后这个难度太大，不知道什么时候才能俱全。 业界资讯 DeepSeek-V3 首个版本上线并开源 D...</description>
+      <description>肖恩技术周刊（第 30 期）：2024的尾声 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 2024就要结束了，大家年初定的目标都完成了吗？俺今年达成了新“五子登科”中的第四子——孩子，就差一个票子了。不过最后这个难度太大，不知道什么时候才能俱全。 业界资讯 DeepSeek-V3 首个版本上线并开源 De...</description>
       <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412300006293.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>2024就要结束了，大家年初定的目标都完成了吗？俺今年达成了新“五子登科”中的第四子——<strong>孩子</strong>，就差一个票子了。不过最后这个难度太大，不知道什么时候才能俱全。</p>
@@ -3752,11 +3774,11 @@
       <link>https://weekly.shawnxie.top/content/2024/29.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/29.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 29 期）：宇宙的尽头是上岸</source>
-      <description>肖恩技术周刊（第 29 期）：宇宙的尽头是上岸 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 陆陆续续各家年度报告发出来了，今年的就业情况依旧很惨烈，人才持续饱和，整体薪资下降。AIGC 虽然爆火，用用还行，要想入局门槛太高了。和一个朋友聊天，他公司一个AI岗，只有1个HC，但有6个人竞争，4个博士，另外...</description>
+      <description>肖恩技术周刊（第 29 期）：宇宙的尽头是上岸 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 陆陆续续各家年度报告发出来了，今年的就业情况依旧很惨烈，人才持续饱和，整体薪资下降。AIGC 虽然爆火，用用还行，要想入局门槛太高了。和一个朋友聊天，他公司一个AI岗，只有1个HC，但有6个人竞争，4个博士，另外两...</description>
       <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412222253270.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>陆陆续续各家年度报告发出来了，今年的就业情况依旧很惨烈，人才持续饱和，整体薪资下降。AIGC 虽然爆火，用用还行，要想入局门槛太高了。和一个朋友聊天，他公司一个AI岗，只有1个HC，但有6个人竞争，4个博士，另外两个硕士中有一个发了5篇CCF-A，其中三篇一作。这是什么竞争强度，不用过多描述了吧。或许趁现在还不到35，再琢磨琢磨出路，宇宙的尽头可能真得上岸。</p>
@@ -3809,11 +3831,11 @@
       <link>https://weekly.shawnxie.top/content/2024/28.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/28.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 28 期）：小机器人是什么鬼啊？</source>
-      <description>肖恩技术周刊（第 28 期）：小机器人是什么鬼啊？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 TGA 2024最佳游戏离谱的给了《宇宙机器人》，然后菜鸟APP被狂刷负评，笑尿。 业界资讯 清华大学计算机教授、《数据结构》编著者严蔚敏去世，享年 86 岁 清华大学计算机系教授严蔚敏因病去世，享年86岁。...</description>
+      <description>肖恩技术周刊（第 28 期）：小机器人是什么鬼啊？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 TGA 2024最佳游戏离谱的给了《宇宙机器人》，然后菜鸟APP被狂刷负评，笑尿。 业界资讯 清华大学计算机教授、《数据结构》编著者严蔚敏去世，享年 86 岁 清华大学计算机系教授严蔚敏因病去世，享年86岁。作...</description>
       <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412152302237.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>TGA 2024最佳游戏离谱的给了《宇宙机器人》，然后菜鸟APP被狂刷负评，笑尿。</p>
@@ -3864,11 +3886,11 @@
       <link>https://weekly.shawnxie.top/content/2024/27.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/27.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 27 期）：移动的移动充电宝</source>
-      <description>肖恩技术周刊（第 27 期）：移动的移动充电宝 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 这周阅读量偏少，有了娃感觉时间根本不够用，凑合记录一些吧。周五下班出地铁看到了图中这辆带移动充电宝的小电驴，觉得蛮有意思的。能有效的解决时空问题，发现有机会的地方就可以摆过去试试，主打一个灵活。另外，成都的共享电...</description>
+      <description>肖恩技术周刊（第 27 期）：移动的移动充电宝 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 这周阅读量偏少，有了娃感觉时间根本不够用，凑合记录一些吧。周五下班出地铁看到了图中这辆带移动充电宝的小电驴，觉得蛮有意思的。能有效的解决时空问题，发现有机会的地方就可以摆过去试试，主打一个灵活。另外，成都的共享电瓶...</description>
       <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202501232321756.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>这周阅读量偏少，有了娃感觉时间根本不够用，凑合记录一些吧。周五下班出地铁看到了图中这辆带移动充电宝的小电驴，觉得蛮有意思的。能有效的解决时空问题，发现有机会的地方就可以摆过去试试，主打一个灵活。另外，成都的共享电瓶车也越来越多了，既然用电是不是也加一下手机充电功能啊，这样出门在外手机没电也能成为租电瓶车的原因了。</p>
@@ -3903,11 +3925,11 @@
       <link>https://weekly.shawnxie.top/content/2024/26.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/26.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 26 期）：无痛写作</source>
-      <description>肖恩技术周刊（第 26 期）：无痛写作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 写作相关的工具，这几个月可没少折腾。先是选了一个好用的笔记工具 Obsidian，并自建了图床解决了图片管理问题。写作时是舒坦了，但写作后除了push到Github外还需要手动发布到公众号和个人博客，还是比较痛苦。博客由...</description>
+      <description>肖恩技术周刊（第 26 期）：无痛写作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 写作相关的工具，这几个月可没少折腾。先是选了一个好用的笔记工具 Obsidian，并自建了图床解决了图片管理问题。写作时是舒坦了，但写作后除了push到Github外还需要手动发布到公众号和个人博客，还是比较痛苦。博客由于...</description>
       <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412012306767.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>写作相关的工具，这几个月可没少折腾。先是选了一个好用的笔记工具 Obsidian，并自建了图床解决了图片管理问题。写作时是舒坦了，但写作后除了push到Github外还需要手动发布到公众号和个人博客，还是比较痛苦。博客由于调整格式太麻烦，最近都放弃同步了。</p>
@@ -3968,11 +3990,11 @@
       <link>https://weekly.shawnxie.top/content/2024/25.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/25.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 25 期）：第一生产力</source>
-      <description>肖恩技术周刊（第 25 期）：第一生产力 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 娃是中年人的第一生产力。 业界资讯 谷歌被强制出售Chrome 美国司法部和州检察官正在对谷歌进行反垄断调查，考虑要求其出售Chrome浏览器和部分广告业务。这一行动可能对谷歌股价造成影响，Chrome浏览器在美国市场...</description>
+      <description>肖恩技术周刊（第 25 期）：第一生产力 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 娃是中年人的第一生产力。 业界资讯 谷歌被强制出售Chrome 美国司法部和州检察官正在对谷歌进行反垄断调查，考虑要求其出售Chrome浏览器和部分广告业务。这一行动可能对谷歌股价造成影响，Chrome浏览器在美国市场占...</description>
       <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202411250114961.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>娃是中年人的第一生产力。</p>
@@ -4031,11 +4053,11 @@
       <link>https://weekly.shawnxie.top/content/2024/24.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/24.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 24 期）：伟大的母亲</source>
-      <description>肖恩技术周刊（第 24 期）：伟大的母亲 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 11月15日在华西LDR产房全程见证了媳妇的生产过程，不由感叹母亲真是世界上最伟大的人。整个分娩过程之煎熬（持续十二小时），痛苦之强烈，作为旁观者都能深深的感受到（汗流浃背）。当听到孩子的第一声哭啼，我的泪水止不住的往...</description>
+      <description>肖恩技术周刊（第 24 期）：伟大的母亲 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 11月15日在华西LDR产房全程见证了媳妇的生产过程，不由感叹母亲真是世界上最伟大的人。整个分娩过程之煎熬（持续十二小时），痛苦之强烈，作为旁观者都能深深的感受到（汗流浃背）。当听到孩子的第一声哭啼，我的泪水止不住的往外...</description>
       <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20241117233731.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>11月15日在华西LDR产房全程见证了媳妇的生产过程，不由感叹母亲真是世界上最伟大的人。整个分娩过程之煎熬（持续十二小时），痛苦之强烈，作为旁观者都能深深的感受到（汗流浃背）。当听到孩子的第一声哭啼，我的泪水止不住的往外涌。看着媳妇那虚脱的模样，特别心疼，要把这感受传达给小宝宝，明白生命的来之不易。</p>
@@ -4081,11 +4103,11 @@
       <link>https://weekly.shawnxie.top/content/2024/23.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/23.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 23 期）：MAGA!</source>
-      <description>肖恩技术周刊（第 23 期）：MAGA! 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 开篇图开篇图 恭喜川普，MAGA！ 业界资讯 Linus:我略微出手修改几行内核代码就提升了2.6%性能 Linux创始人Linus Torvalds提交了一个内核补丁，通过修改几行代码，在英特尔性能测试中提升了2.6...</description>
+      <description>肖恩技术周刊（第 23 期）：MAGA! 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 开篇图开篇图 恭喜川普，MAGA！ 业界资讯 Linus:我略微出手修改几行内核代码就提升了2.6%性能 Linux创始人Linus Torvalds提交了一个内核补丁，通过修改几行代码，在英特尔性能测试中提升了2.6%...</description>
       <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20241110230042.png" alt="开篇图" tabindex="0" loading="lazy"><figcaption>开篇图</figcaption></figure>
 <p>恭喜川普，MAGA！</p>
@@ -4120,11 +4142,11 @@
       <link>https://weekly.shawnxie.top/content/2024/22.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/22.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 22 期）：4 &amp;gt; 1</source>
-      <description>肖恩技术周刊（第 22 期）：4 &amp;gt; 1 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 本周花了较多时间在“知识管理”的理论学习上，了解了工作流、知识花园（Digital Garden）和笔记软件。本来打算周末再深入调研一下，再结合个人目前的阅读写作工作流和工具产出一篇文章。但一切都被周六晚上的比赛打断了...</description>
+      <description>肖恩技术周刊（第 22 期）：4 &amp;gt; 1 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周花了较多时间在“知识管理”的理论学习上，了解了工作流、知识花园（Digital Garden）和笔记软件。本来打算周末再深入调研一下，再结合个人目前的阅读写作工作流和工具产出一篇文章。但一切都被周六晚上的比赛打断了，...</description>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20241103235244.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>本周花了较多时间在“知识管理”的理论学习上，了解了工作流、知识花园（Digital Garden）和笔记软件。本来打算周末再深入调研一下，再结合个人目前的阅读写作工作流和工具产出一篇文章。但一切都被周六晚上的比赛打断了，熬夜看完5局比赛，像吃了一口大翔，整个人都不好了，LPL是永远翻不过T1和Faker这座大山了。不知道是不是我的错觉，商业价值越高的竞技比赛，虽然自己玩的如火如荼，但国际赛事成绩却很差（三大球），这背后的原因究竟是为什么？</p>
@@ -4165,11 +4187,11 @@
       <link>https://weekly.shawnxie.top/content/2024/21.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/21.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 21 期）：惬意</source>
-      <description>肖恩技术周刊（第 21 期）：惬意 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 好天气好天气 是我错怪成都了，原来周末也是可以有好天气的！本周个人没啥新鲜事分享，周末去商场看了两天家电，合计合计好几个又要出去了😭。 业界资讯 华为正式发布原生鸿蒙系统 华为正式发布了我国首个国产移动操作系统——原生鸿蒙...</description>
+      <description>肖恩技术周刊（第 21 期）：惬意 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 好天气好天气 是我错怪成都了，原来周末也是可以有好天气的！本周个人没啥新鲜事分享，周末去商场看了两天家电，合计合计好几个又要出去了😭。 业界资讯 华为正式发布原生鸿蒙系统 华为正式发布了我国首个国产移动操作系统——原生鸿蒙操...</description>
       <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/WechatIMG65.png" alt="好天气" tabindex="0" loading="lazy"><figcaption>好天气</figcaption></figure>
 <p>是我错怪成都了，原来周末也是可以有好天气的！本周个人没啥新鲜事分享，周末去商场看了两天家电，合计合计好几个又要出去了😭。</p>
@@ -4214,11 +4236,11 @@
       <link>https://weekly.shawnxie.top/content/2024/20.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/20.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 20 期）：折腾要趁早</source>
-      <description>肖恩技术周刊（第 20 期）：折腾要趁早 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 本周去了两次校园（招聘+分享），沾染了不少书香气。想想还是学校好啊，环境好，烦恼还相对少。回想自己的求学生涯，也就只能记起和那帮老伙计的糗事了。当时的自己如果能再折腾一点，现在会不会不一样呢？在农大分享中写了不少感悟，...</description>
+      <description>肖恩技术周刊（第 20 期）：折腾要趁早 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周去了两次校园（招聘+分享），沾染了不少书香气。想想还是学校好啊，环境好，烦恼还相对少。回想自己的求学生涯，也就只能记起和那帮老伙计的糗事了。当时的自己如果能再折腾一点，现在会不会不一样呢？在农大分享中写了不少感悟，都...</description>
       <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202411262033362.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
@@ -4271,11 +4293,11 @@
       <link>https://weekly.shawnxie.top/content/2024/19.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/19.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 19 期）：物理学不存在了</source>
-      <description>肖恩技术周刊（第 19 期）：物理学不存在了 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 这周内容比较少，因为突然被安排周一去学校面试，得提前准备一下。本周最激动的事莫过于Kimi推出探索版了，体验还是很不错的，虽然有时候检索的网页数量没有达到预期并且每天只能体验5次，但瑕不掩瑜。探索版灰度周一就要推全...</description>
+      <description>肖恩技术周刊（第 19 期）：物理学不存在了 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 这周内容比较少，因为突然被安排周一去学校面试，得提前准备一下。本周最激动的事莫过于Kimi推出探索版了，体验还是很不错的，虽然有时候检索的网页数量没有达到预期并且每天只能体验5次，但瑕不掩瑜。探索版灰度周一就要推全了...</description>
       <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202411262344743.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>这周内容比较少，因为突然被安排周一去学校面试，得提前准备一下。本周最激动的事莫过于Kimi推出探索版了，体验还是很不错的，虽然有时候检索的网页数量没有达到预期并且每天只能体验5次，但瑕不掩瑜。探索版灰度周一就要推全了，还没有用过的小伙伴快去试试吧。</p>
@@ -4315,11 +4337,11 @@
       <link>https://weekly.shawnxie.top/content/2024/18.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/18.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 18 期）：啪的一下，假期就没了！</source>
-      <description>肖恩技术周刊（第 18 期）：啪的一下，假期就没了！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 假期过的太快了，明儿个就要上班了，大家准备好了吗😂？由于不可抗因素，这个假期只能在成都周边活动。但通过朋友圈也领略到了祖国的山河秀丽，希望明年有机会再出去走走（图片为去年旧照）。 业界资讯 TIOBE 1...</description>
+      <description>肖恩技术周刊（第 18 期）：啪的一下，假期就没了！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 假期过的太快了，明儿个就要上班了，大家准备好了吗😂？由于不可抗因素，这个假期只能在成都周边活动。但通过朋友圈也领略到了祖国的山河秀丽，希望明年有机会再出去走走（图片为去年旧照）。 业界资讯 TIOBE 10...</description>
       <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202411262348292.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>假期过的太快了，明儿个就要上班了，大家准备好了吗😂？由于不可抗因素，这个假期只能在成都周边活动。但通过朋友圈也领略到了祖国的山河秀丽，希望明年有机会再出去走走（图片为去年旧照）。</p>
@@ -4369,11 +4391,11 @@
       <link>https://weekly.shawnxie.top/content/2024/17.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/17.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 17 期）：牛市来了？</source>
-      <description>肖恩技术周刊（第 17 期）：牛市来了？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 A股疯了，牛市要来了？从20年被套到现在，收益终于有希望回正了。不过就像大牛猫说的那样，A股真的没有规律可言，能阴跌三年也能一周反弹33%。虽然我挺过来了，但很多经受不住折磨的朋友在反弹前选择了退出，这些人估计永远不会...</description>
+      <description>肖恩技术周刊（第 17 期）：牛市来了？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 A股疯了，牛市要来了？从20年被套到现在，收益终于有希望回正了。不过就像大牛猫说的那样，A股真的没有规律可言，能阴跌三年也能一周反弹33%。虽然我挺过来了，但很多经受不住折磨的朋友在反弹前选择了退出，这些人估计永远不会再...</description>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202411262331264.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>A股疯了，牛市要来了？从20年被套到现在，收益终于有希望回正了。不过就像大牛猫说的那样，A股真的没有规律可言，能阴跌三年也能一周反弹33%。虽然我挺过来了，但很多经受不住折磨的朋友在反弹前选择了退出，这些人估计永远不会再踏入A股了吧😂。我这波回正也会撤了，经受不住这种刺激，这钱不是我能赚的，还是老老实实上班吧。</p>
@@ -4429,11 +4451,11 @@
       <link>https://weekly.shawnxie.top/content/2024/16.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/16.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 16 期）：白嫖AI的最佳时间</source>
-      <description>肖恩技术周刊（第 16 期）：白嫖AI的最佳时间 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 最近资讯含AI量很高，大模型这波热度确实是前几次概念无法比拟的。同时由于国内的内卷，当下也是普通人白嫖AI的最佳时刻，但随着这波热潮过去或某些厂家杀出重围一统天下，前期价格战的成本迟早是要收回的。想想我开始写周...</description>
+      <description>肖恩技术周刊（第 16 期）：白嫖AI的最佳时间 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 最近资讯含AI量很高，大模型这波热度确实是前几次概念无法比拟的。同时由于国内的内卷，当下也是普通人白嫖AI的最佳时刻，但随着这波热潮过去或某些厂家杀出重围一统天下，前期价格战的成本迟早是要收回的。想想我开始写周刊...</description>
       <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202411262354810.jpeg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>最近资讯含AI量很高，大模型这波热度确实是前几次概念无法比拟的。同时由于国内的内卷，当下也是普通人白嫖AI的最佳时刻，但随着这波热潮过去或某些厂家杀出重围一统天下，前期价格战的成本迟早是要收回的。想想我开始写周刊也是吃到了大模型提效的红利，现在完成一篇周刊除去前期阅读的成本（也可以通过工具自动化，但收集的效果一直不太满意）基本可以在一小时内完成，视频的生成也能控制在20分钟左右，这种效率确实相当可观。不过本周开始还是决定将视频砍掉了，一方面是20分钟虽然短但对于周末来说还是太宝贵了😁，制作完还得发到各个平台也得花费不少时间。同时也分析了近一个月的数据，发现3分钟的视频在当前信息量爆炸的环境下还是太长了，80%的观众都在前20s就退出了，完播率很低。因此，还是优先将精力放在周刊文章上，把内容做的更好一点吧。</p>
@@ -4481,11 +4503,11 @@
       <link>https://weekly.shawnxie.top/content/2024/15.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/15.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 15 期）：中秋节快乐</source>
-      <description>肖恩技术周刊（第 15 期）：中秋节快乐 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 大家中秋快乐！抱歉周刊延迟了，去青城山躺平了两天。先报个喜，公众号粉丝破百了！虽然好友占比高达50%，但也是值得纪念的里程碑，感谢大家的支持。这两周也对公众号的定位和内容规划有了更多的思考和探索，之后就是慢慢逐步实施了...</description>
+      <description>肖恩技术周刊（第 15 期）：中秋节快乐 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 大家中秋快乐！抱歉周刊延迟了，去青城山躺平了两天。先报个喜，公众号粉丝破百了！虽然好友占比高达50%，但也是值得纪念的里程碑，感谢大家的支持。这两周也对公众号的定位和内容规划有了更多的思考和探索，之后就是慢慢逐步实施了。...</description>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252317788.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>大家中秋快乐！抱歉周刊延迟了，去青城山躺平了两天。先报个喜，公众号粉丝破百了！虽然好友占比高达50%，但也是值得纪念的里程碑，感谢大家的支持。这两周也对公众号的定位和内容规划有了更多的思考和探索，之后就是慢慢逐步实施了。另外写本期的时候发现很多其他周刊也没发，大家看来都挺懒的，假期只想摆烂😂。</p>
@@ -4568,11 +4590,11 @@
       <link>https://weekly.shawnxie.top/content/2024/14.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/14.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 14 期）：什么是完美副业？</source>
-      <description>肖恩技术周刊（第 14 期）：什么是完美副业？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 这周和好几个朋友就业余时间到底干点啥讨论了很多，聊了内容付费、实体经济甚至卖课，但能想到的场景基本都是红海或者和主业有冲突。朋友有个观点我觉得很赞“要在擅长的、感兴趣的和能满足大众需求的交集里做文章，这是理想副业...</description>
+      <description>肖恩技术周刊（第 14 期）：什么是完美副业？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 这周和好几个朋友就业余时间到底干点啥讨论了很多，聊了内容付费、实体经济甚至卖课，但能想到的场景基本都是红海或者和主业有冲突。朋友有个观点我觉得很赞“要在擅长的、感兴趣的和能满足大众需求的交集里做文章，这是理想副业的...</description>
       <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252316869.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>这周和好几个朋友就业余时间到底干点啥讨论了很多，聊了内容付费、实体经济甚至卖课，但能想到的场景基本都是红海或者和主业有冲突。朋友有个观点我觉得很赞“要在<strong>擅长的、感兴趣的和能满足大众需求的交集</strong>里做文章，这是理想副业的样子”，同时也提醒我别局限自己，虽然技术是我们的优势但也不是唯一方式。想想公众号也弄了3个月了，目前还没有度过黑暗期（粉丝不过百），技术文章受众确实太小了，而且在当前大环境下大家更浮躁，很难静下心来读文章。或许公众号也该进行一个阶段性总结了，对内容的定位也需要重新思考一下，在大众需求上再下点文章，大家有什么好的想法也可以和我交流呀。</p>
@@ -4651,11 +4673,11 @@
       <link>https://weekly.shawnxie.top/content/2024/13.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/13.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 13 期）：肉，好次！</source>
-      <description>肖恩技术周刊（第 13 期）：肉，好次！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 周末见了两年未见的同期入职同事，两年前他离职时在北京吃的火锅，这次相见又吃了火锅，我们是真的爱吃肉🤤。虽说见面还是熟悉的感觉，聊的也是熟悉的话题，但时间已经悄悄咪咪的过去了两年，相聚的机会越来越要按年来计次了。 业界...</description>
+      <description>肖恩技术周刊（第 13 期）：肉，好次！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 周末见了两年未见的同期入职同事，两年前他离职时在北京吃的火锅，这次相见又吃了火锅，我们是真的爱吃肉🤤。虽说见面还是熟悉的感觉，聊的也是熟悉的话题，但时间已经悄悄咪咪的过去了两年，相聚的机会越来越要按年来计次了。 业界资...</description>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252315687.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>周末见了两年未见的同期入职同事，两年前他离职时在北京吃的火锅，这次相见又吃了火锅，我们是真的爱吃肉🤤。虽说见面还是熟悉的感觉，聊的也是熟悉的话题，但时间已经悄悄咪咪的过去了两年，相聚的机会越来越要按年来计次了。</p>
@@ -4749,11 +4771,11 @@
       <link>https://weekly.shawnxie.top/content/2024/12.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/12.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 12 期）：热 &amp; 累！</source>
-      <description>肖恩技术周刊（第 12 期）：热 &amp; 累！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 这周真是差点累嗝屁了，值班好几次凌晨被弄起来查问题😭，然后还参加了公司黑客马拉松比赛周六周天两天一夜封闭开发。开始写这一期的时候已经是周天晚上21点了，有想过要不要停更一期，但想着还是别开这个头，内容可以少点但不能...</description>
+      <description>肖恩技术周刊（第 12 期）：热 &amp; 累！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 这周真是差点累嗝屁了，值班好几次凌晨被弄起来查问题😭，然后还参加了公司黑客马拉松比赛周六周天两天一夜封闭开发。开始写这一期的时候已经是周天晚上21点了，有想过要不要停更一期，但想着还是别开这个头，内容可以少点但不能没...</description>
       <pubDate>Sun, 25 Aug 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252315176.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>这周真是差点累嗝屁了，值班好几次凌晨被弄起来查问题😭，然后还参加了公司黑客马拉松比赛周六周天两天一夜封闭开发。开始写这一期的时候已经是周天晚上21点了，有想过要不要停更一期，但想着还是别开这个头，内容可以少点但不能没有，抱歉了各位。只是有点蓝瘦，期待了几年的黑猴真是一点玩的时间都没有，剧情都云完了，第四回真的意难平可怜猪猪。</p>
@@ -4830,11 +4852,11 @@
       <link>https://weekly.shawnxie.top/content/2024/11.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/11.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 11 期）：猴哥，我好急啊！</source>
-      <description>肖恩技术周刊（第 11 期）：猴哥，我好急啊！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 黑神话悟空将于8月20号上线，猴哥啊，我是真的很急啊，急急急！ 业界资讯 「每周只上一天班」谷歌散漫制度遭前CEO怒斥：输给OpenAI，再下去要输创业公司了 谷歌前CEO埃里克·施密特（Eric Schmidt...</description>
+      <description>肖恩技术周刊（第 11 期）：猴哥，我好急啊！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 黑神话悟空将于8月20号上线，猴哥啊，我是真的很急啊，急急急！ 业界资讯 「每周只上一天班」谷歌散漫制度遭前CEO怒斥：输给OpenAI，再下去要输创业公司了 谷歌前CEO埃里克·施密特（Eric Schmidt）...</description>
       <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252315262.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>黑神话悟空将于8月20号上线，猴哥啊，我是真的很急啊，急急急！</p>
@@ -4928,11 +4950,11 @@
       <link>https://weekly.shawnxie.top/content/2024/10.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/10.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 10 期）：太阳神鸟</source>
-      <description>肖恩技术周刊（第 10 期）：太阳神鸟 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 周末去逛了金沙遗址博物馆，太阳神鸟金饰真的非常精致非常薄（外径12.5厘米，内径5.29厘米，厚度0.02厘米，重20克），难以想象在那个制作工艺如此原始的时代是如何制作出来的。 业界资讯 李飞飞亲自撰文，数十名科学家签...</description>
+      <description>肖恩技术周刊（第 10 期）：太阳神鸟 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 周末去逛了金沙遗址博物馆，太阳神鸟金饰真的非常精致非常薄（外径12.5厘米，内径5.29厘米，厚度0.02厘米，重20克），难以想象在那个制作工艺如此原始的时代是如何制作出来的。 业界资讯 李飞飞亲自撰文，数十名科学家签署...</description>
       <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252314685.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>周末去逛了金沙遗址博物馆，太阳神鸟金饰真的非常精致非常薄（外径12.5厘米，内径5.29厘米，厚度<strong>0.02</strong>厘米，重20克），难以想象在那个制作工艺如此原始的时代是如何制作出来的。</p>
@@ -5041,11 +5063,11 @@
       <link>https://weekly.shawnxie.top/content/2024/9.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/9.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 9 期）：Queen Wen！！！</source>
-      <description>肖恩技术周刊（第 9 期）：Queen Wen！！！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 太炸了！郑钦文牛逼！Queen Wen！ 业界资讯 全线大溃败，英特尔 “黄粱一梦” 英特尔在2024年第二季度遭遇了业绩全线大溃败。财报显示，公司营收为128.3亿美元，同比下滑0.9%，低于市场预期的1...</description>
+      <description>肖恩技术周刊（第 9 期）：Queen Wen！！！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 太炸了！郑钦文牛逼！Queen Wen！ 业界资讯 全线大溃败，英特尔 “黄粱一梦” 英特尔在2024年第二季度遭遇了业绩全线大溃败。财报显示，公司营收为128.3亿美元，同比下滑0.9%，低于市场预期的12...</description>
       <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252313312.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>太炸了！郑钦文牛逼！Queen Wen！</p>
@@ -5158,11 +5180,11 @@
       <link>https://weekly.shawnxie.top/content/2024/8.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/8.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 8 期）：奥运会热度不高？</source>
-      <description>肖恩技术周刊（第 8 期）：奥运会热度不高？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 不知道是不是因为周边的人很少讨论奥运会，感觉这一届的热度不是很高，我甚至都忽略了开幕式的时间😂。 技术博客 10 张图，说透 Kubernetes 架构原理，这会算是真懂了 本文是一份关于Kubernetes架构...</description>
+      <description>肖恩技术周刊（第 8 期）：奥运会热度不高？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 不知道是不是因为周边的人很少讨论奥运会，感觉这一届的热度不是很高，我甚至都忽略了开幕式的时间😂。 技术博客 10 张图，说透 Kubernetes 架构原理，这会算是真懂了 本文是一份关于Kubernetes架构的...</description>
       <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252313911.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>不知道是不是因为周边的人很少讨论奥运会，感觉这一届的热度不是很高，我甚至都忽略了开幕式的时间😂。</p>
@@ -5259,11 +5281,11 @@
       <link>https://weekly.shawnxie.top/content/2024/7.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/7.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 7 期）：Fight！</source>
-      <description>肖恩技术周刊（第 7 期）：Fight！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 Fight! Fight! Fight! 业界资讯 “微软蓝屏”登顶微博热搜：全球多地 Windows 系统崩溃，杀毒软件 CrowdStrike 要背锅？ 2024年7月19日，“微软蓝屏”成为微博热搜榜首。全球多地...</description>
+      <description>肖恩技术周刊（第 7 期）：Fight！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 Fight! Fight! Fight! 业界资讯 “微软蓝屏”登顶微博热搜：全球多地 Windows 系统崩溃，杀毒软件 CrowdStrike 要背锅？ 2024年7月19日，“微软蓝屏”成为微博热搜榜首。全球多地W...</description>
       <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252311207.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>Fight! Fight! Fight!</p>
@@ -5349,11 +5371,11 @@
       <link>https://weekly.shawnxie.top/content/2024/6.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/6.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 6 期）：陶冶情操！</source>
-      <description>肖恩技术周刊（第 6 期）：陶冶情操！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 最近成都绵绵细雨不断不适合外出，逛逛美术馆陶冶情操也是极好的😁。 业界资讯 ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k Star ControlNet 作者 Lvmin Zhang 发布了...</description>
+      <description>肖恩技术周刊（第 6 期）：陶冶情操！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 最近成都绵绵细雨不断不适合外出，逛逛美术馆陶冶情操也是极好的😁。 业界资讯 ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k Star ControlNet 作者 Lvmin Zhang 发布了新...</description>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252312668.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>最近成都绵绵细雨不断不适合外出，逛逛美术馆陶冶情操也是极好的😁。</p>
@@ -5469,11 +5491,11 @@
       <link>https://weekly.shawnxie.top/content/2024/5.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/5.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 5 期）：小魔女太可爱了！</source>
-      <description>肖恩技术周刊（第 5 期）：小魔女太可爱了！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 本来准备补课歧路旅人，结果这周空余时间都被“魔女之泉r”占用了😂。游戏挺好玩的，结合了养成、收集制作和战斗的剧情向RPG，目前夏促史低有兴趣的朋友可以玩玩。 业界资讯 CSDN旗下的GitCode正在批量搬运Gi...</description>
+      <description>肖恩技术周刊（第 5 期）：小魔女太可爱了！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本来准备补课歧路旅人，结果这周空余时间都被“魔女之泉r”占用了😂。游戏挺好玩的，结合了养成、收集制作和战斗的剧情向RPG，目前夏促史低有兴趣的朋友可以玩玩。 业界资讯 CSDN旗下的GitCode正在批量搬运Git...</description>
       <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252309545.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>本来准备补课歧路旅人，结果这周空余时间都被“魔女之泉r”占用了😂。游戏挺好玩的，结合了养成、收集制作和战斗的剧情向RPG，目前夏促史低有兴趣的朋友可以玩玩。</p>
@@ -5591,11 +5613,11 @@
       <link>https://weekly.shawnxie.top/content/2024/4.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/4.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 4 期）：Steam夏季促销开始啦！</source>
-      <description>肖恩技术周刊（第 4 期）：Steam夏季促销开始啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 Steam夏季特卖开始啦！！！剁手入了歧路旅人1和2😁，补课一下！ 业界资讯 史上最快AI芯片「Sohu」，速度10倍于B200，哈佛辍学生打造 美国芯片创业公司Etched推出了一款名为Sohu的AI...</description>
+      <description>肖恩技术周刊（第 4 期）：Steam夏季促销开始啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 Steam夏季特卖开始啦！！！剁手入了歧路旅人1和2😁，补课一下！ 业界资讯 史上最快AI芯片「Sohu」，速度10倍于B200，哈佛辍学生打造 美国芯片创业公司Etched推出了一款名为Sohu的AI芯...</description>
       <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252308556.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>Steam夏季特卖开始啦！！！剁手入了歧路旅人1和2😁，补课一下！</p>
@@ -5761,11 +5783,11 @@
       <link>https://weekly.shawnxie.top/content/2024/3.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/3.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 3 期）：基于“智能体”创造自发展的冒险镇</source>
-      <description>肖恩技术周刊（第 3 期）：基于“智能体”创造自发展的冒险镇 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 图片为“冒险村物语2”游戏截图，玩的时候很上头，但可惜的是内容比较少持续可玩性不够。刚好最近智能体很火，去年也有“斯坦福小镇”构建了全智能体的虚拟世界，我这边萌生了一个扩展冒险村的想法，后续有进展再...</description>
+      <description>肖恩技术周刊（第 3 期）：基于“智能体”创造自发展的冒险镇 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 图片为“冒险村物语2”游戏截图，玩的时候很上头，但可惜的是内容比较少持续可玩性不够。刚好最近智能体很火，去年也有“斯坦福小镇”构建了全智能体的虚拟世界，我这边萌生了一个扩展冒险村的想法，后续有进展再同...</description>
       <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252326976.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>图片为“冒险村物语2”游戏截图，玩的时候很上头，但可惜的是内容比较少持续可玩性不够。刚好最近智能体很火，去年也有“斯坦福小镇”构建了全智能体的虚拟世界，我这边萌生了一个扩展冒险村的想法，后续有进展再同步😁。</p>
@@ -5863,11 +5885,11 @@
       <link>https://weekly.shawnxie.top/content/2024/2.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/2.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 2 期）：房地产降温</source>
-      <description>肖恩技术周刊（第 2 期）：房地产降温 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 黑龙潭边缘一窥，旁边农家李子熟了挺好吃。不远处就是&amp;quot;天府万科城&amp;quot;, 离成都市中心有60多公里房价却要1w+，懂得都懂😁。 业界资讯 苹果 WWDC24 开发者大会一文汇总：iOS 18 重磅更新，苹果牌“AI”惊喜登场...</description>
+      <description>肖恩技术周刊（第 2 期）：房地产降温 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 黑龙潭边缘一窥，旁边农家李子熟了挺好吃。不远处就是&amp;quot;天府万科城&amp;quot;, 离成都市中心有60多公里房价却要1w+，懂得都懂😁。 业界资讯 苹果 WWDC24 开发者大会一文汇总：iOS 18 重磅更新，苹果牌“AI”惊喜登场 ...</description>
       <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412252325571.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>黑龙潭边缘一窥，旁边农家李子熟了挺好吃。不远处就是"天府万科城", 离成都市中心有60多公里房价却要1w+，懂得都懂😁。</p>
@@ -5955,11 +5977,11 @@
       <link>https://weekly.shawnxie.top/content/2024/1.html</link>
       <guid>https://weekly.shawnxie.top/content/2024/1.html</guid>
       <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 1 期）：起点！</source>
-      <description>肖恩技术周刊（第 1 期）：起点！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。 技术周刊，启航！ 业界资讯 马斯克旗下AI初创再吸金60亿美元，成立不到一年估值已超180亿美元 马斯克旗下的人工智能初创公司xAI在5月26日宣布完成60亿美元的B轮融资，使得公司估值达到近180亿美元，成为全球AI独角兽...</description>
+      <description>肖恩技术周刊（第 1 期）：起点！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 技术周刊，启航！ 业界资讯 马斯克旗下AI初创再吸金60亿美元，成立不到一年估值已超180亿美元 马斯克旗下的人工智能初创公司xAI在5月26日宣布完成60亿美元的B轮融资，使得公司估值达到近180亿美元，成为全球AI独角兽企...</description>
       <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
-<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击右上角订阅，第一时间获取更新通知。</p>
+<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>
 </blockquote>
 <figure><img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>技术周刊，启航！</p>
