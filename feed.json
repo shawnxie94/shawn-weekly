@@ -13,7 +13,7 @@
       "content_html": "\n<blockquote>\n<p>对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。</p>\n</blockquote>\n<figure><img src=\"https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260118232654352.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>结对编程</strong>（Pair Programming）是一种两名开发者在同一台电脑前并肩作战的敏捷开发实践。它就像赛车中的车手与领航员：</p>\n<p>一人负责<strong>驾驶（Driver）</strong>，专注于键盘输入和具体的逻辑实现。</p>\n<p>另一人负责<strong>领航（Navigator）</strong>，在旁边观察代码，思考整体架构、捕捉细微错误，并预判潜在的风险。</p>\n<p>这种模式的核心价值在于“<strong>实时代码审查</strong>”，不仅能显著减少 Bug 数量、提升代码质量，还能有效促进团队内部知识共享。</p>\n<p><strong>AI 结对编程</strong>（AI Pair Programming）则是将你的合作伙伴从一名同事换成 AI 编程助手。在传统模式中，两人是平等的思维碰撞，角色通常会定期互换。但在 AI 模式中，关系转变为<strong>开发者作为主导者，AI 作为执行者</strong>。简单对比如下：</p>\n<p>| <strong>维度</strong>   | <strong>传统结对编程 (Human-Human)</strong> | <strong>AI 结对编程 (Human-AI)</strong>    |\n|</p>\n",
       "image": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260118232654352.png",
       "date_published": "2026-01-19T00:00:00.000Z",
-      "date_modified": "2026-01-18T15:29:57.000Z",
+      "date_modified": "2026-01-18T15:31:02.000Z",
       "authors": [],
       "tags": []
     },
