@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "LXGWWenKaiMono";
+  src: url("/fonts/LXGWWenKaiMono-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+:root {
+  --vp-font: "LXGWWenKaiMono", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --vp-font-heading: "LXGWWenKaiMono", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --vp-font-mono: "LXGWWenKaiMono", "SFMono-Regular", "Menlo", "Consolas", monospace;
+}
+
+body {
+  font-family: var(--vp-font);
+}
+
+code,
+kbd,
+samp,
+pre {
+  font-family: var(--vp-font-mono);
+}

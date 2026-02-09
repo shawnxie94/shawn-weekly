@@ -33,7 +33,8 @@ export default defineUserConfig({
       css: {
         preprocessorOptions: {
           scss: {
-            quietDeps: true
+            quietDeps: true,
+            silenceDeprecations: ['if-function']
           }
         }
       }

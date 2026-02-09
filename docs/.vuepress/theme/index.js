@@ -63,6 +63,10 @@ export default hopeTheme({
       cacheHTML: true,
       cachePic: true,
       appendBase: true,
+      generateSWConfig: {
+        mode: 'development',
+        maximumFileSizeToCacheInBytes: 30 * 1024 * 1024,
+      },
       apple: {
         icon: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png',
         statusBarColor: 'black',
