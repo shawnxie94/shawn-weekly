@@ -25,6 +25,49 @@ function articlesReplacePlugin() {
   }
 }
 
+function getOptimizedImageURL(src) {
+  if (typeof src !== 'string') return null
+
+  try {
+    const url = new URL(src)
+    const isTargetHost = url.hostname === 'cdn.jsdelivr.net'
+    const isTargetPath = url.pathname.startsWith('/gh/shawnxie94/images/images/')
+    const isTargetFormat = /\.(png|jpe?g)$/i.test(url.pathname)
+
+    if (!isTargetHost || !isTargetPath || !isTargetFormat) return null
+
+    const originPath = `${url.hostname}${url.pathname}`
+    return `https://images.weserv.nl/?url=${encodeURIComponent(originPath)}&output=webp&q=78`
+  } catch {
+    return null
+  }
+}
+
+function markdownImageOptimizePlugin(md) {
+  const defaultImageRenderer = md.renderer.rules.image || ((tokens, idx, options, env, self) => self.renderToken(tokens, idx, options))
+
+  md.renderer.rules.image = (tokens, idx, options, env, self) => {
+    const token = tokens[idx]
+    const srcIndex = token.attrIndex('src')
+
+    if (srcIndex >= 0) {
+      const src = token.attrs[srcIndex][1]
+      const optimized = getOptimizedImageURL(src)
+
+      if (optimized) {
+        token.attrs[srcIndex][1] = optimized
+        token.attrSet('data-origin-src', src)
+        token.attrSet('referrerpolicy', 'no-referrer')
+      }
+    }
+
+    token.attrSet('decoding', 'async')
+    if (token.attrIndex('loading') < 0) token.attrSet('loading', 'lazy')
+
+    return defaultImageRenderer(tokens, idx, options, env, self)
+  }
+}
+
 export default defineUserConfig({
   shouldPrefetch: false,
   bundler: viteBundler({
@@ -40,6 +83,9 @@ export default defineUserConfig({
       }
     }
   }),
+  extendsMarkdown: (md) => {
+    md.use(markdownImageOptimizePlugin)
+  },
   theme,
   lang: 'zh-CN',
   title: '肖恩技术周刊',
@@ -52,17 +98,19 @@ export default defineUserConfig({
       'link', { rel: 'dns-prefetch', href: 'https://cdn.jsdelivr.net' }
     ],
     [
-      'link',{ rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png' }
+      'link', { rel: 'preconnect', href: 'https://images.weserv.nl' }
     ],
     [
-      'meta',{ name: 'google-site-verification', content: 'rBr3QpOiV6jhzWBKMvyt2NUZOPlgtVBms1Fmq6u--1s' }
+      'link', { rel: 'dns-prefetch', href: 'https://images.weserv.nl' }
     ],
     [
-      'meta',{ name: 'msvalidate.01', content: '2F1791A628BF53E1505F40AA9EBF45AD' }
+      'link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png' }
     ],
     [
-      'script',
-      { defer: true, src: 'https://cloud.umami.is/script.js', 'data-website-id': '3b366c06-d035-411e-a013-8efbabbdad43' },
+      'meta', { name: 'google-site-verification', content: 'rBr3QpOiV6jhzWBKMvyt2NUZOPlgtVBms1Fmq6u--1s' }
+    ],
+    [
+      'meta', { name: 'msvalidate.01', content: '2F1791A628BF53E1505F40AA9EBF45AD' }
     ],
   ]
 })

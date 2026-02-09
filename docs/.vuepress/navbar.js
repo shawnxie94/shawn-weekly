@@ -1,19 +1,7 @@
-import { getContentSidebar, getYearSidebar } from './utils/sidebar'
-
 export const navbar = [
   {
     text: '主页',
     link: '/'
-  },
-  {
-    text: '目录',
-    prefix: '/content/',
-    children: getContentSidebar(),
-  },
-  {
-    text: '总结',
-    prefix: '/collection/',
-    children: getYearSidebar(),
   },
   {
     text: '博客',
