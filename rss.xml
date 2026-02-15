@@ -6,10 +6,20 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 13:32:02 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 13:32:02 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 14:18:40 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 14:18:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 83 期）：金句达人</title>
+      <link>https://weekly.shawnxie.top/content/2026/83.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/83.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 83 期）：金句达人</source>
+      <description>肖恩技术周刊（第 83 期）：金句达人 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 蛇年最后一周，时间主要用在年终总结撰写和 Lumina 工具打磨上了，周刊开题就稍微水水吧，哈哈。 蛇年（2025）总结：决定，回顾了一年的心路历程和创作记录。没啥高光时刻，但至少保持在正道上，心里踏实不少。 Lumina...</description>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[肖恩技术周刊（第 83 期）：金句达人 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 蛇年最后一周，时间主要用在年终总结撰写和 Lumina 工具打磨上了，周刊开题就稍微水水吧，哈哈。 蛇年（2025）总结：决定，回顾了一年的心路历程和创作记录。没啥高光时刻，但至少保持在正道上，心里踏实不少。 Lumina...]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260215221619389.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 82 期）：AI春晚？！</title>
       <link>https://weekly.shawnxie.top/content/2026/82.html</link>
@@ -359,16 +369,6 @@
       <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 48 期）：周刊一岁啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去年6月8日发布了周刊第一期，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写作...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506082247765.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 47 期）：端午安康</title>
-      <link>https://weekly.shawnxie.top/content/2025/47.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/47.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 47 期）：端午安康</source>
-      <description>肖恩技术周刊（第 47 期）：端午安康 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。 业界资讯 Claude团队推出“电路追踪”（circuit tracing）工具，读懂大模型的“脑回路”? Cla...</description>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[肖恩技术周刊（第 47 期）：端午安康 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。 业界资讯 Claude团队推出“电路追踪”（circuit tracing）工具，读懂大模型的“脑回路”? Cla...]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506022246606.png" type="image/png"/>
     </item>
   </channel>
 </rss>

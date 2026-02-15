@@ -6,6 +6,18 @@
   "description": "记录有价值的技术内容",
   "items": [
     {
+      "title": "肖恩技术周刊（第 83 期）：金句达人",
+      "url": "https://weekly.shawnxie.top/content/2026/83.html",
+      "id": "https://weekly.shawnxie.top/content/2026/83.html",
+      "summary": "肖恩技术周刊（第 83 期）：金句达人 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 蛇年最后一周，时间主要用在年终总结撰写和 Lumina 工具打磨上了，周刊开题就稍微水水吧，哈哈。 蛇年（2025）总结：决定，回顾了一年的心路历程和创作记录。没啥高光时刻，但至少保持在正道上，心里踏实不少。 Lumina...",
+      "content_html": "肖恩技术周刊（第 83 期）：金句达人 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 蛇年最后一周，时间主要用在年终总结撰写和 Lumina 工具打磨上了，周刊开题就稍微水水吧，哈哈。 蛇年（2025）总结：决定，回顾了一年的心路历程和创作记录。没啥高光时刻，但至少保持在正道上，心里踏实不少。 Lumina...",
+      "image": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260215221619389.png",
+      "date_published": "2025-02-16T00:00:00.000Z",
+      "date_modified": "2026-02-15T14:17:59.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "肖恩技术周刊（第 82 期）：AI春晚？！",
       "url": "https://weekly.shawnxie.top/content/2026/82.html",
       "id": "https://weekly.shawnxie.top/content/2026/82.html",
@@ -421,18 +433,6 @@
       "content_html": "肖恩技术周刊（第 48 期）：周刊一岁啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去年6月8日发布了周刊第一期，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写作...",
       "image": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506082247765.png",
       "date_published": "2025-06-09T00:00:00.000Z",
-      "date_modified": "2026-01-18T15:29:57.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "肖恩技术周刊（第 47 期）：端午安康",
-      "url": "https://weekly.shawnxie.top/content/2025/47.html",
-      "id": "https://weekly.shawnxie.top/content/2025/47.html",
-      "summary": "肖恩技术周刊（第 47 期）：端午安康 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。 业界资讯 Claude团队推出“电路追踪”（circuit tracing）工具，读懂大模型的“脑回路”? Cla...",
-      "content_html": "肖恩技术周刊（第 47 期）：端午安康 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 祝大家端午安康，儿童节快乐！上图为《多洛可小镇》游戏截图，一款画风可爱的种田游戏，非常适合社畜休闲时游玩。 业界资讯 Claude团队推出“电路追踪”（circuit tracing）工具，读懂大模型的“脑回路”? Cla...",
-      "image": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506022246606.png",
-      "date_published": "2025-06-03T00:00:00.000Z",
       "date_modified": "2026-01-18T15:29:57.000Z",
       "authors": [],
       "tags": []
