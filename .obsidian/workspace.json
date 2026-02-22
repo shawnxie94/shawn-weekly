@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/content/2026/83.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "83"
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -178,13 +177,13 @@
   },
   "active": "1b4828c12038150e",
   "lastOpenFiles": [
-    "未命名.base",
-    "docs/content/2026/83.md",
     "docs/content/2026/82.md",
-    "source/template.md",
     "docs/content/2026/81.md",
-    "docs/content/2024/30.md",
     "docs/content/2026/80.md",
+    "source/template.md",
+    "docs/content/2026/83.md",
+    "未命名.base",
+    "docs/content/2024/30.md",
     "docs/content/2026/79.md",
     "docs/content/2024/4.md",
     "docs/content/2026/78.md",
