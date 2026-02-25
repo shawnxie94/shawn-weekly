@@ -4,7 +4,8 @@
     "docs:build": "node tools/script/generate-articles.js && vuepress build docs",
     "update:links": "node tools/script/update-readme-links.js",
     "docs:prepare": "node tools/script/update-readme-links.js && vuepress dev docs",
-    "generate:articles": "node tools/script/generate-articles.js"
+    "generate:articles": "node tools/script/generate-articles.js",
+    "generate:weekly:draft": "python3 tools/script/generate-weekly-draft-from-lumina.py"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.26",
