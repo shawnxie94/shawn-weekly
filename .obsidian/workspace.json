@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2026/83.md",
+                "file": "docs/content/2026/85.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "83"
+              "title": "85"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -177,11 +178,12 @@
   },
   "active": "1b4828c12038150e",
   "lastOpenFiles": [
+    "docs/content/2024/26.md",
+    "docs/content/2026/83.md",
     "docs/content/2026/82.md",
     "docs/content/2026/81.md",
     "docs/content/2026/80.md",
     "source/template.md",
-    "docs/content/2026/83.md",
     "未命名.base",
     "docs/content/2024/30.md",
     "docs/content/2026/79.md",
