@@ -3,7 +3,7 @@
   <id>https://weekly.shawnxie.top/</id>
   <title>肖恩技术周刊</title>
   <subtitle>记录有价值的技术内容</subtitle>
-  <updated>2026-03-01T15:47:52.355Z</updated>
+  <updated>2026-03-01T15:54:19.219Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://weekly.shawnxie.top/atom.xml"/>
   <link rel="alternate" href="https://weekly.shawnxie.top/"/>
@@ -11,7 +11,7 @@
     <title type="text">肖恩技术周刊（第 84 期）：Token 粉碎机</title>
     <id>https://weekly.shawnxie.top/content/2026/84.html</id>
     <link href="https://weekly.shawnxie.top/content/2026/84.html"/>
-    <updated>2026-03-01T15:44:01.000Z</updated>
+    <updated>2026-03-01T15:53:38.000Z</updated>
     <summary type="html"><![CDATA[肖恩技术周刊（第 84 期）：Token 粉碎机 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 高强度使用了一周OpenClaw，即使用着顶尖模型（gpt-5.3-codex），但如果不对小龙虾本身进行调优，效果还是差点意思。主要表现在记不住事，执行效率差（响应慢，老是中断），token倒是消耗的飞快。 本...]]></summary>
     <content type="html"><![CDATA[肖恩技术周刊（第 84 期）：Token 粉碎机 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 高强度使用了一周OpenClaw，即使用着顶尖模型（gpt-5.3-codex），但如果不对小龙虾本身进行调优，效果还是差点意思。主要表现在记不住事，执行效率差（响应慢，老是中断），token倒是消耗的飞快。 本...]]></content>
     <published>2026-03-02T00:00:00.000Z</published>
