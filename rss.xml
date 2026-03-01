@@ -6,10 +6,20 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Feb 2026 10:03:44 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Feb 2026 10:03:44 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 15:47:52 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 15:47:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 84 期）：Token 粉碎机</title>
+      <link>https://weekly.shawnxie.top/content/2026/84.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/84.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 84 期）：Token 粉碎机</source>
+      <description>肖恩技术周刊（第 84 期）：Token 粉碎机 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 高强度使用了一周OpenClaw，即使用着顶尖模型（gpt-5.3-codex），但如果不对小龙虾本身进行调优，效果还是差点意思。主要表现在记不住事，执行效率差（响应慢，老是中断），token倒是消耗的飞快。 本...</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[肖恩技术周刊（第 84 期）：Token 粉碎机 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 高强度使用了一周OpenClaw，即使用着顶尖模型（gpt-5.3-codex），但如果不对小龙虾本身进行调优，效果还是差点意思。主要表现在记不住事，执行效率差（响应慢，老是中断），token倒是消耗的飞快。 本...]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260301232946589.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 83 期）：金句达人</title>
       <link>https://weekly.shawnxie.top/content/2026/83.html</link>
@@ -359,16 +369,6 @@
       <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 49 期）：消费主义假象 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 川美2025届毕业设计作品《祷》创作灵感： 鲍曼说：“什么是消费主义？创造你根本不需要的东西，然后让你渴望得到它。消费主义不是关于对欲望满足的承诺，而是关于为了更多欲望、激发更多欲望的承诺。”通过把古典圣母像和现代消费...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506152121965.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 48 期）：周刊一岁啦！</title>
-      <link>https://weekly.shawnxie.top/content/2025/48.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/48.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 48 期）：周刊一岁啦！</source>
-      <description>肖恩技术周刊（第 48 期）：周刊一岁啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去年6月8日发布了周刊第一期，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写作...</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[肖恩技术周刊（第 48 期）：周刊一岁啦！ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去年6月8日发布了周刊第一期，感觉一晃一年就过去了。除了今年四月实在忙不过来断更了几期，整体上还算坚持的不错。写周刊给我带来了大量的收获，不仅能掌握业界时事和发展动态，扩展技术视野，同时写周刊也能强迫自己思考，锻炼写作...]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506082247765.png" type="image/png"/>
     </item>
   </channel>
 </rss>
