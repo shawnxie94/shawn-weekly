@@ -6,8 +6,8 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Mar 2026 01:29:00 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 01:29:00 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 15:20:01 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2026 15:20:01 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -19,6 +19,16 @@
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 84 期）：Token 粉碎机 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 高强度使用了一周OpenClaw，即使用着顶尖模型（gpt-5.3-codex），但如果不对小龙虾本身进行调优，效果还是差点意思。主要表现在记不住事，执行效率差（响应慢，老是中断），token倒是消耗的飞快。 本...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260301232946589.png" type="image/png"/>
+    </item>
+    <item>
+      <title>肖恩技术周刊（第 85 期）：卖铲子的先富了</title>
+      <link>https://weekly.shawnxie.top/content/2026/85.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/85.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 85 期）：卖铲子的先富了</source>
+      <description>肖恩技术周刊（第 85 期）：卖铲子的先富了 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去西昌玩了一周，因此鸽了一期。西昌真是个好地方，天气好、风景美、美食多，更关键的是非常适合遛娃，推荐大家去玩。 这两周的热点依然是OpenClaw，但从信息源内容来看，多数讨论仍集中在安装和工具本身。国内各大厂也陆续...</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[肖恩技术周刊（第 85 期）：卖铲子的先富了 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 去西昌玩了一周，因此鸽了一期。西昌真是个好地方，天气好、风景美、美食多，更关键的是非常适合遛娃，推荐大家去玩。 这两周的热点依然是OpenClaw，但从信息源内容来看，多数讨论仍集中在安装和工具本身。国内各大厂也陆续...]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260315225903509.png" type="image/png"/>
     </item>
     <item>
       <title>肖恩技术周刊（第 83 期）：金句达人</title>
@@ -359,16 +369,6 @@
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 50 期）：警惕胶水工作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 胶水工作指那些通常不那么光鲜亮丽，但对于维持团队或项目顺利运转至关重要的任务。它是幕后工作，能助力他人取得成功，比如整理文档、确保沟通顺畅、新员工入职指引以及处理技术债务等。尽管衔接性工作很有价值，但常常被低估，如果不...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506222133782.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 49 期）：消费主义假象</title>
-      <link>https://weekly.shawnxie.top/content/2025/49.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/49.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 49 期）：消费主义假象</source>
-      <description>肖恩技术周刊（第 49 期）：消费主义假象 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 川美2025届毕业设计作品《祷》创作灵感： 鲍曼说：“什么是消费主义？创造你根本不需要的东西，然后让你渴望得到它。消费主义不是关于对欲望满足的承诺，而是关于为了更多欲望、激发更多欲望的承诺。”通过把古典圣母像和现代消费...</description>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[肖恩技术周刊（第 49 期）：消费主义假象 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 川美2025届毕业设计作品《祷》创作灵感： 鲍曼说：“什么是消费主义？创造你根本不需要的东西，然后让你渴望得到它。消费主义不是关于对欲望满足的承诺，而是关于为了更多欲望、激发更多欲望的承诺。”通过把古典圣母像和现代消费...]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506152121965.png" type="image/png"/>
     </item>
   </channel>
 </rss>
