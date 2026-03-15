@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2026/84.md",
+                "file": "docs/content/2026/85.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "84"
+              "title": "85"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -178,6 +177,9 @@
   },
   "active": "1b4828c12038150e",
   "lastOpenFiles": [
+    "docs/content/2026/image.png",
+    "docs/content/2026/85.md",
+    "docs/content/2026/84.md",
     "docs/content/2024/26.md",
     "docs/content/2026/83.md",
     "docs/content/2026/82.md",
@@ -204,9 +206,6 @@
     "README.md",
     "docs/content/2025/71.md",
     "docs/content/2025/70.md",
-    "docs/content/2025/69.md",
-    "docs/content/2025/68.md",
-    "docs/content/2025/67.md",
     "未命名 1.base",
     "landiannews.com/archives",
     "landiannews.com",
@@ -224,7 +223,6 @@
     "未命名.canvas",
     "docs/content/picture/WechatIMG182.jpg",
     "docs/content/picture/intro-w25.png",
-    "docs/content/picture/WechatIMG65.jpg",
     "未命名 1.canvas"
   ]
 }
