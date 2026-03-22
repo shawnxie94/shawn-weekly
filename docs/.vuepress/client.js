@@ -1,6 +1,7 @@
 import { defineClientConfig, onContentUpdated } from 'vuepress/client'
 import { onMounted } from 'vue'
 import RecentArticles from './components/RecentArticles.vue'
+import WeeklyLayout from './components/WeeklyLayout.vue'
 
 const UMAMI_SCRIPT_SRC = 'https://cloud.umami.is/script.js'
 const UMAMI_WEBSITE_ID = '3b366c06-d035-411e-a013-8efbabbdad43'
@@ -67,6 +68,9 @@ function bindImageFallback() {
 export default defineClientConfig({
   enhance({ app }) {
     app.component('RecentArticles', RecentArticles)
+  },
+  layouts: {
+    Layout: WeeklyLayout,
   },
   setup() {
     onMounted(() => {
