@@ -3,10 +3,19 @@
   <id>https://weekly.shawnxie.top/</id>
   <title>肖恩技术周刊</title>
   <subtitle>记录有价值的技术内容</subtitle>
-  <updated>2026-03-15T15:20:01.877Z</updated>
+  <updated>2026-03-22T16:47:59.909Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://weekly.shawnxie.top/atom.xml"/>
   <link rel="alternate" href="https://weekly.shawnxie.top/"/>
+  <entry>
+    <title type="text">肖恩技术周刊（第 86 期）：思路打开</title>
+    <id>https://weekly.shawnxie.top/content/2026/86.html</id>
+    <link href="https://weekly.shawnxie.top/content/2026/86.html"/>
+    <updated>2026-03-22T16:47:11.000Z</updated>
+    <summary type="html"><![CDATA[肖恩技术周刊（第 86 期）：思路打开 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周将自己关于"信息处理"的实践整理了一篇博客 信息过载时代，我的漏斗式阅读工作流，并投稿了阮一峰的《科技爱好者周刊》，有幸得到了推荐。 第一次被大V转载，效果确实很震撼，博客访问量大幅增长，就连公众号也增加了不少粉丝。 ...]]></summary>
+    <content type="html"><![CDATA[肖恩技术周刊（第 86 期）：思路打开 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周将自己关于"信息处理"的实践整理了一篇博客 信息过载时代，我的漏斗式阅读工作流，并投稿了阮一峰的《科技爱好者周刊》，有幸得到了推荐。 第一次被大V转载，效果确实很震撼，博客访问量大幅增长，就连公众号也增加了不少粉丝。 ...]]></content>
+    <published>2026-03-23T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">肖恩技术周刊（第 84 期）：Token 粉碎机</title>
     <id>https://weekly.shawnxie.top/content/2026/84.html</id>
@@ -321,14 +330,5 @@
     <summary type="html"><![CDATA[肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 浏览器请求头中的 User-Agent 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其 ...]]></summary>
     <content type="html"><![CDATA[肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 浏览器请求头中的 User-Agent 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其 ...]]></content>
     <published>2025-06-30T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">肖恩技术周刊（第 50 期）：警惕胶水工作</title>
-    <id>https://weekly.shawnxie.top/content/2025/50.html</id>
-    <link href="https://weekly.shawnxie.top/content/2025/50.html"/>
-    <updated>2026-01-18T15:29:57.000Z</updated>
-    <summary type="html"><![CDATA[肖恩技术周刊（第 50 期）：警惕胶水工作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 胶水工作指那些通常不那么光鲜亮丽，但对于维持团队或项目顺利运转至关重要的任务。它是幕后工作，能助力他人取得成功，比如整理文档、确保沟通顺畅、新员工入职指引以及处理技术债务等。尽管衔接性工作很有价值，但常常被低估，如果不...]]></summary>
-    <content type="html"><![CDATA[肖恩技术周刊（第 50 期）：警惕胶水工作 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 胶水工作指那些通常不那么光鲜亮丽，但对于维持团队或项目顺利运转至关重要的任务。它是幕后工作，能助力他人取得成功，比如整理文档、确保沟通顺畅、新员工入职指引以及处理技术债务等。尽管衔接性工作很有价值，但常常被低估，如果不...]]></content>
-    <published>2025-06-23T00:00:00.000Z</published>
   </entry>
 </feed>
