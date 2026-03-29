@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/content/2026/86.md",
+                "file": "docs/content/2026/87.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "86"
+              "title": "87"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -178,8 +179,11 @@
   },
   "active": "1b4828c12038150e",
   "lastOpenFiles": [
-    "docs/content/2026/85.md",
     "docs/content/2026/86.md",
+    "docs/content/2026/87.md",
+    "未命名.base",
+    "source/template.md",
+    "docs/content/2026/85.md",
     "docs/content/2026/image.png",
     "docs/content/2026/84.md",
     "docs/content/2024/26.md",
@@ -187,8 +191,6 @@
     "docs/content/2026/82.md",
     "docs/content/2026/81.md",
     "docs/content/2026/80.md",
-    "source/template.md",
-    "未命名.base",
     "docs/content/2024/30.md",
     "docs/content/2026/79.md",
     "docs/content/2024/4.md",
@@ -206,8 +208,6 @@
     "docs/content/2025/73.md",
     "docs/content/2025/72.md",
     "README.md",
-    "docs/content/2025/71.md",
-    "docs/content/2025/70.md",
     "未命名 1.base",
     "landiannews.com/archives",
     "landiannews.com",
