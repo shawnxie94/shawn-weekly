@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "a90bf4c0fdb7c687",
@@ -179,12 +178,13 @@
   },
   "active": "1b4828c12038150e",
   "lastOpenFiles": [
-    "docs/content/2026/86.md",
+    "docs/content/2026/image-1.png",
     "docs/content/2026/87.md",
+    "docs/content/2026/image.png",
+    "docs/content/2026/86.md",
     "未命名.base",
     "source/template.md",
     "docs/content/2026/85.md",
-    "docs/content/2026/image.png",
     "docs/content/2026/84.md",
     "docs/content/2024/26.md",
     "docs/content/2026/83.md",
