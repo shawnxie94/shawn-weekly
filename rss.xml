@@ -6,10 +6,20 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Mar 2026 16:47:59 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 16:47:59 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 14:20:56 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 14:20:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 87 期）：全球青少年社交媒体禁令</title>
+      <link>https://weekly.shawnxie.top/content/2026/87.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/87.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 87 期）：全球青少年社交媒体禁令</source>
+      <description>肖恩技术周刊（第 87 期）：全球青少年社交媒体禁令 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 全球关于青少年社交媒体禁令浪潮正在蔓延： 澳大利亚：2025年12月起禁止16岁以下儿童在TikTok、Instagram、Snapchat、YouTube、Facebook/Threads、X、Reddit...</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[肖恩技术周刊（第 87 期）：全球青少年社交媒体禁令 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 全球关于青少年社交媒体禁令浪潮正在蔓延： 澳大利亚：2025年12月起禁止16岁以下儿童在TikTok、Instagram、Snapchat、YouTube、Facebook/Threads、X、Reddit...]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20260329203826981.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 86 期）：思路打开</title>
       <link>https://weekly.shawnxie.top/content/2026/86.html</link>
@@ -359,16 +369,6 @@
       <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 52 期）：魔数0x5f3759df 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周开始重看《左耳听风》。上次阅读都是5年前了，那时刚开始工作，太多内容读不懂。这次感觉好很多，能快速get到不少重点，看来这五年没白过。想想左耳朵耗子去世都两年了，他18年写的内容在当前来看还十分有价值，...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507062323231.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？</title>
-      <link>https://weekly.shawnxie.top/content/2025/51.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/51.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？</source>
-      <description>肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 浏览器请求头中的 User-Agent 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其 ...</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[肖恩技术周刊（第 51 期）：为何浏览器请求头User-Agent均以Mozilla开头？ 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 浏览器请求头中的 User-Agent 字段之所以均以“Mozilla”开头，主要是出于历史和兼容性的原因。早期 Netscape Navigator 是主流浏览器，其 ...]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202506292313238.png" type="image/png"/>
     </item>
   </channel>
 </rss>
