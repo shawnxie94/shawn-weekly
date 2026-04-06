@@ -3,10 +3,19 @@
   <id>https://weekly.shawnxie.top/</id>
   <title>肖恩技术周刊</title>
   <subtitle>记录有价值的技术内容</subtitle>
-  <updated>2026-03-29T14:47:29.929Z</updated>
+  <updated>2026-04-06T13:48:18.956Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://weekly.shawnxie.top/atom.xml"/>
   <link rel="alternate" href="https://weekly.shawnxie.top/"/>
+  <entry>
+    <title type="text">肖恩技术周刊（第 88 期）：无头软件（Headless Software）</title>
+    <id>https://weekly.shawnxie.top/content/2026/88.html</id>
+    <link href="https://weekly.shawnxie.top/content/2026/88.html"/>
+    <updated>2026-04-06T13:47:34.000Z</updated>
+    <summary type="html"><![CDATA[肖恩技术周刊（第 88 期）：无头软件（Headless Software） 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 AI Agent时代，人机交互正经历根本性重构。传统GUI界面信息冗余、逻辑割裂，已成为机器协作的阻碍。在新范式下，人类积累的经验、流程与应用被解耦为模型友好的MCP、Skill、CL...]]></summary>
+    <content type="html"><![CDATA[肖恩技术周刊（第 88 期）：无头软件（Headless Software） 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 AI Agent时代，人机交互正经历根本性重构。传统GUI界面信息冗余、逻辑割裂，已成为机器协作的阻碍。在新范式下，人类积累的经验、流程与应用被解耦为模型友好的MCP、Skill、CL...]]></content>
+    <published>2026-04-06T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">肖恩技术周刊（第 87 期）：青少年社交媒体禁令</title>
     <id>https://weekly.shawnxie.top/content/2026/87.html</id>
@@ -321,14 +330,5 @@
     <summary type="html"><![CDATA[肖恩技术周刊（第 53 期）：编程的本质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 编程的本质包括逻辑(Logic)、控制(Control)和数据(Data)。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，有效地分离Logic、Contr...]]></summary>
     <content type="html"><![CDATA[肖恩技术周刊（第 53 期）：编程的本质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 编程的本质包括逻辑(Logic)、控制(Control)和数据(Data)。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，有效地分离Logic、Contr...]]></content>
     <published>2025-07-14T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">肖恩技术周刊（第 52 期）：魔数0x5f3759df</title>
-    <id>https://weekly.shawnxie.top/content/2025/52.html</id>
-    <link href="https://weekly.shawnxie.top/content/2025/52.html"/>
-    <updated>2026-01-18T15:29:57.000Z</updated>
-    <summary type="html"><![CDATA[肖恩技术周刊（第 52 期）：魔数0x5f3759df 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周开始重看《左耳听风》。上次阅读都是5年前了，那时刚开始工作，太多内容读不懂。这次感觉好很多，能快速get到不少重点，看来这五年没白过。想想左耳朵耗子去世都两年了，他18年写的内容在当前来看还十分有价值，...]]></summary>
-    <content type="html"><![CDATA[肖恩技术周刊（第 52 期）：魔数0x5f3759df 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 本周开始重看《左耳听风》。上次阅读都是5年前了，那时刚开始工作，太多内容读不懂。这次感觉好很多，能快速get到不少重点，看来这五年没白过。想想左耳朵耗子去世都两年了，他18年写的内容在当前来看还十分有价值，...]]></content>
-    <published>2025-07-07T00:00:00.000Z</published>
   </entry>
 </feed>
