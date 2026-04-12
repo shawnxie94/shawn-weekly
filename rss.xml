@@ -6,10 +6,20 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 13:48:18 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 13:48:18 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Apr 2026 15:57:09 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Apr 2026 15:57:09 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>肖恩技术周刊（第 89 期）：AI算法放大就业不公</title>
+      <link>https://weekly.shawnxie.top/content/2026/89.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/89.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 89 期）：AI算法放大就业不公</source>
+      <description>肖恩技术周刊（第 89 期）：AI算法放大就业不公 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 肖恩技术周刊89：AI算法放大就业不公肖恩技术周刊89：AI算法放大就业不公 在AI招聘工具普及的今天，许多企业相信算法能带来高效客观的筛选，99%的世界500强公司已在使用AI辅助招聘。但事实上，AI非但未消...</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[肖恩技术周刊（第 89 期）：AI算法放大就业不公 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 肖恩技术周刊89：AI算法放大就业不公肖恩技术周刊89：AI算法放大就业不公 在AI招聘工具普及的今天，许多企业相信算法能带来高效客观的筛选，99%的世界500强公司已在使用AI辅助招聘。但事实上，AI非但未消...]]></content:encoded>
+      <enclosure url="https://lumina.shawnxie.top/backend/media/2026/04/1572fa164699435a88bcdfbd849f431d.png" type="image/png"/>
+    </item>
     <item>
       <title>肖恩技术周刊（第 88 期）：无头软件（Headless Software）</title>
       <link>https://weekly.shawnxie.top/content/2026/88.html</link>
@@ -359,16 +369,6 @@
       <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 54 期）：芯片简史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 最近在读《芯片简史》，非常推荐！全书用 60 余年芯片进化的大叙事，串起科学原理、工程狂想、商业暗战与人性挣扎，既是一本技术史，也是一份数字时代的生存指南。 业界资讯 OpenAI发布ChatGPT agent 7 月 1...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507202322131.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 53 期）：编程的本质</title>
-      <link>https://weekly.shawnxie.top/content/2025/53.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/53.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 53 期）：编程的本质</source>
-      <description>肖恩技术周刊（第 53 期）：编程的本质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 编程的本质包括逻辑(Logic)、控制(Control)和数据(Data)。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，有效地分离Logic、Contr...</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[肖恩技术周刊（第 53 期）：编程的本质 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 编程的本质包括逻辑(Logic)、控制(Control)和数据(Data)。逻辑是问题的本质，控制是解决问题的策略，数据是问题的表现形式。编程范式和程序设计方法主要围绕这三方面工作，因此，有效地分离Logic、Contr...]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507132324107.png" type="image/png"/>
     </item>
   </channel>
 </rss>
