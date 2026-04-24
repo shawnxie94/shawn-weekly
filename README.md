@@ -1,28 +1,24 @@
 # shawn-weekly
-## 周刊说明
-- **周刊内容**: 对一周内阅读的资讯或技术内容精品（个人向）进行总结，分类大致包含“业界资讯”、“技术博客”、“开源项目”和“学习资源”等。<br>
-- **更新时间**: 周一<br>
 
-## 往期内容
-网页阅读推荐点击[shawn-weekly](https://weekly.shawnxie.top)，获得更好阅读体验。
+> 仓库已归档：肖恩技术周刊已迁移至 [Lumina 回顾](https://lumina.shawnxie.top/reviews)，本仓库和旧站后续不再更新。
 
-![](https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202412302324792.png)
+## 迁移说明
 
-## 订阅方式
-避免错过每期内容，可通过公众号订阅：
-- 肖恩聊技术： [技术周刊合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3492416248238096386#wechat_redirect) 
+肖恩技术周刊后续内容统一发布在 Lumina：
 
-<img src="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/20241103221454.png" alt="公众号二维码" width="400">
+- 查看新内容：[https://lumina.shawnxie.top/reviews](https://lumina.shawnxie.top/reviews)
+- RSS 订阅：[https://lumina.shawnxie.top/feed/reviews/rss.xml](https://lumina.shawnxie.top/feed/reviews/rss.xml)
 
-## 信息源
-👉🏻 [阅读信息源](./source/ReadSource.opml) 👈🏻
+旧站 [weekly.shawnxie.top](https://weekly.shawnxie.top) 将作为历史归档保留，方便回看过往周刊内容。
 
-汇总100+ RSS订阅源，涵盖了行业资讯、技术周刊和各大互联网公司的技术博客等内容！
+## 历史内容
 
-## 贡献
-如果您有私藏的资源可以分享给大家，欢迎以**Issue**方式推荐。
+本仓库保留 2024-2026 年间的周刊文章、年度总结和信息源文件，主要用于历史查阅：
 
-License
----
+- 周刊文章：[`docs/content`](./docs/content)
+- 年度总结：[`docs/collection`](./docs/collection)
+- 阅读信息源：[`source/ReadSource.opml`](./source/ReadSource.opml)
 
-This code is distributed under the MIT license. See `LICENSE` in this directory.
+## License
+
+This code is distributed under the MIT license. See [`LICENSE`](./LICENSE) in this directory.

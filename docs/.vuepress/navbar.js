@@ -12,7 +12,7 @@ export const navbar = [
     link: 'https://shawnxie.top/',
   },
   {
-    text: '订阅',
-    link: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3492416248238096386#wechat_redirect',
+    text: 'Lumina 回顾',
+    link: 'https://lumina.shawnxie.top/reviews',
   },
 ]

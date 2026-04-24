@@ -14,6 +14,16 @@ const getPageTitle = (filePath) => {
   return title;
 };
 
+const getIssueNumber = (item) => {
+  const titleMatch = item.text.match(/第 (\d+) 期/);
+  if (titleMatch) return parseInt(titleMatch[1], 10);
+
+  const linkMatch = item.link.match(/^(\d+)\.md$/);
+  if (linkMatch) return parseInt(linkMatch[1], 10);
+
+  return Number.POSITIVE_INFINITY;
+};
+
 export const getContentSidebar = () => {
   const contentDir = path.resolve(__dirname, '../../content');
   const sidebar = [];
@@ -36,9 +46,7 @@ export const getContentSidebar = () => {
     });
     
     yearSidebar.children.sort((a, b) => {
-      const numA = parseInt(a.text.match(/第 (\d+) 期/)[1], 10);
-      const numB = parseInt(b.text.match(/第 (\d+) 期/)[1], 10);
-      return numB - numA;
+      return getIssueNumber(b) - getIssueNumber(a);
     });
     
     sidebar.push(yearSidebar);

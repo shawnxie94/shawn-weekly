@@ -2,23 +2,22 @@
 home: true
 heroImage: https://cdn.jsdelivr.net/gh/shawnxie94/images/images/image-sjql.png
 heroText: 肖恩技术周刊
+tagline: 周刊已迁移至 Lumina 回顾，本站后续不再更新
 actions:
-  - text: 新一期
-    link: /content/2026/82.html
+  - text: 前往 Lumina 回顾
+    link: https://lumina.shawnxie.top/reviews
     type: primary
-  - text: 总结
+  - text: 查看历史总结
     link: /collection/2025.html
     type: secondary
-  - text: 订阅
-    link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwODY0ODQzOQ==&action=getalbum&album_id=3492416248238096386#wechat_redirect
+  - text: 历史文章
+    link: /content/2026/migration.html
     type: secondary
 features:
-  - title: 内容丰富
-    details: 从 130+ RSS订阅源中精心挑选
-  - title: 每周更新
-    details: 每周一 8:30 不见不散
-  - title: 订阅推送
-    details: 支持订阅，不错过每期精彩！
+  - title: 已迁移至 Lumina
+    details: 后续回顾内容统一发布在 Lumina 回顾中
+  - title: 本站停止更新
+    details: 当前站点作为历史归档保留，不再发布新一期周刊
+  - title: 推荐新站订阅
+    details: 请前往 Lumina 回顾查看最新内容并订阅后续更新
 ---
-
-<RecentArticles />

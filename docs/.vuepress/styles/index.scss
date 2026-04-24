@@ -42,7 +42,7 @@ pre {
 }
 
 .weekly-closing-card__content,
-.weekly-closing-card__qr-panel {
+.weekly-closing-card__links {
   position: relative;
   z-index: 1;
 }
@@ -93,51 +93,52 @@ pre {
   margin-top: 0.22rem;
 }
 
-.weekly-closing-card__qr-panel {
+.weekly-closing-card__links {
   display: flex;
   flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0.58rem;
+}
+
+.weekly-closing-card__links a {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 0.32rem;
-  padding: 0.5rem 0.5rem 0.4rem;
+  width: 100%;
+  min-height: 2.42rem;
+  padding: 0.58rem 0.82rem;
   border: 1px solid rgba(180, 196, 221, 0.7);
-  border-radius: 12px;
+  border-radius: 999px;
   background: rgba(255, 255, 255, 0.72);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  color: #2f5f91;
+  font-size: 0.84rem;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
   text-decoration: none;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
   transition:
     transform 0.28s ease,
     box-shadow 0.28s ease,
-    border-color 0.28s ease;
+    border-color 0.28s ease,
+    color 0.28s ease;
 }
 
-.weekly-closing-card__qr-panel:hover {
+.weekly-closing-card__links a:first-child {
+  background: linear-gradient(135deg, #46bd87, #2d8fd6);
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 10px 20px rgba(52, 151, 165, 0.18);
+}
+
+.weekly-closing-card__links a:hover {
   transform: translateY(-2px);
   border-color: rgba(126, 155, 196, 0.9);
   box-shadow:
     0 10px 20px rgba(86, 108, 141, 0.08),
     inset 0 1px 0 rgba(255, 255, 255, 0.95);
-}
-
-.weekly-closing-card__qr-frame {
-  width: min(100%, 154px);
-  padding: 0.34rem;
-  border-radius: 12px;
-  background: rgba(255, 255, 255, 0.96);
-  box-shadow: 0 6px 14px rgba(86, 108, 141, 0.06);
-}
-
-.weekly-closing-card__qr-image {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-.weekly-closing-card__caption {
-  margin: 0;
-  color: rgba(83, 104, 136, 0.96);
-  font-size: 0.72rem;
 }
 
 html[data-theme='dark'] .weekly-closing-card {
@@ -150,8 +151,7 @@ html[data-theme='dark'] .weekly-closing-card {
     inset 0 1px 0 rgba(255, 255, 255, 0.03);
 }
 
-html[data-theme='dark'] .weekly-closing-card__eyebrow,
-html[data-theme='dark'] .weekly-closing-card__caption {
+html[data-theme='dark'] .weekly-closing-card__eyebrow {
   color: rgba(185, 202, 229, 0.8);
 }
 
@@ -167,21 +167,23 @@ html[data-theme='dark'] .weekly-closing-card__description {
   color: rgba(201, 215, 238, 0.88);
 }
 
-html[data-theme='dark'] .weekly-closing-card__qr-panel {
+html[data-theme='dark'] .weekly-closing-card__links a {
   border-color: rgba(86, 108, 141, 0.45);
   background: rgba(23, 31, 45, 0.7);
+  color: rgba(201, 215, 238, 0.92);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
 }
 
-html[data-theme='dark'] .weekly-closing-card__qr-panel:hover {
+html[data-theme='dark'] .weekly-closing-card__links a:first-child {
+  background: linear-gradient(135deg, #37a876, #287bb9);
+  color: #fff;
+}
+
+html[data-theme='dark'] .weekly-closing-card__links a:hover {
   border-color: rgba(126, 155, 196, 0.72);
   box-shadow:
     0 10px 20px rgba(0, 0, 0, 0.22),
     inset 0 1px 0 rgba(255, 255, 255, 0.05);
-}
-
-html[data-theme='dark'] .weekly-closing-card__qr-frame {
-  background: rgba(248, 250, 255, 0.98);
 }
 
 @media (max-width: 959px) {
@@ -206,7 +208,12 @@ html[data-theme='dark'] .weekly-closing-card__qr-frame {
     line-height: 1.42;
   }
 
-  .weekly-closing-card__qr-panel {
-    padding: 0.48rem 0.46rem 0.38rem;
+  .weekly-closing-card__links {
+    gap: 0.44rem;
+  }
+
+  .weekly-closing-card__links a {
+    min-height: 2.28rem;
+    font-size: 0.8rem;
   }
 }
