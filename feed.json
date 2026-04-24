@@ -6,6 +6,17 @@
   "description": "记录有价值的技术内容",
   "items": [
     {
+      "title": "迁移公告",
+      "url": "https://weekly.shawnxie.top/content/2026/migration.html",
+      "id": "https://weekly.shawnxie.top/content/2026/migration.html",
+      "summary": "迁移公告 肖恩技术周刊正式迁移到 Lumina 回顾。 后续不再继续更新当前站点，站点会作为历史归档保留，方便回看过往内容。 新的查看与订阅地址如下： Lumina 回顾：https://lumina.shawnxie.top/reviews RSS 订阅：https://lumina.shawnxie.top/feed/reviews/rss.xml...",
+      "content_html": "迁移公告 肖恩技术周刊正式迁移到 Lumina 回顾。 后续不再继续更新当前站点，站点会作为历史归档保留，方便回看过往内容。 新的查看与订阅地址如下： Lumina 回顾：https://lumina.shawnxie.top/reviews RSS 订阅：https://lumina.shawnxie.top/feed/reviews/rss.xml...",
+      "date_published": "2026-04-24T00:00:00.000Z",
+      "date_modified": "2026-04-24T11:44:20.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "肖恩技术周刊（第 90 期）：过程即护城河",
       "url": "https://weekly.shawnxie.top/content/2026/90.html",
       "id": "https://weekly.shawnxie.top/content/2026/90.html",
@@ -421,18 +432,6 @@
       "content_html": "肖恩技术周刊（第 56 期）：坎宁安定律 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 坎宁安定律指：在互联网上得到优秀答案的最佳方法不是去提问，而是发布一个错误或者负面的答案。这个概念由 Wikipedia 之父沃德·坎宁安提出。 例如你在网上提问某个城市有哪些好玩的地方，也许不会有太多人响应你。但如果你...",
       "image": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508032253002.png",
       "date_published": "2025-08-04T00:00:00.000Z",
-      "date_modified": "2026-01-18T15:29:57.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "肖恩技术周刊（第 55 期）：手机发展史",
-      "url": "https://weekly.shawnxie.top/content/2025/55.html",
-      "id": "https://weekly.shawnxie.top/content/2025/55.html",
-      "summary": "肖恩技术周刊（第 55 期）：手机发展史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，当...",
-      "content_html": "肖恩技术周刊（第 55 期）：手机发展史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，当...",
-      "image": "https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507272314799.png",
-      "date_published": "2025-07-28T00:00:00.000Z",
       "date_modified": "2026-01-18T15:29:57.000Z",
       "authors": [],
       "tags": []

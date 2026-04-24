@@ -6,10 +6,19 @@
     <link>https://weekly.shawnxie.top/</link>
     <description>记录有价值的技术内容</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 07:54:43 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 07:54:43 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 11:45:05 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:45:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>迁移公告</title>
+      <link>https://weekly.shawnxie.top/content/2026/migration.html</link>
+      <guid>https://weekly.shawnxie.top/content/2026/migration.html</guid>
+      <source url="https://weekly.shawnxie.top/rss.xml">迁移公告</source>
+      <description>迁移公告 肖恩技术周刊正式迁移到 Lumina 回顾。 后续不再继续更新当前站点，站点会作为历史归档保留，方便回看过往内容。 新的查看与订阅地址如下： Lumina 回顾：https://lumina.shawnxie.top/reviews RSS 订阅：https://lumina.shawnxie.top/feed/reviews/rss.xml...</description>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[迁移公告 肖恩技术周刊正式迁移到 Lumina 回顾。 后续不再继续更新当前站点，站点会作为历史归档保留，方便回看过往内容。 新的查看与订阅地址如下： Lumina 回顾：https://lumina.shawnxie.top/reviews RSS 订阅：https://lumina.shawnxie.top/feed/reviews/rss.xml...]]></content:encoded>
+    </item>
     <item>
       <title>肖恩技术周刊（第 90 期）：过程即护城河</title>
       <link>https://weekly.shawnxie.top/content/2026/90.html</link>
@@ -359,16 +368,6 @@
       <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[肖恩技术周刊（第 56 期）：坎宁安定律 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 坎宁安定律指：在互联网上得到优秀答案的最佳方法不是去提问，而是发布一个错误或者负面的答案。这个概念由 Wikipedia 之父沃德·坎宁安提出。 例如你在网上提问某个城市有哪些好玩的地方，也许不会有太多人响应你。但如果你...]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202508032253002.png" type="image/png"/>
-    </item>
-    <item>
-      <title>肖恩技术周刊（第 55 期）：手机发展史</title>
-      <link>https://weekly.shawnxie.top/content/2025/55.html</link>
-      <guid>https://weekly.shawnxie.top/content/2025/55.html</guid>
-      <source url="https://weekly.shawnxie.top/rss.xml">肖恩技术周刊（第 55 期）：手机发展史</source>
-      <description>肖恩技术周刊（第 55 期）：手机发展史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，当...</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[肖恩技术周刊（第 55 期）：手机发展史 对周内阅读的技术内容精品（个人向）进行总结。觉得不错可点击上方订阅，第一时间获取更新通知。 从早期的摩托罗拉等有独特设计的手机到如今的智能手机，显示屏越来越大，逐渐吞噬了边框、前置扬声器、键盘和主页按钮。虽然通过显示屏上打孔实现前置摄像头的保留，但像耳机插孔、红外发射器、可更换外壳、可拆卸电池等特性都已消失，当...]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/shawnxie94/images/images/202507272314799.png" type="image/png"/>
     </item>
   </channel>
 </rss>
